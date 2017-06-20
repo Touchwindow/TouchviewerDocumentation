@@ -5,6 +5,7 @@
 [Material for MkDocs](http://squidfunk.github.io/mkdocs-material/)
 
 #### Deploy
+Add "site" folder in .gitignore<br>
 git add site -f && git commit -m "init subtree"<br>
 git subtree push --prefix site origin gh-pages
 
