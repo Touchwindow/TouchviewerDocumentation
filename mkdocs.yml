@@ -1,2 +1,54 @@
-site_name: Touchviewer documentation
+# Project information
+site_name: 'Touchviewer documentation'
+site_description: 'Touchviewer documentation'
+site_url: 'http://support-test.touchviewer.net/'
+
+
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Touchwindow s.r.l.'
+
+# Documentation and theme
 theme: 'material'
+
+# Options
+extra:
+  palette:
+    primary: 'grey'
+    accent: 'light blue'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - toc(permalink=true)
+# Pages
+pages:
+  - Welcome: index.md
+  - Italiano:
+    - Overview: it/overview.md
+    - Requisiti: it/requirements.md
+    - Installazione: it/installation.md
+    - Primo avvio: it/first-boot.md
+    - Media Manager:
+      - Workspace: it/media-manager/workspace.md
+      - Impostazioni: it/media-manager/settings.md
+      - Archivi: it/media-manager/archive.md
+      - Sincronizzazione: it/media-manager/network-sync.md
+      - Impostazioni Cartelle: it/media-manager/folder-setting.md
+      - Impostazioni Contenuti: it/media-manager/content-setting.md
+      - Contenuti:
+        - Cartelle : it/media-manager/contents/folder.md
+        - Foto : it/media-manager/contents/image.md
+        - Video : it/media-manager/contents/video.md
+        - PDF/Docs : it/media-manager/contents/pdf.md
+        - Lista Immagini : it/media-manager/contents/image-list.md
+        - Lista Video : it/media-manager/contents/video-list.md
+        - Web Browser : it/media-manager/contents/web-browser.md
+        - Mappa Interattiva: it/media-manager/contents/interactive-map.md
+        - Ingresso Video : it/media-manager/contents/video-input.md
+        - Streaming Video : it/media-manager/contents/video-streaming.md
+    - Media Presenter:
+      - Workspace:
+        - Singolo Utente: it/media-presenter/workspace/single-user.md
+        - Multiutenza: it/media-presenter/workspace/multi-user.md
+        - Content Sharing: it/media-presenter/workspace/content-sharing.md
