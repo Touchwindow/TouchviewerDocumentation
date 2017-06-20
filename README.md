@@ -6,10 +6,13 @@
 
 #### Deploy
 Add "site" folder in .gitignore<br>
-git add site -f && git commit -m "init subtree"<br>
-git subtree push --prefix site origin gh-pages
+* `git add site -f && git commit -m "init subtree"`<br>
+* `git subtree push --prefix site origin gh-pages`<br>
+Remember to add CNAME file<br>
 
 ###### Shortcuts
-[alias]<br>
-deploy = subtree push --prefix site origin gh-pages<br><br>
-git deploy
+Add in .git->config<br>
+* `[alias]<br>
+deploy = subtree push --prefix site origin gh-pages`<br><br>
+To use<br>
+* `git deploy`
