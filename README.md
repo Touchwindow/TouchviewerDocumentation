@@ -8,11 +8,10 @@
 Add "site" folder in .gitignore<br>
 * `git add site -f && git commit -m "init subtree"`<br>
 * `git subtree push --prefix site origin gh-pages`<br>
-Remember to add CNAME file<br>
 
-###### Shortcuts
+#### Shortcut
 Add in .git->config<br>
 * `[alias]<br>
-deploy = subtree push --prefix site origin gh-pages`<br><br>
+deploy = subtree push --prefix site origin gh-pages`<br>
 To use<br>
 * `git deploy`

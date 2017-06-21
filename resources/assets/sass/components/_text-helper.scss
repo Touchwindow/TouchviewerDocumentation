@@ -1,0 +1,19 @@
+.text-lightblue {
+  color: $light-blue-500;
+}
+
+.text-purple {
+  color: $purple-500;
+}
+
+.md-typeset {
+  .steps {
+    li {
+      margin-bottom: 6rem;
+    }
+
+    p {
+      margin-bottom: 2rem;
+    }
+  }
+}
