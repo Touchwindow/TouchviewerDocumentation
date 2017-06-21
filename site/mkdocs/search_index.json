@@ -42,43 +42,33 @@
         },
         {
             "location": "/it/requirements/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "REQUISITI\n\n\nHARDWARE\n\n\nRequisiti minimi\n\nProcessore: I3 di seconda generazione\n\nScheda video: HD2000, Nvidia / Ati 500Mb di memoria\n\nRam: 1GB\n\n\nRequisiti consigliati\n\nProcessore: i3 di terza generazione o superiore\n\nScheda video: HD4000, Nvidia / Ati 1GB di memoria\n\nRam: 2GB\n\n\nSOFTWARE\n\n\nSistemi Operativi\n\nWindows 7\n\nWindows 8.1\n\nWindows 10 Anniversary Edition\n\n\nLibrerie\n\nMicrosoft .NET Framework 4.5 (Installato automaticamente come prerequisito)\n\nK-lite Standard edition (Installato automaticamente come prerequisito)\n\nVLC (Per abilitare funzionalit\u00e0 streaming video - \nScarica VLC\n)",
             "title": "Requisiti"
         },
         {
-            "location": "/it/requirements/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/requirements/#requisiti",
+            "text": "",
+            "title": "REQUISITI"
         },
         {
-            "location": "/it/requirements/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/it/requirements/#hardware",
+            "text": "Requisiti minimi \nProcessore: I3 di seconda generazione \nScheda video: HD2000, Nvidia / Ati 500Mb di memoria \nRam: 1GB  Requisiti consigliati \nProcessore: i3 di terza generazione o superiore \nScheda video: HD4000, Nvidia / Ati 1GB di memoria \nRam: 2GB",
+            "title": "HARDWARE"
         },
         {
-            "location": "/it/requirements/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/requirements/#software",
+            "text": "Sistemi Operativi \nWindows 7 \nWindows 8.1 \nWindows 10 Anniversary Edition  Librerie \nMicrosoft .NET Framework 4.5 (Installato automaticamente come prerequisito) \nK-lite Standard edition (Installato automaticamente come prerequisito) \nVLC (Per abilitare funzionalit\u00e0 streaming video -  Scarica VLC )",
+            "title": "SOFTWARE"
         },
         {
             "location": "/it/installation/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "INSTALLAZIONE\n\n\n\n1. \nEstrarre il contenuto dell'archivio .zip contenetene il software\n\n\n\n\n\n\nCliccare su setup.exe\n\n\n\n\n\n\nSelezionare la lingua predefinita e premere \nOK\n\n\n\n\n\n\n\n\nSelezionare se si vuole proteggere l'accesso al Media Manager tramite inserimento di Username e Password\n (dalla versione 2.13)\n\n\n\n\n\n\n\nAccettare il contratto di licenza e premere \nAVANTI\n\n\n\n\n\n\n\n\nSelezionare la cartella d'installazione e premere \nAVANTI\n\n\n\n\n\n\n\n\nSelezionare la cartella d'installazione e premere \nINSTALLA\n\n\n\n\n\n\n\n\nInstallare i Codec Video premendo \nSI\n\n\n\n\n\n\n\n\nPremere \nNEXT\n e iniziare l'intallazione\n\n\n\n\n\n\n\n\nSelezionare \nNormal mode\n Premere \nNEXT\n e iniziare l'intallazione",
             "title": "Installazione"
         },
         {
-            "location": "/it/installation/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/installation/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/installation/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/installation/#installazione",
+            "text": "1.  Estrarre il contenuto dell'archivio .zip contenetene il software    Cliccare su setup.exe    Selezionare la lingua predefinita e premere  OK     Selezionare se si vuole proteggere l'accesso al Media Manager tramite inserimento di Username e Password  (dalla versione 2.13)    Accettare il contratto di licenza e premere  AVANTI     Selezionare la cartella d'installazione e premere  AVANTI     Selezionare la cartella d'installazione e premere  INSTALLA     Installare i Codec Video premendo  SI     Premere  NEXT  e iniziare l'intallazione     Selezionare  Normal mode  Premere  NEXT  e iniziare l'intallazione",
+            "title": "INSTALLAZIONE"
         },
         {
             "location": "/it/first-boot/",
