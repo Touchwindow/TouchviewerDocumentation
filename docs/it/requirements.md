@@ -1,6 +1,6 @@
 # REQUISITI
 
-### HARDWARE
+### Hardware
 <strong>Requisiti minimi</strong><br>
 Processore: I3 di seconda generazione<br>
 Scheda video: HD2000, Nvidia / Ati 500Mb di memoria<br>
@@ -11,7 +11,7 @@ Processore: i3 di terza generazione o superiore<br>
 Scheda video: HD4000, Nvidia / Ati 1GB di memoria<br>
 Ram: 2GB
 
-### SOFTWARE
+### Software
 <strong>Sistemi Operativi</strong><br>
 Windows 7<br>
 Windows 8.1<br>
