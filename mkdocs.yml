@@ -16,7 +16,7 @@ extra:
   palette:
     primary: 'grey'
     accent: 'light blue'
-    
+
 extra_css:
   - 'stylesheets/extra.css'
 # Extensions

@@ -1,5 +1,6 @@
 # INSTALLAZIONE
 <div class="steps">
+
 1. __Estrarre il contenuto dell'archivio .zip contenetene il software__
 
 1. __Cliccare su setup.exe__
@@ -27,4 +28,35 @@
 
 1. __Selezionare <span class="text-purple">Normal mode</span> Premere <span class="text-lightblue">NEXT</span> e iniziare l'intallazione__
 <center>![](/img/installation_8.png)</center>
+
+1. __Nel caso una versione di K-Lite sia gia stata installata premere <span class="text-lightblue">NEXT</span> e saltare al punto 19__
+<center>![](/img/installation_8_a.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_9.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_10.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_11.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_12.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_13.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_14.png)</center>
+
+1. __Premere <span class="text-lightblue">NEXT</span> e continuare__
+<center>![](/img/installation_15.png)</center>
+
+1. __Premere <span class="text-lightblue">FINISH</span> e continuare__
+<center>![](/img/installation_16.png)</center>
+
+1. __Premere <span class="text-lightblue">FINE</span>__
+<center>![](/img/installation_17.png)</center>
+
 </div>
