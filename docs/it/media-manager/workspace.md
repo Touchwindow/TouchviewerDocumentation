@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# WORKSPACE
+![](/img/mediamanager_workspace_1.png)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+L'interfaccia del Media Manager è estremamente semplice ed intuitiva e racchiude tutti gli strumenti per la personalizzazione dell'applicazione Touchviewer®.
 
-## Commands
+1. Menu secondari
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+1. Tabs per accedere alle sezioni Contenuti / Impostazioni / Sincronizzazione
 
-## Project layout
+1. Area per la selezione dell'archivio e inserimento cartelle e contenuti
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Pannello delle proprietà cartelle e contenuti
+
+1. Anteprima in tempo reale
