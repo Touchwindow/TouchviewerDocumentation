@@ -97,23 +97,13 @@
         },
         {
             "location": "/it/media-manager/workspace/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "WORKSPACE\n\n\n\n\nL'interfaccia del Media Manager \u00e8 estremamente semplice ed intuitiva e racchiude tutti gli strumenti per la personalizzazione dell'applicazione Touchviewer\u00ae.\n\n\n\n\n\n\nMenu secondari\n\n\n\n\n\n\nTabs per accedere alle sezioni Contenuti / Impostazioni / Sincronizzazione\n\n\n\n\n\n\nArea per la selezione dell'archivio e inserimento cartelle e contenuti\n\n\n\n\n\n\nPannello delle propriet\u00e0 cartelle e contenuti\n\n\n\n\n\n\nAnteprima in tempo reale",
             "title": "Workspace"
         },
         {
-            "location": "/it/media-manager/workspace/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/media-manager/workspace/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/workspace/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/workspace/#workspace",
+            "text": "L'interfaccia del Media Manager \u00e8 estremamente semplice ed intuitiva e racchiude tutti gli strumenti per la personalizzazione dell'applicazione Touchviewer\u00ae.    Menu secondari    Tabs per accedere alle sezioni Contenuti / Impostazioni / Sincronizzazione    Area per la selezione dell'archivio e inserimento cartelle e contenuti    Pannello delle propriet\u00e0 cartelle e contenuti    Anteprima in tempo reale",
+            "title": "WORKSPACE"
         },
         {
             "location": "/it/media-manager/settings/",
