@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,eAAgB,CACd,KAAK,CCmGU,OAAO,CDhGxB,YAAa,CACX,KAAK,CCmBM,OAAO,CDdhB,qBAAG,CACD,aAAa,CAAE,IAAI,CAGrB,oBAAE,CACA,aAAa,CAAE,IAAI,CAKzB,WAAW,CACT,SAAS,CAAE,MAAM",
+"mappings": "AAAA,eAAgB,CACd,KAAK,CCmGU,OAAO,CDhGxB,YAAa,CACX,KAAK,CCmBM,OAAO,CDflB,cAAG,CACD,aAAa,CAAE,YAAY,CAG7B,6BACG,CACD,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CAIV,qBAAG,CACD,aAAa,CAAE,IAAI,CAGrB,oBAAE,CACA,aAAa,CAAE,IAAI,CAKzB,WAAY,CACV,SAAS,CAAE,MAAM,CAGnB,CAAE,CACA,UAAU,CAAE,YAAY,CAG1B,EAAG,CACD,KAAK,CC8CI,OAAO",
 "sources": ["../../resources/assets/sass/components/_text-helper.scss","../../resources/assets/sass/components/_palette.scss"],
 "names": [],
 "file": "extra.css"
