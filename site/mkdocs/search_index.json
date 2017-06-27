@@ -107,23 +107,58 @@
         },
         {
             "location": "/it/media-manager/settings/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "SETTINGS\n\n\n\n\nLingua\n\n\nScelta della lingua tra \nItaliano\n e \nInglese\n del Media Manager.\n\n\nApertura\n\n\nSingola Istanza:\n Pu\u00f2 essere aperto un solo Touchviewer [default].\n\n\nIstanze Multiple:\n Possono essere aperte pi\u00f9 finestre del Touchviewer.\n\n\nStile finestra\n\n\nSenza bordi:\n Il Media Presenter si apre in modalit\u00e0 fullscreen [default].\n\n\nStandard:\n Il Media Presenter si apre in modalit\u00e0 windowed.\n\n\nDimensioni\n\n\nTutto schermo:\n Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.\n\n\nPersonalizzate:\n Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive:\n\n- \nLarghezza:\n Larghezza della finestra:\n\n- \nAltezza:\n Altezza della finestra:\n\n\nPosizione:\n Posizione in cui si deve aprire la finestra:\n\n- \nCentro:\n La finestra si aprir\u00e0 al centro dello schermo.\n\n- \nPersonalizzata:\n La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive:\n\n  - \nSinistra:\n Posizione rispetto il margine sinistro.\n\n  - \nAlto:\n Posione rispetto il margine alto.\n\n\nBackground\n\n\nColore di sfondo:\n Tinta unita che deve avere il background dello stage.\n\n\nVideo o immagine di sfondo:\n Immagine di Default da usare come background.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\nQualit\u00e0\n\n\nQualit\u00e0:\n Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.\n\n\nMouse:\n Mostra / nascondo il puntatore del mouse.\n\n\nPunti di tocco:\n Mostra / nascondo il cursore del touch.\n\n\nColore punti di tocco:\n Indica il colore con cui viene visualizzato il cursore del touch.\n\n\nDPI Documenti:\n Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.\n\n\nVideo simultanei:\n Determina il numero di video da riprodurre contemporaneamente sullo stage.\n\n\nDraw-on\n\n\nColore matita pennello:\n Imposta il colore predefinito per la funzionalit\u00e0 draw-on.\n\n\nStile:\n Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.\n\n\nDimensione tratto:\n Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.\n\n\nIncludi disegni in stampa:\n Include i disegni nella stampa dei documenti.\n\n\nImpostazioni generali\n\n\nChiave mappa di bing:\n Specificare una chiave registrata per l'utilizzo del provider Bing map.\n\n\nApertura esterna dei file:\n Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.\n\n\nFull screen:\n Abilita l'opzione per l'apertura del contenuto a schermo intero.\n\n\nEditazione:\n Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.\n\n\nStampa:\n Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.\n\n\nPreferiti:\n Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.\n\n\nInvio email da preferiti:\n Abilita la possibilit\u00e0 di condividere contenuti tramite email:\n\n- \nMittente predefinito:\n Indirizzo email predefinito per l'invio delle emal.\n\n- \nSmtp Hosting:\n Specificare il protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nUsername:\n Specificare lo Username dell'account per la condivisione di contenuti tramite email.\n\n- \nPassword:\n Specificare la Password dell'account per la condivisione di contenuti tramite email.\n\n- \nPort:\n Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nSsl:\n Specificare se l'account smtp richiede l'SSL attivo.\n\n\nAbilita ricerca:\n Viene abilitata la funzione di ricerca all'interno dell'archivio.\n\n\nAbilita rotazione magnetica:\n Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.\n\n\nApertura multipla punti informativi:\n Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.\n\n\nTema moduli:\n Definisce l'aspetto grafico dei moduli \"Preferiti\", \"Ricerca\" e \"Loading\".\n\n\nImpostazioni screensaver\n\n\nTipo:\n Abilita lo screensaver per sequenze di immagini e video.\n\n\nAttivazione:\n Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.\n\n\nTempo foto:\n Valore in secondi che determina la pausa delle foto in sequenza.\n\n\nVideo e/o immagini:\n Selezione dei file da importare nello screensaver.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento dei file rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
             "title": "Impostazioni"
         },
         {
-            "location": "/it/media-manager/settings/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/settings/#settings",
+            "text": "",
+            "title": "SETTINGS"
         },
         {
-            "location": "/it/media-manager/settings/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/it/media-manager/settings/#lingua",
+            "text": "Scelta della lingua tra  Italiano  e  Inglese  del Media Manager.",
+            "title": "Lingua"
         },
         {
-            "location": "/it/media-manager/settings/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/settings/#apertura",
+            "text": "Singola Istanza:  Pu\u00f2 essere aperto un solo Touchviewer [default].  Istanze Multiple:  Possono essere aperte pi\u00f9 finestre del Touchviewer.",
+            "title": "Apertura"
+        },
+        {
+            "location": "/it/media-manager/settings/#stile-finestra",
+            "text": "Senza bordi:  Il Media Presenter si apre in modalit\u00e0 fullscreen [default].  Standard:  Il Media Presenter si apre in modalit\u00e0 windowed.",
+            "title": "Stile finestra"
+        },
+        {
+            "location": "/it/media-manager/settings/#dimensioni",
+            "text": "Tutto schermo:  Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.  Personalizzate:  Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive: \n-  Larghezza:  Larghezza della finestra: \n-  Altezza:  Altezza della finestra:  Posizione:  Posizione in cui si deve aprire la finestra: \n-  Centro:  La finestra si aprir\u00e0 al centro dello schermo. \n-  Personalizzata:  La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive: \n  -  Sinistra:  Posizione rispetto il margine sinistro. \n  -  Alto:  Posione rispetto il margine alto.",
+            "title": "Dimensioni"
+        },
+        {
+            "location": "/it/media-manager/settings/#background",
+            "text": "Colore di sfondo:  Tinta unita che deve avere il background dello stage.  Video o immagine di sfondo:  Immagine di Default da usare come background.  Adattamento file:  Determina la modalit\u00e0 di adattamento del background rispetto allo stage: \n  -  Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default] \n  -  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire \n  -  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra \n  -  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
+            "title": "Background"
+        },
+        {
+            "location": "/it/media-manager/settings/#qualita",
+            "text": "Qualit\u00e0:  Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.  Mouse:  Mostra / nascondo il puntatore del mouse.  Punti di tocco:  Mostra / nascondo il cursore del touch.  Colore punti di tocco:  Indica il colore con cui viene visualizzato il cursore del touch.  DPI Documenti:  Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.  Video simultanei:  Determina il numero di video da riprodurre contemporaneamente sullo stage.",
+            "title": "Qualit\u00e0"
+        },
+        {
+            "location": "/it/media-manager/settings/#draw-on",
+            "text": "Colore matita pennello:  Imposta il colore predefinito per la funzionalit\u00e0 draw-on.  Stile:  Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.  Dimensione tratto:  Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.  Includi disegni in stampa:  Include i disegni nella stampa dei documenti.",
+            "title": "Draw-on"
+        },
+        {
+            "location": "/it/media-manager/settings/#impostazioni-generali",
+            "text": "Chiave mappa di bing:  Specificare una chiave registrata per l'utilizzo del provider Bing map.  Apertura esterna dei file:  Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.  Full screen:  Abilita l'opzione per l'apertura del contenuto a schermo intero.  Editazione:  Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.  Stampa:  Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.  Preferiti:  Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.  Invio email da preferiti:  Abilita la possibilit\u00e0 di condividere contenuti tramite email: \n-  Mittente predefinito:  Indirizzo email predefinito per l'invio delle emal. \n-  Smtp Hosting:  Specificare il protocollo SMTP per la condivisione di contenuti tramite email. \n-  Username:  Specificare lo Username dell'account per la condivisione di contenuti tramite email. \n-  Password:  Specificare la Password dell'account per la condivisione di contenuti tramite email. \n-  Port:  Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email. \n-  Ssl:  Specificare se l'account smtp richiede l'SSL attivo.  Abilita ricerca:  Viene abilitata la funzione di ricerca all'interno dell'archivio.  Abilita rotazione magnetica:  Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.  Apertura multipla punti informativi:  Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.  Tema moduli:  Definisce l'aspetto grafico dei moduli \"Preferiti\", \"Ricerca\" e \"Loading\".",
+            "title": "Impostazioni generali"
+        },
+        {
+            "location": "/it/media-manager/settings/#impostazioni-screensaver",
+            "text": "Tipo:  Abilita lo screensaver per sequenze di immagini e video.  Attivazione:  Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.  Tempo foto:  Valore in secondi che determina la pausa delle foto in sequenza.  Video e/o immagini:  Selezione dei file da importare nello screensaver.  Adattamento file:  Determina la modalit\u00e0 di adattamento dei file rispetto allo stage: \n  -  Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default] \n  -  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire \n  -  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra \n  -  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
+            "title": "Impostazioni screensaver"
         },
         {
             "location": "/it/media-manager/archive/",
