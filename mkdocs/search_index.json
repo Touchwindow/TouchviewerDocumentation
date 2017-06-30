@@ -107,7 +107,7 @@
         },
         {
             "location": "/it/media-manager/settings/",
-            "text": "SETTINGS\n\n\n\n\nLingua\n\n\nScelta della lingua tra \nItaliano\n e \nInglese\n del Media Manager.\n\n\nApertura\n\n\nSingola Istanza:\n Pu\u00f2 essere aperto un solo Touchviewer [default].\n\n\nIstanze Multiple:\n Possono essere aperte pi\u00f9 finestre del Touchviewer.\n\n\nStile finestra\n\n\nSenza bordi:\n Il Media Presenter si apre in modalit\u00e0 fullscreen [default].\n\n\nStandard:\n Il Media Presenter si apre in modalit\u00e0 windowed.\n\n\nDimensioni\n\n\nTutto schermo:\n Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.\n\n\nPersonalizzate:\n Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive:\n\n- \nLarghezza:\n Larghezza della finestra:\n\n- \nAltezza:\n Altezza della finestra:\n\n\nPosizione:\n Posizione in cui si deve aprire la finestra:\n\n- \nCentro:\n La finestra si aprir\u00e0 al centro dello schermo.\n\n- \nPersonalizzata:\n La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive:\n\n  - \nSinistra:\n Posizione rispetto il margine sinistro.\n\n  - \nAlto:\n Posione rispetto il margine alto.\n\n\nBackground\n\n\nColore di sfondo:\n Tinta unita che deve avere il background dello stage.\n\n\nVideo o immagine di sfondo:\n Immagine di Default da usare come background.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\nQualit\u00e0\n\n\nQualit\u00e0:\n Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.\n\n\nMouse:\n Mostra / nascondo il puntatore del mouse.\n\n\nPunti di tocco:\n Mostra / nascondo il cursore del touch.\n\n\nColore punti di tocco:\n Indica il colore con cui viene visualizzato il cursore del touch.\n\n\nDPI Documenti:\n Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.\n\n\nVideo simultanei:\n Determina il numero di video da riprodurre contemporaneamente sullo stage.\n\n\nDraw-on\n\n\nColore matita pennello:\n Imposta il colore predefinito per la funzionalit\u00e0 draw-on.\n\n\nStile:\n Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.\n\n\nDimensione tratto:\n Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.\n\n\nIncludi disegni in stampa:\n Include i disegni nella stampa dei documenti.\n\n\nImpostazioni generali\n\n\nChiave mappa di bing:\n Specificare una chiave registrata per l'utilizzo del provider Bing map.\n\n\nApertura esterna dei file:\n Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.\n\n\nFull screen:\n Abilita l'opzione per l'apertura del contenuto a schermo intero.\n\n\nEditazione:\n Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.\n\n\nStampa:\n Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.\n\n\nPreferiti:\n Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.\n\n\nInvio email da preferiti:\n Abilita la possibilit\u00e0 di condividere contenuti tramite email:\n\n- \nMittente predefinito:\n Indirizzo email predefinito per l'invio delle emal.\n\n- \nSmtp Hosting:\n Specificare il protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nUsername:\n Specificare lo Username dell'account per la condivisione di contenuti tramite email.\n\n- \nPassword:\n Specificare la Password dell'account per la condivisione di contenuti tramite email.\n\n- \nPort:\n Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nSsl:\n Specificare se l'account smtp richiede l'SSL attivo.\n\n\nAbilita ricerca:\n Viene abilitata la funzione di ricerca all'interno dell'archivio.\n\n\nAbilita rotazione magnetica:\n Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.\n\n\nApertura multipla punti informativi:\n Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.\n\n\nTema moduli:\n Definisce l'aspetto grafico dei moduli \"Preferiti\", \"Ricerca\" e \"Loading\".\n\n\nImpostazioni screensaver\n\n\nTipo:\n Abilita lo screensaver per sequenze di immagini e video.\n\n\nAttivazione:\n Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.\n\n\nTempo foto:\n Valore in secondi che determina la pausa delle foto in sequenza.\n\n\nVideo e/o immagini:\n Selezione dei file da importare nello screensaver.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento dei file rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
+            "text": "SETTINGS\n\n\n\n\nLingua\n\n\nScelta della lingua tra \nItaliano\n e \nInglese\n del Media Manager.\n\n\nApertura\n\n\nSingola Istanza:\n Pu\u00f2 essere aperto un solo Touchviewer [default].\n\n\nIstanze Multiple:\n Possono essere aperte pi\u00f9 finestre del Touchviewer.\n\n\nStile finestra\n\n\nSenza bordi:\n Il Media Presenter si apre in modalit\u00e0 fullscreen [default].\n\n\nStandard:\n Il Media Presenter si apre in modalit\u00e0 windowed.\n\n\nDimensioni\n\n\nTutto schermo:\n Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.\n\n\nPersonalizzate:\n Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive:\n\n- \nLarghezza:\n Larghezza della finestra:\n\n- \nAltezza:\n Altezza della finestra:\n\n\nPosizione:\n Posizione in cui si deve aprire la finestra:\n\n- \nCentro:\n La finestra si aprir\u00e0 al centro dello schermo.\n\n- \nPersonalizzata:\n La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive:\n\n  - \nSinistra:\n Posizione rispetto il margine sinistro.\n\n  - \nAlto:\n Posione rispetto il margine alto.\n\n\nBackground\n\n\nColore di sfondo:\n Tinta unita che deve avere il background dello stage.\n\n\nVideo o immagine di sfondo:\n Immagine di Default da usare come background.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\nQualit\u00e0\n\n\nQualit\u00e0:\n Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.\n\n\nMouse:\n Mostra / nascondo il puntatore del mouse.\n\n\nPunti di tocco:\n Mostra / nascondo il cursore del touch.\n\n\nColore punti di tocco:\n Indica il colore con cui viene visualizzato il cursore del touch.\n\n\nDPI Documenti:\n Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.\n\n\nVideo simultanei:\n Determina il numero di video da riprodurre contemporaneamente sullo stage.\n\n\nDraw-on\n\n\nColore matita pennello:\n Imposta il colore predefinito per la funzionalit\u00e0 draw-on.\n\n\nStile:\n Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.\n\n\nDimensione tratto:\n Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.\n\n\nIncludi disegni in stampa:\n Include i disegni nella stampa dei documenti.\n\n\nImpostazioni generali\n\n\nChiave mappa di bing:\n Specificare una chiave registrata per l'utilizzo del provider Bing map.\n\n\nApertura esterna dei file:\n Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.\n\n\nFull screen:\n Abilita l'opzione per l'apertura del contenuto a schermo intero.\n\n\nEditazione:\n Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.\n\n\nStampa:\n Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.\n\n\nPreferiti:\n Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.\n\n\nInvio email da preferiti:\n Abilita la possibilit\u00e0 di condividere contenuti tramite email:\n\n- \nMittente predefinito:\n Indirizzo email predefinito per l'invio delle emal.\n\n- \nSmtp Hosting:\n Specificare il protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nUsername:\n Specificare lo Username dell'account per la condivisione di contenuti tramite email.\n\n- \nPassword:\n Specificare la Password dell'account per la condivisione di contenuti tramite email.\n\n- \nPort:\n Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nSsl:\n Specificare se l'account smtp richiede l'SSL attivo.\n\n\nAbilita ricerca:\n Viene abilitata la funzione di ricerca all'interno dell'archivio.\n\n\nAbilita rotazione magnetica:\n Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.\n\n\nApertura multipla punti informativi:\n Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.\n\n\nTema moduli:\n Personalizzazione grafica dei moduli \"Preferiti\", \"Ricerca\", etc \nVai al Tema Moduli\n\n\nImpostazioni screensaver\n\n\nTipo:\n Abilita lo screensaver per sequenze di immagini e video.\n\n\nAttivazione:\n Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.\n\n\nTempo foto:\n Valore in secondi che determina la pausa delle foto in sequenza.\n\n\nVideo e/o immagini:\n Selezione dei file da importare nello screensaver.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento dei file rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\nE' possibile inoltre alternare foto e video all'interno dello stesso screensaver.",
             "title": "Impostazioni"
         },
         {
@@ -152,17 +152,17 @@
         },
         {
             "location": "/it/media-manager/settings/#impostazioni-generali",
-            "text": "Chiave mappa di bing:  Specificare una chiave registrata per l'utilizzo del provider Bing map.  Apertura esterna dei file:  Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.  Full screen:  Abilita l'opzione per l'apertura del contenuto a schermo intero.  Editazione:  Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.  Stampa:  Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.  Preferiti:  Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.  Invio email da preferiti:  Abilita la possibilit\u00e0 di condividere contenuti tramite email: \n-  Mittente predefinito:  Indirizzo email predefinito per l'invio delle emal. \n-  Smtp Hosting:  Specificare il protocollo SMTP per la condivisione di contenuti tramite email. \n-  Username:  Specificare lo Username dell'account per la condivisione di contenuti tramite email. \n-  Password:  Specificare la Password dell'account per la condivisione di contenuti tramite email. \n-  Port:  Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email. \n-  Ssl:  Specificare se l'account smtp richiede l'SSL attivo.  Abilita ricerca:  Viene abilitata la funzione di ricerca all'interno dell'archivio.  Abilita rotazione magnetica:  Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.  Apertura multipla punti informativi:  Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.  Tema moduli:  Definisce l'aspetto grafico dei moduli \"Preferiti\", \"Ricerca\" e \"Loading\".",
+            "text": "Chiave mappa di bing:  Specificare una chiave registrata per l'utilizzo del provider Bing map.  Apertura esterna dei file:  Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.  Full screen:  Abilita l'opzione per l'apertura del contenuto a schermo intero.  Editazione:  Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.  Stampa:  Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.  Preferiti:  Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.  Invio email da preferiti:  Abilita la possibilit\u00e0 di condividere contenuti tramite email: \n-  Mittente predefinito:  Indirizzo email predefinito per l'invio delle emal. \n-  Smtp Hosting:  Specificare il protocollo SMTP per la condivisione di contenuti tramite email. \n-  Username:  Specificare lo Username dell'account per la condivisione di contenuti tramite email. \n-  Password:  Specificare la Password dell'account per la condivisione di contenuti tramite email. \n-  Port:  Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email. \n-  Ssl:  Specificare se l'account smtp richiede l'SSL attivo.  Abilita ricerca:  Viene abilitata la funzione di ricerca all'interno dell'archivio.  Abilita rotazione magnetica:  Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.  Apertura multipla punti informativi:  Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.  Tema moduli:  Personalizzazione grafica dei moduli \"Preferiti\", \"Ricerca\", etc  Vai al Tema Moduli",
             "title": "Impostazioni generali"
         },
         {
             "location": "/it/media-manager/settings/#impostazioni-screensaver",
-            "text": "Tipo:  Abilita lo screensaver per sequenze di immagini e video.  Attivazione:  Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.  Tempo foto:  Valore in secondi che determina la pausa delle foto in sequenza.  Video e/o immagini:  Selezione dei file da importare nello screensaver.  Adattamento file:  Determina la modalit\u00e0 di adattamento dei file rispetto allo stage: \n  -  Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default] \n  -  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire \n  -  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra \n  -  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
+            "text": "Tipo:  Abilita lo screensaver per sequenze di immagini e video.  Attivazione:  Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.  Tempo foto:  Valore in secondi che determina la pausa delle foto in sequenza.  Video e/o immagini:  Selezione dei file da importare nello screensaver.  Adattamento file:  Determina la modalit\u00e0 di adattamento dei file rispetto allo stage: \n  -  Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default] \n  -  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire \n  -  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra \n  -  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage \nE' possibile inoltre alternare foto e video all'interno dello stesso screensaver.",
             "title": "Impostazioni screensaver"
         },
         {
             "location": "/it/media-manager/content-directory/",
-            "text": "Elenco Contenuti\n\n\nCartella Archivio\n\n\n\n\nQui \u00e8 possibile vedere a quale archivio si sta attualmente puntando.\n\n\n Cliccando su questa icona \u00e8 possibile cambiare archivio, puntando ad un altra cartella.\n\n\n Cliccando su questa icona si effettua un refresh dei contenuti e cartelle dell'archivio\n\n\n Cliccando su questa icona verr\u00e0 aperta la cartella dell'archivio in Esplora Risorse.\n\n\nCartella\n\n\n\n\nViene mostrata la struttura delle cartelle e dei file dell'archivio a cui si sta puntando.\n\nSi pu\u00f2 inoltre modificare l'archivio, aggiungendo o rimuovendo cartelle e file in esso contenuti.\n\nFacendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir\u00e0 un sottomenu da cui \u00e8 poissibile effettuare diverse operazione descritte qua di seguito.\n\n\nSottomenu cartella\n\n\n\n\n\n\nAggiorna la cartella\n\n\nApre la cartella in Esplora Risorse\n\n\nElimina la cartella e tutti i suoi contenuti\n\n\nSi accede alla Opzioni della cartella. \nVai alla sezione \nOpzioni Cartella\n\n\nAggiunge un contenuto alla cartella. \nVai alla sezione \nAggiungi Contenuti\n\n\nCrea una sottocartella\n\n\nNasconde la cartella corrente e noin viene mostrata nel Media Presenter\n\n\nSi pu\u00f2 collegare questa cartella ad un altra. L'effetto \u00e8 che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.\n\n\n\n\nSottomenu file\n\n\n\n\n\n\nApre il file con il programma di default di windows assegnato per quella tipologia di file\n\n\nElimina il file dalla cartella\n\n\nSi accede alla Opzioni del File \nVai alla sezione \nOpzioni File\n\n\nIl file viene duplicato",
+            "text": "Elenco Contenuti\n\n\nCartella Archivio\n\n\n\n\nQui \u00e8 possibile vedere a quale archivio si sta attualmente puntando.\n\n\n Cliccando su questa icona \u00e8 possibile cambiare archivio, puntando ad un altra cartella.\n\n\n Cliccando su questa icona si effettua un refresh dei contenuti e cartelle dell'archivio\n\n\n Cliccando su questa icona verr\u00e0 aperta la cartella dell'archivio in Esplora Risorse.\n\n\nCartella\n\n\n\n\nViene mostrata la struttura delle cartelle e dei file dell'archivio a cui si sta puntando.\n\nSi pu\u00f2 inoltre modificare l'archivio, aggiungendo o rimuovendo cartelle e file in esso contenuti.\n\nFacendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir\u00e0 un sottomenu da cui \u00e8 poissibile effettuare diverse operazione descritte qua di seguito.\n\n\nSottomenu cartella\n\n\n\n\n\n\nAggiorna la cartella\n\n\nApre la cartella in Esplora Risorse\n\n\nElimina la cartella e tutti i suoi contenuti\n\n\nSi accede alla Opzioni della cartella. \nVai alla sezione \nOpzioni Cartella\n\n\nAggiunge un contenuto alla cartella. \nVai alla sezione \nAggiungi Contenuti\n\n\nCrea una sottocartella\n\n\nNasconde la cartella corrente e noin viene mostrata nel Media Presenter\n\n\nSi pu\u00f2 collegare questa cartella ad un altra. L'effetto \u00e8 che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.\n\n\n\n\nSottomenu file\n\n\n\n\n\n\nApre il file con il programma di default di windows assegnato per quella tipologia di file\n\n\nElimina il file dalla cartella\n\n\nSi accede alla Opzioni del File \nVai alla sezione \nOpzioni Contenuto\n\n\nIl file viene duplicato",
             "title": "Elenco Contenuti"
         },
         {
@@ -187,28 +187,58 @@
         },
         {
             "location": "/it/media-manager/content-directory/#sottomenu-file",
-            "text": "Apre il file con il programma di default di windows assegnato per quella tipologia di file  Elimina il file dalla cartella  Si accede alla Opzioni del File  Vai alla sezione  Opzioni File  Il file viene duplicato",
+            "text": "Apre il file con il programma di default di windows assegnato per quella tipologia di file  Elimina il file dalla cartella  Si accede alla Opzioni del File  Vai alla sezione  Opzioni Contenuto  Il file viene duplicato",
             "title": "Sottomenu file"
         },
         {
             "location": "/it/media-manager/folder-option/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Opzioni Cartella\n\n\n\nE' possibile accedere a queste opzioni anche cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\nNome visualizzato\n\n\nE' il nome visualizzato nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n, \nimmagine e testo\n, \nsolo testo\n.\n\n\nImmagine\n\n\nE' l'immagine visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento:  \nimmagine\n, \nimmagine e testo\n.\n\n\nDescrizione\n\n\nE' la descrizione visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n.\n\n\nPosizione\n\n\nE' l'ordine in cui viene visualizzato l'elemento nel Media Presenter.\n\n\nRotazione\n\n\nL'elemento viene ruotato in senso orario dei gradi inseriti in questo campo.\n\n\nZIndex\n\n\nOrdinamento nell'asse Z degli elementi.\n\n\nPosizione relativa (X,Y)\n\n\nDefinisce la posizione relativamente alla posizione di partenza nel caso cia sia una disposizione automatica degli elementi.\n\nNel caso venisse scelto come \nMetodo di visualizzazione cartelle\n -> \nLibera per posizionamenti assoluti\n, \nvedi qui\n la posizione \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).\n\n\nTema elementi\n\n\nDi default viene ereditato il tema elementi impostato per la cartella padre.\n\nEventualmente se ne potr\u00e0 creare uno nuovo specifico solo per questa cartella.\n\nPer impostare il \nTema\n \nvedi Tema elementi\n.",
             "title": "Opzioni Cartella"
         },
         {
-            "location": "/it/media-manager/folder-option/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/folder-option/#opzioni-cartella",
+            "text": "E' possibile accedere a queste opzioni anche cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
+            "title": "Opzioni Cartella"
         },
         {
-            "location": "/it/media-manager/folder-option/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/it/media-manager/folder-option/#nome-visualizzato",
+            "text": "E' il nome visualizzato nel Media Presenter se nel  Tema elementi  viene scelto come Template elemento:  scheda ,  immagine e testo ,  solo testo .",
+            "title": "Nome visualizzato"
         },
         {
-            "location": "/it/media-manager/folder-option/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/folder-option/#immagine",
+            "text": "E' l'immagine visualizzata nel Media Presenter se nel  Tema elementi  viene scelto come Template elemento:   immagine ,  immagine e testo .",
+            "title": "Immagine"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#descrizione",
+            "text": "E' la descrizione visualizzata nel Media Presenter se nel  Tema elementi  viene scelto come Template elemento:  scheda .",
+            "title": "Descrizione"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#posizione",
+            "text": "E' l'ordine in cui viene visualizzato l'elemento nel Media Presenter.",
+            "title": "Posizione"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#rotazione",
+            "text": "L'elemento viene ruotato in senso orario dei gradi inseriti in questo campo.",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#zindex",
+            "text": "Ordinamento nell'asse Z degli elementi.",
+            "title": "ZIndex"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#posizione-relativa-xy",
+            "text": "Definisce la posizione relativamente alla posizione di partenza nel caso cia sia una disposizione automatica degli elementi. \nNel caso venisse scelto come  Metodo di visualizzazione cartelle  ->  Libera per posizionamenti assoluti ,  vedi qui  la posizione \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).",
+            "title": "Posizione relativa (X,Y)"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#tema-elementi",
+            "text": "Di default viene ereditato il tema elementi impostato per la cartella padre. \nEventualmente se ne potr\u00e0 creare uno nuovo specifico solo per questa cartella. \nPer impostare il  Tema   vedi Tema elementi .",
+            "title": "Tema elementi"
         },
         {
             "location": "/it/media-manager/content-option/",
@@ -229,6 +259,51 @@
             "location": "/it/media-manager/content-option/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
+        },
+        {
+            "location": "/it/media-manager/selected-folder/",
+            "text": "Cartella selezionata",
+            "title": "Cartella Selezionata"
+        },
+        {
+            "location": "/it/media-manager/selected-folder/#cartella-selezionata",
+            "text": "",
+            "title": "Cartella selezionata"
+        },
+        {
+            "location": "/it/media-manager/themes/overview/",
+            "text": "",
+            "title": "Panoramica"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/",
+            "text": "",
+            "title": "Tema moduli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/",
+            "text": "",
+            "title": "Tema elementi"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/",
+            "text": "",
+            "title": "Tema barra navigazione"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/",
+            "text": "",
+            "title": "Tema barra anteprime"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/",
+            "text": "",
+            "title": "Tema del visualizzatore"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/",
+            "text": "",
+            "title": "Tema popup strumenti"
         },
         {
             "location": "/it/media-manager/contents/overview/",
