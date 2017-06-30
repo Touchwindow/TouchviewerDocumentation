@@ -161,102 +161,92 @@
             "title": "Impostazioni screensaver"
         },
         {
-            "location": "/it/media-manager/archive/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Archivi"
+            "location": "/it/media-manager/content-directory/",
+            "text": "Elenco Contenuti\n\n\nCartella Archivio\n\n\n\n\nQui \u00e8 possibile vedere a quale archivio si sta attualmente puntando.\n\n\n Cliccando su questa icona \u00e8 possibile cambiare archivio, puntando ad un altra cartella.\n\n\n Cliccando su questa icona si effettua un refresh dei contenuti e cartelle dell'archivio\n\n\n Cliccando su questa icona verr\u00e0 aperta la cartella dell'archivio in Esplora Risorse.\n\n\nCartella\n\n\n\n\nViene mostrata la struttura delle cartelle e dei file dell'archivio a cui si sta puntando.\n\nSi pu\u00f2 inoltre modificare l'archivio, aggiungendo o rimuovendo cartelle e file in esso contenuti.\n\nFacendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir\u00e0 un sottomenu da cui \u00e8 poissibile effettuare diverse operazione descritte qua di seguito.\n\n\nSottomenu cartella\n\n\n\n\n\n\nAggiorna la cartella\n\n\nApre la cartella in Esplora Risorse\n\n\nElimina la cartella e tutti i suoi contenuti\n\n\nSi accede alla Opzioni della cartella. \nVai alla sezione \nOpzioni Cartella\n\n\nAggiunge un contenuto alla cartella. \nVai alla sezione \nAggiungi Contenuti\n\n\nCrea una sottocartella\n\n\nNasconde la cartella corrente e noin viene mostrata nel Media Presenter\n\n\nSi pu\u00f2 collegare questa cartella ad un altra. L'effetto \u00e8 che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.\n\n\n\n\nSottomenu file\n\n\n\n\n\n\nApre il file con il programma di default di windows assegnato per quella tipologia di file\n\n\nElimina il file dalla cartella\n\n\nSi accede alla Opzioni del File \nVai alla sezione \nOpzioni File\n\n\nIl file viene duplicato",
+            "title": "Elenco Contenuti"
         },
         {
-            "location": "/it/media-manager/archive/#welcome-to-mkdocs",
+            "location": "/it/media-manager/content-directory/#elenco-contenuti",
+            "text": "",
+            "title": "Elenco Contenuti"
+        },
+        {
+            "location": "/it/media-manager/content-directory/#cartella-archivio",
+            "text": "Qui \u00e8 possibile vedere a quale archivio si sta attualmente puntando.   Cliccando su questa icona \u00e8 possibile cambiare archivio, puntando ad un altra cartella.   Cliccando su questa icona si effettua un refresh dei contenuti e cartelle dell'archivio   Cliccando su questa icona verr\u00e0 aperta la cartella dell'archivio in Esplora Risorse.",
+            "title": "Cartella Archivio"
+        },
+        {
+            "location": "/it/media-manager/content-directory/#cartella",
+            "text": "Viene mostrata la struttura delle cartelle e dei file dell'archivio a cui si sta puntando. \nSi pu\u00f2 inoltre modificare l'archivio, aggiungendo o rimuovendo cartelle e file in esso contenuti. \nFacendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir\u00e0 un sottomenu da cui \u00e8 poissibile effettuare diverse operazione descritte qua di seguito.",
+            "title": "Cartella"
+        },
+        {
+            "location": "/it/media-manager/content-directory/#sottomenu-cartella",
+            "text": "Aggiorna la cartella  Apre la cartella in Esplora Risorse  Elimina la cartella e tutti i suoi contenuti  Si accede alla Opzioni della cartella.  Vai alla sezione  Opzioni Cartella  Aggiunge un contenuto alla cartella.  Vai alla sezione  Aggiungi Contenuti  Crea una sottocartella  Nasconde la cartella corrente e noin viene mostrata nel Media Presenter  Si pu\u00f2 collegare questa cartella ad un altra. L'effetto \u00e8 che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.",
+            "title": "Sottomenu cartella"
+        },
+        {
+            "location": "/it/media-manager/content-directory/#sottomenu-file",
+            "text": "Apre il file con il programma di default di windows assegnato per quella tipologia di file  Elimina il file dalla cartella  Si accede alla Opzioni del File  Vai alla sezione  Opzioni File  Il file viene duplicato",
+            "title": "Sottomenu file"
+        },
+        {
+            "location": "/it/media-manager/folder-option/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Opzioni Cartella"
+        },
+        {
+            "location": "/it/media-manager/folder-option/#welcome-to-mkdocs",
             "text": "For full documentation visit  mkdocs.org .",
             "title": "Welcome to MkDocs"
         },
         {
-            "location": "/it/media-manager/archive/#commands",
+            "location": "/it/media-manager/folder-option/#commands",
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
             "title": "Commands"
         },
         {
-            "location": "/it/media-manager/archive/#project-layout",
+            "location": "/it/media-manager/folder-option/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
         },
         {
-            "location": "/it/media-manager/network-sync/",
+            "location": "/it/media-manager/content-option/",
             "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Sincronizzazione"
+            "title": "Opzioni Contenuto"
         },
         {
-            "location": "/it/media-manager/network-sync/#welcome-to-mkdocs",
+            "location": "/it/media-manager/content-option/#welcome-to-mkdocs",
             "text": "For full documentation visit  mkdocs.org .",
             "title": "Welcome to MkDocs"
         },
         {
-            "location": "/it/media-manager/network-sync/#commands",
+            "location": "/it/media-manager/content-option/#commands",
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
             "title": "Commands"
         },
         {
-            "location": "/it/media-manager/network-sync/#project-layout",
+            "location": "/it/media-manager/content-option/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
         },
         {
-            "location": "/it/media-manager/folder-setting/",
+            "location": "/it/media-manager/contents/overview/",
             "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Impostazioni Cartelle"
+            "title": "Panoramica"
         },
         {
-            "location": "/it/media-manager/folder-setting/#welcome-to-mkdocs",
+            "location": "/it/media-manager/contents/overview/#welcome-to-mkdocs",
             "text": "For full documentation visit  mkdocs.org .",
             "title": "Welcome to MkDocs"
         },
         {
-            "location": "/it/media-manager/folder-setting/#commands",
+            "location": "/it/media-manager/contents/overview/#commands",
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
             "title": "Commands"
         },
         {
-            "location": "/it/media-manager/folder-setting/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
-            "location": "/it/media-manager/content-setting/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Impostazioni Contenuti"
-        },
-        {
-            "location": "/it/media-manager/content-setting/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/media-manager/content-setting/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/content-setting/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
-            "location": "/it/media-manager/contents/folder/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Cartelle"
-        },
-        {
-            "location": "/it/media-manager/contents/folder/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/media-manager/contents/folder/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/folder/#project-layout",
+            "location": "/it/media-manager/contents/overview/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
         },
@@ -437,6 +427,26 @@
         },
         {
             "location": "/it/media-manager/contents/video-streaming/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/it/media-manager/network-sync/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Sincronizzazione"
+        },
+        {
+            "location": "/it/media-manager/network-sync/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/it/media-manager/network-sync/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/it/media-manager/network-sync/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
         },
