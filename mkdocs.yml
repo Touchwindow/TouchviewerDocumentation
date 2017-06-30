@@ -34,12 +34,12 @@ pages:
     - Media Manager:
       - Workspace: it/media-manager/workspace.md
       - Impostazioni: it/media-manager/settings.md
-      - Archivi: it/media-manager/archive.md
-      - Sincronizzazione: it/media-manager/network-sync.md
-      - Impostazioni Cartelle: it/media-manager/folder-setting.md
-      - Impostazioni Contenuti: it/media-manager/content-setting.md
       - Contenuti:
-        - Cartelle : it/media-manager/contents/folder.md
+        - Elenco Contenuti: it/media-manager/content-directory.md
+        - Opzioni Cartella: it/media-manager/folder-option.md
+        - Opzioni Contenuto: it/media-manager/content-option.md
+      - Aggiungi Contenuti:
+        - Panoramica : it/media-manager/contents/overview.md
         - Foto : it/media-manager/contents/image.md
         - Video : it/media-manager/contents/video.md
         - PDF/Docs : it/media-manager/contents/pdf.md
@@ -49,6 +49,7 @@ pages:
         - Mappa Interattiva: it/media-manager/contents/interactive-map.md
         - Ingresso Video : it/media-manager/contents/video-input.md
         - Streaming Video : it/media-manager/contents/video-streaming.md
+      - Sincronizzazione: it/media-manager/network-sync.md
     - Media Presenter:
       - Workspace:
         - Singolo Utente: it/media-presenter/workspace/single-user.md
