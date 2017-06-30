@@ -9,13 +9,21 @@
 .md-typeset {
   a {
     color: $light-blue-500 !important;
-    &:hover{
+
+    &:hover {
       color: $pink-300 !important;
     }
   }
 
   h3 {
-    margin-bottom: 0 !important;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: $amber-700;
+  }
+
+  h1 {
+    margin: 0 0 3rem;
   }
 
   ol,
@@ -30,6 +38,7 @@
     }
 
     p {
+      margin-top: 0;
       margin-bottom: 2rem;
     }
   }

@@ -64,7 +64,7 @@ __Invio email da preferiti:__ Abilita la possibilità di condividere contenuti t
 __Abilita ricerca:__ Viene abilitata la funzione di ricerca all'interno dell'archivio.<br>
 __Abilita rotazione magnetica:__ Quando è abilitata i contenuti potranno essere ruotati a step di 90°.<br>
 __Apertura multipla punti informativi:__ Quando è abilitata si potranno aprirre più punti informativi alla volta.<br>
-__Tema moduli:__ Definisce l'aspetto grafico dei moduli "Preferiti", "Ricerca" e "Loading".
+__Tema moduli:__ Personalizzazione grafica dei moduli "Preferiti", "Ricerca", etc [__Vai al Tema Moduli__](/it/media-manager/themes/theme-module.md)
 
 ### Impostazioni screensaver
 
@@ -76,4 +76,5 @@ __Adattamento file:__ Determina la modalità di adattamento dei file rispetto al
   - _Stira:_ Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]<br>
   - _Nessuno:_ il file non viene adattato ed è possibile scegliere in quale posizione deve comparire<br>
   - _Adatta Internamente:_ Il file viene adattato mantenendo le sue proprozioni all'interno della finestra<br>
-  - _Adatta Esternamente:_ Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage
+  - _Adatta Esternamente:_ Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage<br>
+E' possibile inoltre alternare foto e video all'interno dello stesso screensaver.

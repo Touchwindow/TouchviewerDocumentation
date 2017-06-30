@@ -38,6 +38,15 @@ pages:
         - Elenco Contenuti: it/media-manager/content-directory.md
         - Opzioni Cartella: it/media-manager/folder-option.md
         - Opzioni Contenuto: it/media-manager/content-option.md
+        - Cartella Selezionata: it/media-manager/selected-folder.md
+      - Theme Manager:
+        - Panoramica: it/media-manager/themes/overview.md
+        - Tema moduli: it/media-manager/themes/theme-element.md
+        - Tema elementi: it/media-manager/themes/theme-module.md
+        - Tema barra navigazione: it/media-manager/themes/theme-navigationbar.md
+        - Tema barra anteprime: it/media-manager/themes/theme-previewbar.md
+        - Tema del visualizzatore: it/media-manager/themes/theme-viewer.md
+        - Tema popup strumenti: it/media-manager/themes/theme-toolspopup.md
       - Aggiungi Contenuti:
         - Panoramica : it/media-manager/contents/overview.md
         - Foto : it/media-manager/contents/image.md

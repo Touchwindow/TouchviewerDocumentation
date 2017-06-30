@@ -34,5 +34,5 @@ Facendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir
 
 1. Apre il file con il programma di default di windows assegnato per quella tipologia di file
 1. Elimina il file dalla cartella
-1. Si accede alla Opzioni del File [Vai alla sezione __Opzioni File__](/it/media-manager/content-option.md)
+1. Si accede alla Opzioni del File [Vai alla sezione __Opzioni Contenuto__](/it/media-manager/content-option.md)
 1. Il file viene duplicato
