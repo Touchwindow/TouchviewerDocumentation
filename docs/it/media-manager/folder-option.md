@@ -22,7 +22,7 @@ Ordinamento nell'asse Z degli elementi.
 
 ### Posizione relativa (X,Y)
 Definisce la posizione relativamente alla posizione di partenza nel caso cia sia una disposizione automatica degli elementi.<br>
-Nel caso venisse scelto come _Metodo di visualizzazione cartelle_ -> __Libera per posizionamenti assoluti__, [__vedi qui__](/it/media-manager/selected-folder.md) la posizione è relativa all'angolo in alto a sinistra con coordinate (0,0).
+Nel caso venisse scelto come _Metodo di visualizzazione cartelle_ -> __Libera per posizionamenti assoluti__, [__vedi qui__](/it/media-manager/folder-properties.md) la posizione è relativa all'angolo in alto a sinistra con coordinate (0,0).
 
 ### Tema elementi
 Di default viene ereditato il tema elementi impostato per la cartella padre.<br>
