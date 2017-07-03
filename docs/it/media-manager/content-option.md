@@ -6,6 +6,8 @@ E' possibile accedere a queste opzioni in 2 modi:
 * cliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.
 * cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.
 
+## Informazioni
+
 ### Titolo
 
 ### Descrizione
@@ -48,6 +50,8 @@ E' possibile accedere a queste opzioni in 2 modi:
 
 ### Audio
 
+
+## Anteprima
 ![](/img/content_option_2.png)
 
 ### Immagine personalizzata
