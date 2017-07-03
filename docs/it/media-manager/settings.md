@@ -67,6 +67,7 @@ __Apertura multipla punti informativi:__ Quando è abilitata si potranno aprirre
 __Tema moduli:__ Personalizzazione grafica dei moduli "Preferiti", "Ricerca", etc [__Vai al Tema Moduli__](/it/media-manager/themes/theme-module.md)
 
 ### Impostazioni screensaver
+![](/img/screensaver.png)
 
 __Tipo:__ Abilita lo screensaver per sequenze di immagini e video.<br>
 __Attivazione:__ Valore in secondi che determina l'attivazione dello screensaver in caso di inattività dell'utente.<br>

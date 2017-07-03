@@ -1,6 +1,10 @@
 # Opzioni Cartella
 ![](/img/folder-option.png)<br>
-E' possibile accedere a queste opzioni anche cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.
+
+E' possibile accedere a queste opzioni in 2 modi:
+
+* cliccando col tasto destro del mouse sulla cartella desiderata nella visualizzazione ad albero dei contenuti.
+* cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.
 
 ### Nome visualizzato
 E' il nome visualizzato nel Media Presenter se nel [__Tema elementi__](/it/media-manager/themes/theme-navigationbar.md) viene scelto come Template elemento: __scheda__, __immagine e testo__, __solo testo__.
