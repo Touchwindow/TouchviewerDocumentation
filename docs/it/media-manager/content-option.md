@@ -1,5 +1,4 @@
 # Opzioni Contenuto
-![](/img/content_option_1.png)
 
 E' possibile accedere a queste opzioni in 2 modi:
 
@@ -7,6 +6,7 @@ E' possibile accedere a queste opzioni in 2 modi:
 * cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.
 
 ## Informazioni
+![](/img/content_option_1.png)
 
 ### Titolo
 
