@@ -107,7 +107,7 @@
         },
         {
             "location": "/it/media-manager/settings/",
-            "text": "SETTINGS\n\n\n\n\nLingua\n\n\nScelta della lingua tra \nItaliano\n e \nInglese\n del Media Manager.\n\n\nApertura\n\n\nSingola Istanza:\n Pu\u00f2 essere aperto un solo Touchviewer [default].\n\n\nIstanze Multiple:\n Possono essere aperte pi\u00f9 finestre del Touchviewer.\n\n\nStile finestra\n\n\nSenza bordi:\n Il Media Presenter si apre in modalit\u00e0 fullscreen [default].\n\n\nStandard:\n Il Media Presenter si apre in modalit\u00e0 windowed.\n\n\nDimensioni\n\n\nTutto schermo:\n Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.\n\n\nPersonalizzate:\n Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive:\n\n- \nLarghezza:\n Larghezza della finestra:\n\n- \nAltezza:\n Altezza della finestra:\n\n\nPosizione:\n Posizione in cui si deve aprire la finestra:\n\n- \nCentro:\n La finestra si aprir\u00e0 al centro dello schermo.\n\n- \nPersonalizzata:\n La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive:\n\n  - \nSinistra:\n Posizione rispetto il margine sinistro.\n\n  - \nAlto:\n Posione rispetto il margine alto.\n\n\nBackground\n\n\nColore di sfondo:\n Tinta unita che deve avere il background dello stage.\n\n\nVideo o immagine di sfondo:\n Immagine di Default da usare come background.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\nQualit\u00e0\n\n\nQualit\u00e0:\n Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.\n\n\nMouse:\n Mostra / nascondo il puntatore del mouse.\n\n\nPunti di tocco:\n Mostra / nascondo il cursore del touch.\n\n\nColore punti di tocco:\n Indica il colore con cui viene visualizzato il cursore del touch.\n\n\nDPI Documenti:\n Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.\n\n\nVideo simultanei:\n Determina il numero di video da riprodurre contemporaneamente sullo stage.\n\n\nDraw-on\n\n\nColore matita pennello:\n Imposta il colore predefinito per la funzionalit\u00e0 draw-on.\n\n\nStile:\n Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.\n\n\nDimensione tratto:\n Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.\n\n\nIncludi disegni in stampa:\n Include i disegni nella stampa dei documenti.\n\n\nImpostazioni generali\n\n\nChiave mappa di bing:\n Specificare una chiave registrata per l'utilizzo del provider Bing map.\n\n\nApertura esterna dei file:\n Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.\n\n\nFull screen:\n Abilita l'opzione per l'apertura del contenuto a schermo intero.\n\n\nEditazione:\n Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.\n\n\nStampa:\n Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.\n\n\nPreferiti:\n Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.\n\n\nInvio email da preferiti:\n Abilita la possibilit\u00e0 di condividere contenuti tramite email:\n\n- \nMittente predefinito:\n Indirizzo email predefinito per l'invio delle emal.\n\n- \nSmtp Hosting:\n Specificare il protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nUsername:\n Specificare lo Username dell'account per la condivisione di contenuti tramite email.\n\n- \nPassword:\n Specificare la Password dell'account per la condivisione di contenuti tramite email.\n\n- \nPort:\n Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nSsl:\n Specificare se l'account smtp richiede l'SSL attivo.\n\n\nAbilita ricerca:\n Viene abilitata la funzione di ricerca all'interno dell'archivio.\n\n\nAbilita rotazione magnetica:\n Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.\n\n\nApertura multipla punti informativi:\n Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.\n\n\nTema moduli:\n Personalizzazione grafica dei moduli \"Preferiti\", \"Ricerca\", etc \nVai al Tema Moduli\n\n\nImpostazioni screensaver\n\n\nTipo:\n Abilita lo screensaver per sequenze di immagini e video.\n\n\nAttivazione:\n Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.\n\n\nTempo foto:\n Valore in secondi che determina la pausa delle foto in sequenza.\n\n\nVideo e/o immagini:\n Selezione dei file da importare nello screensaver.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento dei file rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\nE' possibile inoltre alternare foto e video all'interno dello stesso screensaver.",
+            "text": "SETTINGS\n\n\n\n\nLingua\n\n\nScelta della lingua tra \nItaliano\n e \nInglese\n del Media Manager.\n\n\nApertura\n\n\nSingola Istanza:\n Pu\u00f2 essere aperto un solo Touchviewer [default].\n\n\nIstanze Multiple:\n Possono essere aperte pi\u00f9 finestre del Touchviewer.\n\n\nStile finestra\n\n\nSenza bordi:\n Il Media Presenter si apre in modalit\u00e0 fullscreen [default].\n\n\nStandard:\n Il Media Presenter si apre in modalit\u00e0 windowed.\n\n\nDimensioni\n\n\nTutto schermo:\n Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.\n\n\nPersonalizzate:\n Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive:\n\n- \nLarghezza:\n Larghezza della finestra:\n\n- \nAltezza:\n Altezza della finestra:\n\n\nPosizione:\n Posizione in cui si deve aprire la finestra:\n\n- \nCentro:\n La finestra si aprir\u00e0 al centro dello schermo.\n\n- \nPersonalizzata:\n La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive:\n\n  - \nSinistra:\n Posizione rispetto il margine sinistro.\n\n  - \nAlto:\n Posione rispetto il margine alto.\n\n\nBackground\n\n\nColore di sfondo:\n Tinta unita che deve avere il background dello stage.\n\n\nVideo o immagine di sfondo:\n Immagine di Default da usare come background.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\nQualit\u00e0\n\n\nQualit\u00e0:\n Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.\n\n\nMouse:\n Mostra / nascondo il puntatore del mouse.\n\n\nPunti di tocco:\n Mostra / nascondo il cursore del touch.\n\n\nColore punti di tocco:\n Indica il colore con cui viene visualizzato il cursore del touch.\n\n\nDPI Documenti:\n Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.\n\n\nVideo simultanei:\n Determina il numero di video da riprodurre contemporaneamente sullo stage.\n\n\nDraw-on\n\n\nColore matita pennello:\n Imposta il colore predefinito per la funzionalit\u00e0 draw-on.\n\n\nStile:\n Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.\n\n\nDimensione tratto:\n Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.\n\n\nIncludi disegni in stampa:\n Include i disegni nella stampa dei documenti.\n\n\nImpostazioni generali\n\n\nChiave mappa di bing:\n Specificare una chiave registrata per l'utilizzo del provider Bing map.\n\n\nApertura esterna dei file:\n Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.\n\n\nFull screen:\n Abilita l'opzione per l'apertura del contenuto a schermo intero.\n\n\nEditazione:\n Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.\n\n\nStampa:\n Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.\n\n\nPreferiti:\n Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.\n\n\nInvio email da preferiti:\n Abilita la possibilit\u00e0 di condividere contenuti tramite email:\n\n- \nMittente predefinito:\n Indirizzo email predefinito per l'invio delle emal.\n\n- \nSmtp Hosting:\n Specificare il protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nUsername:\n Specificare lo Username dell'account per la condivisione di contenuti tramite email.\n\n- \nPassword:\n Specificare la Password dell'account per la condivisione di contenuti tramite email.\n\n- \nPort:\n Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.\n\n- \nSsl:\n Specificare se l'account smtp richiede l'SSL attivo.\n\n\nAbilita ricerca:\n Viene abilitata la funzione di ricerca all'interno dell'archivio.\n\n\nAbilita rotazione magnetica:\n Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.\n\n\nApertura multipla punti informativi:\n Quando \u00e8 abilitata si potranno aprirre pi\u00f9 punti informativi alla volta.\n\n\nTema moduli:\n Personalizzazione grafica dei moduli \"Preferiti\", \"Ricerca\", etc \nVai al Tema Moduli\n\n\nImpostazioni screensaver\n\n\n\n\nTipo:\n Abilita lo screensaver per sequenze di immagini e video.\n\n\nAttivazione:\n Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.\n\n\nTempo foto:\n Valore in secondi che determina la pausa delle foto in sequenza.\n\n\nVideo e/o immagini:\n Selezione dei file da importare nello screensaver.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento dei file rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\nE' possibile inoltre alternare foto e video all'interno dello stesso screensaver.",
             "title": "Impostazioni"
         },
         {
@@ -192,12 +192,12 @@
         },
         {
             "location": "/it/media-manager/folder-option/",
-            "text": "Opzioni Cartella\n\n\n\nE' possibile accedere a queste opzioni anche cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\nNome visualizzato\n\n\nE' il nome visualizzato nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n, \nimmagine e testo\n, \nsolo testo\n.\n\n\nImmagine\n\n\nE' l'immagine visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento:  \nimmagine\n, \nimmagine e testo\n.\n\n\nDescrizione\n\n\nE' la descrizione visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n.\n\n\nPosizione\n\n\nE' l'ordine in cui viene visualizzato l'elemento nel Media Presenter.\n\n\nRotazione\n\n\nL'elemento viene ruotato in senso orario dei gradi inseriti in questo campo.\n\n\nZIndex\n\n\nOrdinamento nell'asse Z degli elementi.\n\n\nPosizione relativa (X,Y)\n\n\nDefinisce la posizione relativamente alla posizione di partenza nel caso cia sia una disposizione automatica degli elementi.\n\nNel caso venisse scelto come \nMetodo di visualizzazione cartelle\n -> \nLibera per posizionamenti assoluti\n, \nvedi qui\n la posizione \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).\n\n\nTema elementi\n\n\nDi default viene ereditato il tema elementi impostato per la cartella padre.\n\nEventualmente se ne potr\u00e0 creare uno nuovo specifico solo per questa cartella.\n\nPer impostare il \nTema\n \nvedi Tema elementi\n.",
+            "text": "Opzioni Cartella\n\n\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sulla cartella desiderata nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nNome visualizzato\n\n\nE' il nome visualizzato nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n, \nimmagine e testo\n, \nsolo testo\n.\n\n\nImmagine\n\n\nE' l'immagine visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento:  \nimmagine\n, \nimmagine e testo\n.\n\n\nDescrizione\n\n\nE' la descrizione visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n.\n\n\nPosizione\n\n\nE' l'ordine in cui viene visualizzato l'elemento nel Media Presenter.\n\n\nRotazione\n\n\nL'elemento viene ruotato in senso orario dei gradi inseriti in questo campo.\n\n\nZIndex\n\n\nOrdinamento nell'asse Z degli elementi.\n\n\nPosizione relativa (X,Y)\n\n\nDefinisce la posizione relativamente alla posizione di partenza nel caso cia sia una disposizione automatica degli elementi.\n\nNel caso venisse scelto come \nMetodo di visualizzazione cartelle\n -> \nLibera per posizionamenti assoluti\n, \nvedi qui\n la posizione \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).\n\n\nTema elementi\n\n\nDi default viene ereditato il tema elementi impostato per la cartella padre.\n\nEventualmente se ne potr\u00e0 creare uno nuovo specifico solo per questa cartella.\n\nPer impostare il \nTema\n \nvedi Tema elementi\n.",
             "title": "Opzioni Cartella"
         },
         {
             "location": "/it/media-manager/folder-option/#opzioni-cartella",
-            "text": "E' possibile accedere a queste opzioni anche cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
+            "text": "E' possibile accedere a queste opzioni in 2 modi:   cliccando col tasto destro del mouse sulla cartella desiderata nella visualizzazione ad albero dei contenuti.  cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
             "title": "Opzioni Cartella"
         },
         {
@@ -242,17 +242,142 @@
         },
         {
             "location": "/it/media-manager/content-option/",
-            "text": "Opzioni Contenuto",
+            "text": "Opzioni Contenuto\n\n\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nTitolo\n\n\nDescrizione\n\n\nPosizione\n\n\nDimensione minima e massima file\n\n\nTema del visualizzatore\n\n\nTema popup strumenti\n\n\nTrascinamento\n\n\nRotazione\n\n\nZoom\n\n\nApertura esterna\n\n\nBarra inferiore\n\n\nMetodo visualizzazione se partenza sullo stage\n\n\nFullscreen\n\n\nModalit\u00e0 Fullscreen\n\n\nChiusura Fullscreen\n\n\nEditazione\n\n\nCommenti\n\n\nStampa\n\n\nPreferiti\n\n\nAttiva pulsante per l'avvio del seguente processo\n\n\nAudio\n\n\n\n\nImmagine personalizzata\n\n\nRotazione\n\n\nZIndex\n\n\nPosizione relativa (X,Y)",
             "title": "Opzioni Contenuto"
         },
         {
             "location": "/it/media-manager/content-option/#opzioni-contenuto",
-            "text": "",
+            "text": "E' possibile accedere a queste opzioni in 2 modi:   cliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.  cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
             "title": "Opzioni Contenuto"
         },
         {
+            "location": "/it/media-manager/content-option/#titolo",
+            "text": "",
+            "title": "Titolo"
+        },
+        {
+            "location": "/it/media-manager/content-option/#descrizione",
+            "text": "",
+            "title": "Descrizione"
+        },
+        {
+            "location": "/it/media-manager/content-option/#posizione",
+            "text": "",
+            "title": "Posizione"
+        },
+        {
+            "location": "/it/media-manager/content-option/#dimensione-minima-e-massima-file",
+            "text": "",
+            "title": "Dimensione minima e massima file"
+        },
+        {
+            "location": "/it/media-manager/content-option/#tema-del-visualizzatore",
+            "text": "",
+            "title": "Tema del visualizzatore"
+        },
+        {
+            "location": "/it/media-manager/content-option/#tema-popup-strumenti",
+            "text": "",
+            "title": "Tema popup strumenti"
+        },
+        {
+            "location": "/it/media-manager/content-option/#trascinamento",
+            "text": "",
+            "title": "Trascinamento"
+        },
+        {
+            "location": "/it/media-manager/content-option/#rotazione",
+            "text": "",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/media-manager/content-option/#zoom",
+            "text": "",
+            "title": "Zoom"
+        },
+        {
+            "location": "/it/media-manager/content-option/#apertura-esterna",
+            "text": "",
+            "title": "Apertura esterna"
+        },
+        {
+            "location": "/it/media-manager/content-option/#barra-inferiore",
+            "text": "",
+            "title": "Barra inferiore"
+        },
+        {
+            "location": "/it/media-manager/content-option/#metodo-visualizzazione-se-partenza-sullo-stage",
+            "text": "",
+            "title": "Metodo visualizzazione se partenza sullo stage"
+        },
+        {
+            "location": "/it/media-manager/content-option/#fullscreen",
+            "text": "",
+            "title": "Fullscreen"
+        },
+        {
+            "location": "/it/media-manager/content-option/#modalita-fullscreen",
+            "text": "",
+            "title": "Modalit\u00e0 Fullscreen"
+        },
+        {
+            "location": "/it/media-manager/content-option/#chiusura-fullscreen",
+            "text": "",
+            "title": "Chiusura Fullscreen"
+        },
+        {
+            "location": "/it/media-manager/content-option/#editazione",
+            "text": "",
+            "title": "Editazione"
+        },
+        {
+            "location": "/it/media-manager/content-option/#commenti",
+            "text": "",
+            "title": "Commenti"
+        },
+        {
+            "location": "/it/media-manager/content-option/#stampa",
+            "text": "",
+            "title": "Stampa"
+        },
+        {
+            "location": "/it/media-manager/content-option/#preferiti",
+            "text": "",
+            "title": "Preferiti"
+        },
+        {
+            "location": "/it/media-manager/content-option/#attiva-pulsante-per-lavvio-del-seguente-processo",
+            "text": "",
+            "title": "Attiva pulsante per l'avvio del seguente processo"
+        },
+        {
+            "location": "/it/media-manager/content-option/#audio",
+            "text": "",
+            "title": "Audio"
+        },
+        {
+            "location": "/it/media-manager/content-option/#immagine-personalizzata",
+            "text": "",
+            "title": "Immagine personalizzata"
+        },
+        {
+            "location": "/it/media-manager/content-option/#rotazione_1",
+            "text": "",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/media-manager/content-option/#zindex",
+            "text": "",
+            "title": "ZIndex"
+        },
+        {
+            "location": "/it/media-manager/content-option/#posizione-relativa-xy",
+            "text": "",
+            "title": "Posizione relativa (X,Y)"
+        },
+        {
             "location": "/it/media-manager/folder-properties/",
-            "text": "Propriet\u00e0 Cartelle",
+            "text": "Propriet\u00e0 Cartelle\n\n\n\n\nTema barra navigazione\n\n\nSfondo Cartella\n\n\nAdattamento file\n\n\nMetodo visualizzazione cartelle\n\n\nSfondo contenitore\n\n\nMargini contenitore\n\n\nDimensioni contenitore\n\n\nScrollbar\n\n\nTema elementi\n\n\nMargini elemento\n\n\nDimensione minima e massima elemento",
             "title": "Propriet\u00e0 cartelle"
         },
         {
@@ -261,8 +386,63 @@
             "title": "Propriet\u00e0 Cartelle"
         },
         {
+            "location": "/it/media-manager/folder-properties/#tema-barra-navigazione",
+            "text": "",
+            "title": "Tema barra navigazione"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#sfondo-cartella",
+            "text": "",
+            "title": "Sfondo Cartella"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#adattamento-file",
+            "text": "",
+            "title": "Adattamento file"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#metodo-visualizzazione-cartelle",
+            "text": "",
+            "title": "Metodo visualizzazione cartelle"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#sfondo-contenitore",
+            "text": "",
+            "title": "Sfondo contenitore"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#margini-contenitore",
+            "text": "",
+            "title": "Margini contenitore"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#dimensioni-contenitore",
+            "text": "",
+            "title": "Dimensioni contenitore"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#scrollbar",
+            "text": "",
+            "title": "Scrollbar"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#tema-elementi",
+            "text": "",
+            "title": "Tema elementi"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#margini-elemento",
+            "text": "",
+            "title": "Margini elemento"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#dimensione-minima-e-massima-elemento",
+            "text": "",
+            "title": "Dimensione minima e massima elemento"
+        },
+        {
             "location": "/it/media-manager/content-properties/",
-            "text": "Propriet\u00e0 Contenuti",
+            "text": "Propriet\u00e0 Contenuti\n\n\nMetodo visualizzazione file (Lista anteprime)\n\n\n\n\nTema barra anteprime\n\n\nMargine elemento\n\n\nDivisore schermo\n\n\nMassimo file trascinabili\n\n\n\n\nMetodo visualizzazione file (Tutti sullo stage)\n\n\n\n\nPosizionamento sullo stage\n\n\nModalit\u00e0 disposizione griglia\n\n\nMargine elemento\n\n\nMargine esterno\n\n\n\n\nPropriet\u00e0 comuni\n\n\nTema del visualizzatore\n\n\nTema popup strumenti\n\n\nDimensione minima e massima file\n\n\nTrascinamento\n\n\nRotazione\n\n\nZoom\n\n\nApertura esterna\n\n\nFullscreen\n\n\nEditazione\n\n\nCommenti\n\n\nStampa\n\n\nPreferiti",
             "title": "Propriet\u00e0 contenuti"
         },
         {
@@ -271,14 +451,149 @@
             "title": "Propriet\u00e0 Contenuti"
         },
         {
+            "location": "/it/media-manager/content-properties/#metodo-visualizzazione-file-lista-anteprime",
+            "text": "",
+            "title": "Metodo visualizzazione file (Lista anteprime)"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#tema-barra-anteprime",
+            "text": "",
+            "title": "Tema barra anteprime"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#margine-elemento",
+            "text": "",
+            "title": "Margine elemento"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#divisore-schermo",
+            "text": "",
+            "title": "Divisore schermo"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#massimo-file-trascinabili",
+            "text": "",
+            "title": "Massimo file trascinabili"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#metodo-visualizzazione-file-tutti-sullo-stage",
+            "text": "",
+            "title": "Metodo visualizzazione file (Tutti sullo stage)"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#posizionamento-sullo-stage",
+            "text": "",
+            "title": "Posizionamento sullo stage"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#modalita-disposizione-griglia",
+            "text": "",
+            "title": "Modalit\u00e0 disposizione griglia"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#margine-elemento_1",
+            "text": "",
+            "title": "Margine elemento"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#margine-esterno",
+            "text": "",
+            "title": "Margine esterno"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#proprieta-comuni",
+            "text": "",
+            "title": "Propriet\u00e0 comuni"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#tema-del-visualizzatore",
+            "text": "",
+            "title": "Tema del visualizzatore"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#tema-popup-strumenti",
+            "text": "",
+            "title": "Tema popup strumenti"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#dimensione-minima-e-massima-file",
+            "text": "",
+            "title": "Dimensione minima e massima file"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#trascinamento",
+            "text": "",
+            "title": "Trascinamento"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#rotazione",
+            "text": "",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#zoom",
+            "text": "",
+            "title": "Zoom"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#apertura-esterna",
+            "text": "",
+            "title": "Apertura esterna"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#fullscreen",
+            "text": "",
+            "title": "Fullscreen"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#editazione",
+            "text": "",
+            "title": "Editazione"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#commenti",
+            "text": "",
+            "title": "Commenti"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#stampa",
+            "text": "",
+            "title": "Stampa"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#preferiti",
+            "text": "",
+            "title": "Preferiti"
+        },
+        {
             "location": "/it/media-manager/themes/overview/",
-            "text": "Panoramica Temi",
+            "text": "Panoramica Temi\n\n\nFunzioni base\n\n\n\n\nScelta del tema\n\n\n\n\nNuovo tema\n\n\n\n\nDuplica tema",
             "title": "Panoramica"
         },
         {
             "location": "/it/media-manager/themes/overview/#panoramica-temi",
             "text": "",
             "title": "Panoramica Temi"
+        },
+        {
+            "location": "/it/media-manager/themes/overview/#funzioni-base",
+            "text": "",
+            "title": "Funzioni base"
+        },
+        {
+            "location": "/it/media-manager/themes/overview/#scelta-del-tema",
+            "text": "",
+            "title": "Scelta del tema"
+        },
+        {
+            "location": "/it/media-manager/themes/overview/#nuovo-tema",
+            "text": "",
+            "title": "Nuovo tema"
+        },
+        {
+            "location": "/it/media-manager/themes/overview/#duplica-tema",
+            "text": "",
+            "title": "Duplica tema"
         },
         {
             "location": "/it/media-manager/themes/theme-module/",
@@ -292,7 +607,7 @@
         },
         {
             "location": "/it/media-manager/themes/theme-element/",
-            "text": "Tema Elementi",
+            "text": "Tema Elementi\n\n\nModalit\u00e0 SCHEDA\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo elemento\n\n\nOmbra\n\n\nColore controlli\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione\n\n\nModalit\u00e0 IMMAGINE\n\n\n\n\nModalit\u00e0 IMMAGINE E TESTO\n\n\n\n\nColore sfondo testo\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione\n\n\nModalit\u00e0 SOLO TESTO\n\n\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione",
             "title": "Tema elementi"
         },
         {
@@ -301,8 +616,88 @@
             "title": "Tema Elementi"
         },
         {
+            "location": "/it/media-manager/themes/theme-element/#modalita-scheda",
+            "text": "",
+            "title": "Modalit\u00e0 SCHEDA"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#colore-bordo-esterno",
+            "text": "",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#spessore-bordo",
+            "text": "",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#colore-sfondo-elemento",
+            "text": "",
+            "title": "Colore sfondo elemento"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#ombra",
+            "text": "",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#colore-controlli",
+            "text": "",
+            "title": "Colore controlli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#carattere-del-titolo",
+            "text": "",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#carattere-della-descrizione",
+            "text": "",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#modalita-immagine",
+            "text": "",
+            "title": "Modalit\u00e0 IMMAGINE"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#modalita-immagine-e-testo",
+            "text": "",
+            "title": "Modalit\u00e0 IMMAGINE E TESTO"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#colore-sfondo-testo",
+            "text": "",
+            "title": "Colore sfondo testo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#carattere-del-titolo_1",
+            "text": "",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#carattere-della-descrizione_1",
+            "text": "",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#modalita-solo-testo",
+            "text": "",
+            "title": "Modalit\u00e0 SOLO TESTO"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#carattere-del-titolo_2",
+            "text": "",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/#carattere-della-descrizione_2",
+            "text": "",
+            "title": "Carattere della descrizione"
+        },
+        {
             "location": "/it/media-manager/themes/theme-navigationbar/",
-            "text": "Tema Barra di Navigazione",
+            "text": "Tema Barra di Navigazione\n\n\n\n\nTipo di Navigazione\n\n\nPosizione barra\n\n\nChiusura\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo\n\n\nOmbra\n\n\nColore cartelle/bottoni\n\n\nCarattere cartelle\n\n\nCarattere cartella corrente",
             "title": "Tema barra navigazione"
         },
         {
@@ -311,8 +706,58 @@
             "title": "Tema Barra di Navigazione"
         },
         {
+            "location": "/it/media-manager/themes/theme-navigationbar/#tipo-di-navigazione",
+            "text": "",
+            "title": "Tipo di Navigazione"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#posizione-barra",
+            "text": "",
+            "title": "Posizione barra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#chiusura",
+            "text": "",
+            "title": "Chiusura"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-bordo-esterno",
+            "text": "",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#spessore-bordo",
+            "text": "",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-sfondo",
+            "text": "",
+            "title": "Colore sfondo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#ombra",
+            "text": "",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-cartellebottoni",
+            "text": "",
+            "title": "Colore cartelle/bottoni"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#carattere-cartelle",
+            "text": "",
+            "title": "Carattere cartelle"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#carattere-cartella-corrente",
+            "text": "",
+            "title": "Carattere cartella corrente"
+        },
+        {
             "location": "/it/media-manager/themes/theme-previewbar/",
-            "text": "Tema Barra Anteprime",
+            "text": "Tema Barra Anteprime\n\n\n\n\nPosizione barra\n\n\nMargine esterno\n\n\nDimensione anteprima\n\n\nMargine anteprime\n\n\nScrollbar\n\n\nApri il primo elemento\n\n\nIn primo piano\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nArrotondamento angoli\n\n\nColore sfondo barra\n\n\nOmbra\n\n\nColore titolo/controlli\n\n\nEtichetta\n\n\nCarattere",
             "title": "Tema barra anteprime"
         },
         {
@@ -321,8 +766,83 @@
             "title": "Tema Barra Anteprime"
         },
         {
+            "location": "/it/media-manager/themes/theme-previewbar/#posizione-barra",
+            "text": "",
+            "title": "Posizione barra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#margine-esterno",
+            "text": "",
+            "title": "Margine esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#dimensione-anteprima",
+            "text": "",
+            "title": "Dimensione anteprima"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#margine-anteprime",
+            "text": "",
+            "title": "Margine anteprime"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#scrollbar",
+            "text": "",
+            "title": "Scrollbar"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#apri-il-primo-elemento",
+            "text": "",
+            "title": "Apri il primo elemento"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#in-primo-piano",
+            "text": "",
+            "title": "In primo piano"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#colore-bordo-esterno",
+            "text": "",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#spessore-bordo",
+            "text": "",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#arrotondamento-angoli",
+            "text": "",
+            "title": "Arrotondamento angoli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#colore-sfondo-barra",
+            "text": "",
+            "title": "Colore sfondo barra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#ombra",
+            "text": "",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#colore-titolocontrolli",
+            "text": "",
+            "title": "Colore titolo/controlli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#etichetta",
+            "text": "",
+            "title": "Etichetta"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/#carattere",
+            "text": "",
+            "title": "Carattere"
+        },
+        {
             "location": "/it/media-manager/themes/theme-viewer/",
-            "text": "Tema del Visualizzatore",
+            "text": "Tema del Visualizzatore\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo elemento\n\n\nOmbra\n\n\nBarre degli strumenti\n\n\nColore bottoni/controlli\n\n\nColore fondo titolo/bottoni/controlli\n\n\nCarattere del titolo\n\n\nCarattere della descrizione\n\n\nColore sfondo descrizione",
             "title": "Tema del visualizzatore"
         },
         {
@@ -331,14 +851,104 @@
             "title": "Tema del Visualizzatore"
         },
         {
+            "location": "/it/media-manager/themes/theme-viewer/#colore-bordo-esterno",
+            "text": "",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#spessore-bordo",
+            "text": "",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#colore-sfondo-elemento",
+            "text": "",
+            "title": "Colore sfondo elemento"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#ombra",
+            "text": "",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#barre-degli-strumenti",
+            "text": "",
+            "title": "Barre degli strumenti"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#colore-bottonicontrolli",
+            "text": "",
+            "title": "Colore bottoni/controlli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#colore-fondo-titolobottonicontrolli",
+            "text": "",
+            "title": "Colore fondo titolo/bottoni/controlli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#carattere-del-titolo",
+            "text": "",
+            "title": "Carattere del titolo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#carattere-della-descrizione",
+            "text": "",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/#colore-sfondo-descrizione",
+            "text": "",
+            "title": "Colore sfondo descrizione"
+        },
+        {
             "location": "/it/media-manager/themes/theme-toolspopup/",
-            "text": "Tema Popup Strumenti",
+            "text": "Tema Popup Strumenti\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo del popup\n\n\nOmbra\n\n\nColore bottoni/controlli\n\n\nCarattere bottoni\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione",
             "title": "Tema popup strumenti"
         },
         {
             "location": "/it/media-manager/themes/theme-toolspopup/#tema-popup-strumenti",
             "text": "",
             "title": "Tema Popup Strumenti"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#colore-bordo-esterno",
+            "text": "",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#spessore-bordo",
+            "text": "",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#colore-sfondo-del-popup",
+            "text": "",
+            "title": "Colore sfondo del popup"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#ombra",
+            "text": "",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#colore-bottonicontrolli",
+            "text": "",
+            "title": "Colore bottoni/controlli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#carattere-bottoni",
+            "text": "",
+            "title": "Carattere bottoni"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#carattere-del-titolo",
+            "text": "",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#carattere-della-descrizione",
+            "text": "",
+            "title": "Carattere della descrizione"
         },
         {
             "location": "/it/media-manager/contents/overview/",
