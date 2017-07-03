@@ -597,13 +597,48 @@
         },
         {
             "location": "/it/media-manager/themes/theme-module/",
-            "text": "Tema Moduli",
+            "text": "Tema Moduli\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo\n\n\nOmbra\n\n\nColore bottoni/controlli\n\n\nCarattere bottoni\n\n\nCarattere del contenuto",
             "title": "Tema moduli"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#tema-moduli",
             "text": "",
             "title": "Tema Moduli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#colore-bordo-esterno",
+            "text": "",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#spessore-bordo",
+            "text": "",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#colore-sfondo",
+            "text": "",
+            "title": "Colore sfondo"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#ombra",
+            "text": "",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#colore-bottonicontrolli",
+            "text": "",
+            "title": "Colore bottoni/controlli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#carattere-bottoni",
+            "text": "",
+            "title": "Carattere bottoni"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#carattere-del-contenuto",
+            "text": "",
+            "title": "Carattere del contenuto"
         },
         {
             "location": "/it/media-manager/themes/theme-element/",
