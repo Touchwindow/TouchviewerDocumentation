@@ -242,13 +242,18 @@
         },
         {
             "location": "/it/media-manager/content-option/",
-            "text": "Opzioni Contenuto\n\n\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nTitolo\n\n\nDescrizione\n\n\nPosizione\n\n\nDimensione minima e massima file\n\n\nTema del visualizzatore\n\n\nTema popup strumenti\n\n\nTrascinamento\n\n\nRotazione\n\n\nZoom\n\n\nApertura esterna\n\n\nBarra inferiore\n\n\nMetodo visualizzazione se partenza sullo stage\n\n\nFullscreen\n\n\nModalit\u00e0 Fullscreen\n\n\nChiusura Fullscreen\n\n\nEditazione\n\n\nCommenti\n\n\nStampa\n\n\nPreferiti\n\n\nAttiva pulsante per l'avvio del seguente processo\n\n\nAudio\n\n\n\n\nImmagine personalizzata\n\n\nRotazione\n\n\nZIndex\n\n\nPosizione relativa (X,Y)",
+            "text": "Opzioni Contenuto\n\n\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nInformazioni\n\n\nTitolo\n\n\nDescrizione\n\n\nPosizione\n\n\nDimensione minima e massima file\n\n\nTema del visualizzatore\n\n\nTema popup strumenti\n\n\nTrascinamento\n\n\nRotazione\n\n\nZoom\n\n\nApertura esterna\n\n\nBarra inferiore\n\n\nMetodo visualizzazione se partenza sullo stage\n\n\nFullscreen\n\n\nModalit\u00e0 Fullscreen\n\n\nChiusura Fullscreen\n\n\nEditazione\n\n\nCommenti\n\n\nStampa\n\n\nPreferiti\n\n\nAttiva pulsante per l'avvio del seguente processo\n\n\nAudio\n\n\nAnteprima\n\n\n\n\nImmagine personalizzata\n\n\nRotazione\n\n\nZIndex\n\n\nPosizione relativa (X,Y)",
             "title": "Opzioni Contenuto"
         },
         {
             "location": "/it/media-manager/content-option/#opzioni-contenuto",
             "text": "E' possibile accedere a queste opzioni in 2 modi:   cliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.  cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
             "title": "Opzioni Contenuto"
+        },
+        {
+            "location": "/it/media-manager/content-option/#informazioni",
+            "text": "",
+            "title": "Informazioni"
         },
         {
             "location": "/it/media-manager/content-option/#titolo",
@@ -354,6 +359,11 @@
             "location": "/it/media-manager/content-option/#audio",
             "text": "",
             "title": "Audio"
+        },
+        {
+            "location": "/it/media-manager/content-option/#anteprima",
+            "text": "",
+            "title": "Anteprima"
         },
         {
             "location": "/it/media-manager/content-option/#immagine-personalizzata",
