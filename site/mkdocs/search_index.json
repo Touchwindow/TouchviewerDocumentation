@@ -242,68 +242,103 @@
         },
         {
             "location": "/it/media-manager/content-option/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Opzioni Contenuto",
             "title": "Opzioni Contenuto"
         },
         {
-            "location": "/it/media-manager/content-option/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/media-manager/content-option/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/content-option/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
-            "location": "/it/media-manager/selected-folder/",
-            "text": "Cartella selezionata",
-            "title": "Cartella Selezionata"
-        },
-        {
-            "location": "/it/media-manager/selected-folder/#cartella-selezionata",
+            "location": "/it/media-manager/content-option/#opzioni-contenuto",
             "text": "",
-            "title": "Cartella selezionata"
+            "title": "Opzioni Contenuto"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/",
+            "text": "Propriet\u00e0 Cartelle",
+            "title": "Propriet\u00e0 cartelle"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#proprieta-cartelle",
+            "text": "",
+            "title": "Propriet\u00e0 Cartelle"
+        },
+        {
+            "location": "/it/media-manager/content-properties/",
+            "text": "Propriet\u00e0 Contenuti",
+            "title": "Propriet\u00e0 contenuti"
+        },
+        {
+            "location": "/it/media-manager/content-properties/#proprieta-contenuti",
+            "text": "",
+            "title": "Propriet\u00e0 Contenuti"
         },
         {
             "location": "/it/media-manager/themes/overview/",
-            "text": "",
+            "text": "Panoramica Temi",
             "title": "Panoramica"
         },
         {
-            "location": "/it/media-manager/themes/theme-element/",
+            "location": "/it/media-manager/themes/overview/#panoramica-temi",
             "text": "",
-            "title": "Tema moduli"
+            "title": "Panoramica Temi"
         },
         {
             "location": "/it/media-manager/themes/theme-module/",
+            "text": "Tema Moduli",
+            "title": "Tema moduli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-module/#tema-moduli",
             "text": "",
+            "title": "Tema Moduli"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-element/",
+            "text": "Tema Elementi",
             "title": "Tema elementi"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/",
+            "location": "/it/media-manager/themes/theme-element/#tema-elementi",
             "text": "",
+            "title": "Tema Elementi"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/",
+            "text": "Tema Barra di Navigazione",
             "title": "Tema barra navigazione"
         },
         {
-            "location": "/it/media-manager/themes/theme-previewbar/",
+            "location": "/it/media-manager/themes/theme-navigationbar/#tema-barra-di-navigazione",
             "text": "",
+            "title": "Tema Barra di Navigazione"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-previewbar/",
+            "text": "Tema Barra Anteprime",
             "title": "Tema barra anteprime"
         },
         {
-            "location": "/it/media-manager/themes/theme-viewer/",
+            "location": "/it/media-manager/themes/theme-previewbar/#tema-barra-anteprime",
             "text": "",
+            "title": "Tema Barra Anteprime"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-viewer/",
+            "text": "Tema del Visualizzatore",
             "title": "Tema del visualizzatore"
         },
         {
-            "location": "/it/media-manager/themes/theme-toolspopup/",
+            "location": "/it/media-manager/themes/theme-viewer/#tema-del-visualizzatore",
             "text": "",
+            "title": "Tema del Visualizzatore"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/",
+            "text": "Tema Popup Strumenti",
             "title": "Tema popup strumenti"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-toolspopup/#tema-popup-strumenti",
+            "text": "",
+            "title": "Tema Popup Strumenti"
         },
         {
             "location": "/it/media-manager/contents/overview/",
