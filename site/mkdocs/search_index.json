@@ -242,7 +242,7 @@
         },
         {
             "location": "/it/media-manager/content-option/",
-            "text": "Opzioni Contenuto\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nInformazioni\n\n\n\n\nTitolo\n\n\nDescrizione\n\n\nPosizione\n\n\nDimensione minima e massima file\n\n\nTema del visualizzatore\n\n\nTema popup strumenti\n\n\nTrascinamento\n\n\nRotazione\n\n\nZoom\n\n\nApertura esterna\n\n\nBarra inferiore\n\n\nMetodo visualizzazione se partenza sullo stage\n\n\nFullscreen\n\n\nModalit\u00e0 Fullscreen\n\n\nChiusura Fullscreen\n\n\nEditazione\n\n\nCommenti\n\n\nStampa\n\n\nPreferiti\n\n\nAttiva pulsante per l'avvio del seguente processo\n\n\nAudio\n\n\nAnteprima\n\n\n\n\nImmagine personalizzata\n\n\nRotazione\n\n\nZIndex\n\n\nPosizione relativa (X,Y)",
+            "text": "Opzioni Contenuto\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nInformazioni\n\n\n\n\nTitolo\n\n\nE' il nome visualizzato nel Media Presenter.\n\n\nDescrizione\n\n\nE' la descrizione visualizzata nel Media Presenter quando si clicca sull'icona \n\n\nPosizione\n\n\nE' l'ordine in cui viene visualizzato l'elemento sullo stage o nella barra delle anteprime.\n\n\nDimensione minima e massima file\n\n\nImposta la dimensione minima e massima in cui il contenuto pu\u00f2 essere ridimensionato.\n\nDi default vengono ereditati i valori impostati nelle propriet\u00e0 dei contenuti. \nVai a propriet\u00e0 contenuti\n.\n\n\nTema del visualizzatore\n\n\nDi default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti.\n \nVai a Tema del visualizzatore\n.\n\n\nTema popup strumenti\n\n\nDi default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti.\n \nVai a Tema popup strumenti\n.\n\n\nTrascinamento\n\n\nAbilita o disabilita la possibilit\u00e0 di \nspostare\n il contenuto sullo stage.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. \nVai a propriet\u00e0 contenuti\n.\n\n\nRotazione\n\n\nAbilita o disabilita la possibilit\u00e0 di \nruotare\n il contenuto sullo stage.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. \nVai a propriet\u00e0 contenuti\n.\n\n\nZoom\n\n\nAbilita o disabilita la possibilit\u00e0 di \nzoommare\n il contenuto sullo stage.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. \nVai a propriet\u00e0 contenuti\n.\n\n\nApertura esterna\n\n\nAbilita o disabilita la possibilit\u00e0 di aprire esternamente il contenuto con il programma predefinito per quel tipo di file.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. \nVai a propriet\u00e0 contenuti\n.\n\n\nBarra inferiore\n\n\nAbilita o disabilita la barra inferiore per interagire con quel tipo di contenuti. (Es: in un contenuto video viene nascosto il Player video).\n\n\nMetodo visualizzazione se partenza sullo stage\n\n\nPossibili\u00e0 di decidere se mostrare subito il \nContenuto\n o una una sua \nAnteprima\n. Nel caso si scelga Anteprima dovr\u00e0 essere caricata un'immagine sostitutiva nel tabs \nAnteprima\n.\n\n \nVai ad Anteprima\n.\n\n\nFullscreen\n\n\nAbilita o disabilita la possibilit\u00e0 di aprire il contenuto in modalit\u00e0 fullscreen tramite l'icona \n nella barra degli strumenti del contenuto.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. \nVai a propriet\u00e0 contenuti\n.\n\n\nModalit\u00e0 Fullscreen\n\n\nImposta la modalit\u00e0 in cui il contenuto si deve aprire in fulscreen.\nE' possibile scegliere tra 3 differenti modalit\u00e0:\n\n\n\n\nSu Richiesta:\n Il contenuto viene aperto cliccando sull'icona \n\n\nSempre:\n Il contenuto \u00e8 visualizzabile esclusivamente in modalit\u00e0 fullscreen\n\n\nAll'avvio:\n All'apertura del contenuto si apre in modalit\u00e0 fullscreen\n\n\n\n\nChiusura Fullscreen\n\n\nEditazione\n\n\nCommenti\n\n\nStampa\n\n\nPreferiti\n\n\nAttiva pulsante per l'avvio del seguente processo\n\n\nAudio\n\n\nAnteprima\n\n\n\n\nImmagine personalizzata\n\n\nRotazione\n\n\nZIndex\n\n\nPosizione relativa (X,Y)",
             "title": "Opzioni Contenuto"
         },
         {
@@ -257,72 +257,72 @@
         },
         {
             "location": "/it/media-manager/content-option/#titolo",
-            "text": "",
+            "text": "E' il nome visualizzato nel Media Presenter.",
             "title": "Titolo"
         },
         {
             "location": "/it/media-manager/content-option/#descrizione",
-            "text": "",
+            "text": "E' la descrizione visualizzata nel Media Presenter quando si clicca sull'icona",
             "title": "Descrizione"
         },
         {
             "location": "/it/media-manager/content-option/#posizione",
-            "text": "",
+            "text": "E' l'ordine in cui viene visualizzato l'elemento sullo stage o nella barra delle anteprime.",
             "title": "Posizione"
         },
         {
             "location": "/it/media-manager/content-option/#dimensione-minima-e-massima-file",
-            "text": "",
+            "text": "Imposta la dimensione minima e massima in cui il contenuto pu\u00f2 essere ridimensionato. \nDi default vengono ereditati i valori impostati nelle propriet\u00e0 dei contenuti.  Vai a propriet\u00e0 contenuti .",
             "title": "Dimensione minima e massima file"
         },
         {
             "location": "/it/media-manager/content-option/#tema-del-visualizzatore",
-            "text": "",
+            "text": "Di default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti.   Vai a Tema del visualizzatore .",
             "title": "Tema del visualizzatore"
         },
         {
             "location": "/it/media-manager/content-option/#tema-popup-strumenti",
-            "text": "",
+            "text": "Di default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti.   Vai a Tema popup strumenti .",
             "title": "Tema popup strumenti"
         },
         {
             "location": "/it/media-manager/content-option/#trascinamento",
-            "text": "",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  spostare  il contenuto sullo stage. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.  Vai a propriet\u00e0 contenuti .",
             "title": "Trascinamento"
         },
         {
             "location": "/it/media-manager/content-option/#rotazione",
-            "text": "",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  ruotare  il contenuto sullo stage. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.  Vai a propriet\u00e0 contenuti .",
             "title": "Rotazione"
         },
         {
             "location": "/it/media-manager/content-option/#zoom",
-            "text": "",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  zoommare  il contenuto sullo stage. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.  Vai a propriet\u00e0 contenuti .",
             "title": "Zoom"
         },
         {
             "location": "/it/media-manager/content-option/#apertura-esterna",
-            "text": "",
+            "text": "Abilita o disabilita la possibilit\u00e0 di aprire esternamente il contenuto con il programma predefinito per quel tipo di file. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.  Vai a propriet\u00e0 contenuti .",
             "title": "Apertura esterna"
         },
         {
             "location": "/it/media-manager/content-option/#barra-inferiore",
-            "text": "",
+            "text": "Abilita o disabilita la barra inferiore per interagire con quel tipo di contenuti. (Es: in un contenuto video viene nascosto il Player video).",
             "title": "Barra inferiore"
         },
         {
             "location": "/it/media-manager/content-option/#metodo-visualizzazione-se-partenza-sullo-stage",
-            "text": "",
+            "text": "Possibili\u00e0 di decidere se mostrare subito il  Contenuto  o una una sua  Anteprima . Nel caso si scelga Anteprima dovr\u00e0 essere caricata un'immagine sostitutiva nel tabs  Anteprima . \n  Vai ad Anteprima .",
             "title": "Metodo visualizzazione se partenza sullo stage"
         },
         {
             "location": "/it/media-manager/content-option/#fullscreen",
-            "text": "",
+            "text": "Abilita o disabilita la possibilit\u00e0 di aprire il contenuto in modalit\u00e0 fullscreen tramite l'icona   nella barra degli strumenti del contenuto. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.  Vai a propriet\u00e0 contenuti .",
             "title": "Fullscreen"
         },
         {
             "location": "/it/media-manager/content-option/#modalita-fullscreen",
-            "text": "",
+            "text": "Imposta la modalit\u00e0 in cui il contenuto si deve aprire in fulscreen.\nE' possibile scegliere tra 3 differenti modalit\u00e0:   Su Richiesta:  Il contenuto viene aperto cliccando sull'icona   Sempre:  Il contenuto \u00e8 visualizzabile esclusivamente in modalit\u00e0 fullscreen  All'avvio:  All'apertura del contenuto si apre in modalit\u00e0 fullscreen",
             "title": "Modalit\u00e0 Fullscreen"
         },
         {
