@@ -582,7 +582,7 @@
         },
         {
             "location": "/it/media-manager/themes/overview/",
-            "text": "Panoramica Temi\n\n\nTouchviewer comprende una suite di strumenti ideata per gestire in maniera semplice e veloce la personalizzazione grafica dell'interfaccia utente. Temi grafici ed impostazioni preconfigurate ti aiuteranno a creare la tua personale composizione interattiva.\n\n\nFunzioni base\n\n\n\n\nScelta del tema\n\n\n\n\nNuovo tema\n\n\n\n\nDuplica tema",
+            "text": "Panoramica Temi\n\n\nTouchviewer comprende una suite di strumenti ideata per gestire in maniera semplice e veloce la personalizzazione grafica dell'interfaccia utente. Temi grafici ed impostazioni preconfigurate ti aiuteranno a creare la tua personale composizione interattiva.\n\n\nFunzioni base\n\n\n\n\nLa funzionalit\u00e0 theme manager vi consente di aggiungere nuovi temi grafici e salvarli per un successivo utilizzo.\nIn tutti i menu di selezione e gestione del tema \u00e8 possibile:\n\n\n\n\nEditare il tema corrente\n\n\nAggiungere un nuovo tema\n\n\nCancellare il tema corrente\n\n\n\n\nScelta del tema\n\n\n\n\nE' possibile scegliere un tema tra quelli salvati.\n\n\nNuovo tema\n\n\n\n\nCliccando sull'icona + \u00e8 possibile creare un nuovo tema partendo dalle impostazioni di default.\n\n\nDuplica tema\n\n\n\n\nCliccando su \nDuplica\n \u00e8 possibile creare un nuovo tema partendo dalle impostazioni del tema attualmente selezionato.",
             "title": "Panoramica"
         },
         {
@@ -592,67 +592,67 @@
         },
         {
             "location": "/it/media-manager/themes/overview/#funzioni-base",
-            "text": "",
+            "text": "La funzionalit\u00e0 theme manager vi consente di aggiungere nuovi temi grafici e salvarli per un successivo utilizzo.\nIn tutti i menu di selezione e gestione del tema \u00e8 possibile:   Editare il tema corrente  Aggiungere un nuovo tema  Cancellare il tema corrente",
             "title": "Funzioni base"
         },
         {
             "location": "/it/media-manager/themes/overview/#scelta-del-tema",
-            "text": "",
+            "text": "E' possibile scegliere un tema tra quelli salvati.",
             "title": "Scelta del tema"
         },
         {
             "location": "/it/media-manager/themes/overview/#nuovo-tema",
-            "text": "",
+            "text": "Cliccando sull'icona + \u00e8 possibile creare un nuovo tema partendo dalle impostazioni di default.",
             "title": "Nuovo tema"
         },
         {
             "location": "/it/media-manager/themes/overview/#duplica-tema",
-            "text": "",
+            "text": "Cliccando su  Duplica  \u00e8 possibile creare un nuovo tema partendo dalle impostazioni del tema attualmente selezionato.",
             "title": "Duplica tema"
         },
         {
             "location": "/it/media-manager/themes/theme-module/",
-            "text": "Tema Moduli\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo\n\n\nOmbra\n\n\nColore bottoni/controlli\n\n\nCarattere bottoni\n\n\nCarattere del contenuto",
+            "text": "Tema Moduli\n\n\n\n\nLa personalizzazione del tema moduli \u00e8 accessibile dalla schermata \"Impostazioni\".\nLa personalizzazione riguarda l'aspetto grafico di:\n\n\n\n\nPop-up preferiti\n\n\nPop-up ricerca\n\n\nPop-up caricamento\n\n\nPop-up commenti\n\n\n\n\nPer modificare il Pop-up commenti bisogna selezionare il tema \nComment\n e modificarlo.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore del Pop-up.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore del Pop-up.\n\n\nColore sfondo\n\n\nImposta il colore di fondo del Pop-up.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere il Pop-up. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore bottoni/controlli\n\n\nImposta il colore che devono avere gli eventuali bottoni/controlli all'interno del Pop-up.\n\n\nCarattere bottoni\n\n\nImposta il carattere presente all'interno dei bottoni.\n\n\nCarattere del contenuto\n\n\nImposta il carattere presente all'interno di un eventuale contenuto (es. commenti).",
             "title": "Tema moduli"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#tema-moduli",
-            "text": "",
+            "text": "La personalizzazione del tema moduli \u00e8 accessibile dalla schermata \"Impostazioni\".\nLa personalizzazione riguarda l'aspetto grafico di:   Pop-up preferiti  Pop-up ricerca  Pop-up caricamento  Pop-up commenti   Per modificare il Pop-up commenti bisogna selezionare il tema  Comment  e modificarlo.",
             "title": "Tema Moduli"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#colore-bordo-esterno",
-            "text": "",
+            "text": "Imposta il colore del bordo del contenitore del Pop-up.",
             "title": "Colore bordo esterno"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#spessore-bordo",
-            "text": "",
+            "text": "Imposta lo spessore del bordo del contenitore del Pop-up.",
             "title": "Spessore bordo"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#colore-sfondo",
-            "text": "",
+            "text": "Imposta il colore di fondo del Pop-up.",
             "title": "Colore sfondo"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#ombra",
-            "text": "",
+            "text": "Imposta l'ombra che deve avere il Pop-up. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
             "title": "Ombra"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#colore-bottonicontrolli",
-            "text": "",
+            "text": "Imposta il colore che devono avere gli eventuali bottoni/controlli all'interno del Pop-up.",
             "title": "Colore bottoni/controlli"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#carattere-bottoni",
-            "text": "",
+            "text": "Imposta il carattere presente all'interno dei bottoni.",
             "title": "Carattere bottoni"
         },
         {
             "location": "/it/media-manager/themes/theme-module/#carattere-del-contenuto",
-            "text": "",
+            "text": "Imposta il carattere presente all'interno di un eventuale contenuto (es. commenti).",
             "title": "Carattere del contenuto"
         },
         {
