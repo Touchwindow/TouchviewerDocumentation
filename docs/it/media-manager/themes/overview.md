@@ -1,4 +1,5 @@
 # Panoramica Temi
+Touchviewer comprende una suite di strumenti ideata per gestire in maniera semplice e veloce la personalizzazione grafica dell'interfaccia utente. Temi grafici ed impostazioni preconfigurate ti aiuteranno a creare la tua personale composizione interattiva.
 
 ### Funzioni base
 ![](/img/theme_overview_1.png)

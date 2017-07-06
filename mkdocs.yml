@@ -59,6 +59,11 @@ pages:
         - Mappa Interattiva: it/media-manager/contents/interactive-map.md
         - Ingresso Video : it/media-manager/contents/video-input.md
         - Streaming Video : it/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: it/media-manager/features/draw-on.md
+        - Commenti: it/media-manager/features/comments.md
+        - Favoriti: it/media-manager/features/favourite.md
+        - Info Point: it/media-manager/features/info-point.md
       - Sincronizzazione: it/media-manager/network-sync.md
     - Media Presenter:
       - Workspace:
