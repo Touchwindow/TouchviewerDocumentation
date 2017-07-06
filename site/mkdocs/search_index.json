@@ -657,92 +657,92 @@
         },
         {
             "location": "/it/media-manager/themes/theme-element/",
-            "text": "Tema Elementi\n\n\nModalit\u00e0 SCHEDA\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo elemento\n\n\nOmbra\n\n\nColore controlli\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione\n\n\nModalit\u00e0 IMMAGINE\n\n\n\n\nModalit\u00e0 IMMAGINE E TESTO\n\n\n\n\nColore sfondo testo\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione\n\n\nModalit\u00e0 SOLO TESTO\n\n\n\n\nCarattere del Titolo\n\n\nCarattere della descrizione",
+            "text": "Tema Elementi\n\n\nIl tema elementi consente di personalizzare l'aspetto grafico dei bottoni (cartelle) necessari alla navigazione del software, \u00e8 possibile gestire le seguenti opzioni:\n\n\n\n\nScheda\n\n\nImmagine\n\n\nImmagine e testo\n\n\nSolo testo\n\n\n\n\nOgnuna di queste visualizzazioni pu\u00f2 essere configurata graficamente impostando i seguenti parametri:\n\n\nTemplate elemento SCHEDA\n\n\n\n\nViene visualizzata una scheda che pu\u00f2 essere composta da un \nTitolo\n, una \nDescrizione\n e un \nImmagine\n.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della scheda.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della scheda.\n\n\nColore sfondo\n\n\nImposta il colore di fondo della scheda.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere kla scheda. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore controlli\n\n\nImposta il colore del bordo che circonda l'immagine e il bordo di separazione tra il Titolo e l'Immagine o Descrizione.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento IMMAGINE\n\n\n\n\nViene utilizzata l'immagine caricata per ogni cartella.\n\n\nTemplate elemento IMMAGINE E TESTO\n\n\n\n\nViene utilizzata l'immagine caricata e in basso viene mostrato un overlay con il titolo e la descrizione.\n\n\nColore sfondo testo\n\n\nImposta il colore di fondo dell'overlay su cui compare il testo.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento SOLO TESTO\n\n\n\n\nViene mostrato il Titolo e la Descrizione senza nessun contenitore.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.",
             "title": "Tema elementi"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#tema-elementi",
-            "text": "",
+            "text": "Il tema elementi consente di personalizzare l'aspetto grafico dei bottoni (cartelle) necessari alla navigazione del software, \u00e8 possibile gestire le seguenti opzioni:   Scheda  Immagine  Immagine e testo  Solo testo   Ognuna di queste visualizzazioni pu\u00f2 essere configurata graficamente impostando i seguenti parametri:",
             "title": "Tema Elementi"
         },
         {
-            "location": "/it/media-manager/themes/theme-element/#modalita-scheda",
-            "text": "",
-            "title": "Modalit\u00e0 SCHEDA"
+            "location": "/it/media-manager/themes/theme-element/#template-elemento-scheda",
+            "text": "Viene visualizzata una scheda che pu\u00f2 essere composta da un  Titolo , una  Descrizione  e un  Immagine .",
+            "title": "Template elemento SCHEDA"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#colore-bordo-esterno",
-            "text": "",
+            "text": "Imposta il colore del bordo del contenitore della scheda.",
             "title": "Colore bordo esterno"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#spessore-bordo",
-            "text": "",
+            "text": "Imposta lo spessore del bordo del contenitore della scheda.",
             "title": "Spessore bordo"
         },
         {
-            "location": "/it/media-manager/themes/theme-element/#colore-sfondo-elemento",
-            "text": "",
-            "title": "Colore sfondo elemento"
+            "location": "/it/media-manager/themes/theme-element/#colore-sfondo",
+            "text": "Imposta il colore di fondo della scheda.",
+            "title": "Colore sfondo"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#ombra",
-            "text": "",
+            "text": "Imposta l'ombra che deve avere kla scheda. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
             "title": "Ombra"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#colore-controlli",
-            "text": "",
+            "text": "Imposta il colore del bordo che circonda l'immagine e il bordo di separazione tra il Titolo e l'Immagine o Descrizione.",
             "title": "Colore controlli"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#carattere-del-titolo",
-            "text": "",
+            "text": "Imposta il carattere del Titolo.",
             "title": "Carattere del Titolo"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#carattere-della-descrizione",
-            "text": "",
+            "text": "Imposta il carattere della Descrizione.",
             "title": "Carattere della descrizione"
         },
         {
-            "location": "/it/media-manager/themes/theme-element/#modalita-immagine",
-            "text": "",
-            "title": "Modalit\u00e0 IMMAGINE"
+            "location": "/it/media-manager/themes/theme-element/#template-elemento-immagine",
+            "text": "Viene utilizzata l'immagine caricata per ogni cartella.",
+            "title": "Template elemento IMMAGINE"
         },
         {
-            "location": "/it/media-manager/themes/theme-element/#modalita-immagine-e-testo",
-            "text": "",
-            "title": "Modalit\u00e0 IMMAGINE E TESTO"
+            "location": "/it/media-manager/themes/theme-element/#template-elemento-immagine-e-testo",
+            "text": "Viene utilizzata l'immagine caricata e in basso viene mostrato un overlay con il titolo e la descrizione.",
+            "title": "Template elemento IMMAGINE E TESTO"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#colore-sfondo-testo",
-            "text": "",
+            "text": "Imposta il colore di fondo dell'overlay su cui compare il testo.",
             "title": "Colore sfondo testo"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#carattere-del-titolo_1",
-            "text": "",
+            "text": "Imposta il carattere del Titolo.",
             "title": "Carattere del Titolo"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#carattere-della-descrizione_1",
-            "text": "",
+            "text": "Imposta il carattere della Descrizione.",
             "title": "Carattere della descrizione"
         },
         {
-            "location": "/it/media-manager/themes/theme-element/#modalita-solo-testo",
-            "text": "",
-            "title": "Modalit\u00e0 SOLO TESTO"
+            "location": "/it/media-manager/themes/theme-element/#template-elemento-solo-testo",
+            "text": "Viene mostrato il Titolo e la Descrizione senza nessun contenitore.",
+            "title": "Template elemento SOLO TESTO"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#carattere-del-titolo_2",
-            "text": "",
+            "text": "Imposta il carattere del Titolo.",
             "title": "Carattere del Titolo"
         },
         {
             "location": "/it/media-manager/themes/theme-element/#carattere-della-descrizione_2",
-            "text": "",
+            "text": "Imposta il carattere della Descrizione.",
             "title": "Carattere della descrizione"
         },
         {
