@@ -103,7 +103,6 @@ Associa un file audio al contenuto, con la possibilità di avviare l'audio all'a
 E' possibile fermare e far ripartire l'audio cliccando sull'icona ![](/img/icon_audio.png)<br>
 Non possono essere riprodotti più file audio contemporaneamente.
 
-
 ## Anteprima
 ![](/img/content_option_2.png)
 
