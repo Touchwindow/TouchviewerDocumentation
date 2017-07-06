@@ -19,40 +19,51 @@ E' l'ordine in cui viene visualizzato l'elemento sullo stage o nella barra delle
 
 ### Dimensione minima e massima file
 Imposta la dimensione minima e massima in cui il contenuto può essere ridimensionato.<br>
-Di default vengono ereditati i valori impostati nelle proprietà dei contenuti. <br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
+Di default vengono ereditati i valori impostati nelle proprietà dei contenuti.
+<br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
 
 ### Tema del visualizzatore
-Di default viene ereditato il tema impostato nelle proprietà dei contenuti. <br>[__Vai a Tema del visualizzatore__](/it/media-manager/themes/theme-viewer.md).
+Definisce l'aspetto grafico della contenitore che incorpora il file visualizzato.<br>
+Di default viene ereditato il tema impostato nelle proprietà dei contenuti.
+<br>[__Vai a Tema del visualizzatore__](/it/media-manager/themes/theme-viewer.md).
 
 ### Tema popup strumenti
-Di default viene ereditato il tema impostato nelle proprietà dei contenuti. <br>[__Vai a Tema popup strumenti__](/it/media-manager/themes/theme-toolspopup.md).
+Definisce l'aspetto grafico della barra strumenti che compare quando il contenuto è più grande della finestra software.<br>
+Di default viene ereditato il tema impostato nelle proprietà dei contenuti.
+<br>[__Vai a Tema popup strumenti__](/it/media-manager/themes/theme-toolspopup.md).
 
 ### Trascinamento
 Abilita o disabilita la possibilità di __spostare__ il contenuto sullo stage.<br>
-Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti. <br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
+Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti.
+<br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
 
 ### Rotazione
 Abilita o disabilita la possibilità di __ruotare__ il contenuto sullo stage.<br>
-Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti. <br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
+Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti.
+<br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
 
 ### Zoom
 Abilita o disabilita la possibilità di __zoommare__ il contenuto sullo stage.<br>
-Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti. <br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
+Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti.
+<br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
 
 ### Apertura esterna
 Abilita o disabilita la possibilità di aprire esternamente il contenuto con il programma predefinito per quel tipo di file.<br>
-Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti. <br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
+Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti.
+<br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
 
 ### Barra inferiore
 Abilita o disabilita la barra inferiore per interagire con quel tipo di contenuti. (Es: in un contenuto video viene nascosto il Player video).
 
 ### Metodo visualizzazione se partenza sullo stage
 Possibilià di decidere se mostrare subito il __Contenuto__ o una una sua __Anteprima__. Nel caso si scelga Anteprima dovrà essere caricata un'immagine sostitutiva nel tabs _Anteprima_.<br>
- <br>[__Vai ad Anteprima__](/it/media-manager/content-option.md#anteprima).
+
+<br>[__Vai ad Anteprima__](/it/media-manager/content-option.md#anteprima).
 
 ### Fullscreen
 Abilita o disabilita la possibilità di aprire il contenuto in modalità fullscreen tramite l'icona ![](/img/icon_fullscreen.png) nella barra degli strumenti del contenuto.<br>
-Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti. <br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
+Di default viene ereditata l'impostazione inserita nelle proprietà dei contenuti.
+<br>[__Vai a proprietà contenuti__](/it/media-manager/content-properties.md).
 
 ### Modalità Fullscreen
 Imposta la modalità in cui il contenuto si deve aprire in fulscreen.
