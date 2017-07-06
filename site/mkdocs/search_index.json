@@ -387,7 +387,7 @@
         },
         {
             "location": "/it/media-manager/folder-properties/",
-            "text": "Propriet\u00e0 Cartelle\n\n\n\n\nTema barra navigazione\n\n\nSfondo Cartella\n\n\nAdattamento file\n\n\nMetodo visualizzazione cartelle\n\n\nSfondo contenitore\n\n\nMargini contenitore\n\n\nDimensioni contenitore\n\n\nScrollbar\n\n\nTema elementi\n\n\nMargini elemento\n\n\nDimensione minima e massima elemento",
+            "text": "Propriet\u00e0 Cartelle\n\n\n\n\nTema barra navigazione\n\n\nDefinisce l'aspetto grafico della barra di navigazione.\n\nVai a Tema Barra di Navigazione\n.\n\n\nSfondo Cartella\n\n\nConsente di inserire una immagine di sfondo che sostituisce quella predefinita.\n\n\nAdattamento file\n\n\nDetermina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n\n\n\nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n\nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n\nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n\nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\n\n\nMetodo visualizzazione cartelle\n\n\nDetermina la distribuzione delle cartelle sullo stage:\n\n\n\n\nGriglia:\n Le cartelle vengono distribuite all'interno di una griglia. Gli elementi sono distribuiti su pi\u00f9 righe in base allo spazio disponibile.\n\n\nLista verticale:\n Le cartelle vengono distribuite verticalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.\n\n\nLista orizzontale:\n Le cartelle vengono distribuite orizzontalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.\n\n\nCarousel:\n Le cartelle vengono mostrate in un carosello circolare con la possibilit\u00e0 di scorrimento.\n\n\nLibera per posizionamenti assoluti:\n Le cartelle possono essere posizionate a piacimento sullo stage semplicemente tenendo premuto il tasto CTRL e trascinandole sulle stage nella posizione desiderata.\n\n\n\n\nSfondo contenitore\n\n\nConsente di impostare uno sfondo per il contenitore delle cartelle.\n\n\nMargini contenitore\n\n\nImposta la distanza tra i bordi esterni dello stage e gli elementi in esso contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\nDimensioni contenitore\n\n\nImposta le dimensioni minime e massime dello stage che contiene gli elementi visivi (misura espressa in pixel nel seguente ordine Larghezza, Altezza)\n\n\nScrollbar\n\n\nAbilita la visualizzazione della barra di scorrimento presente sulla destra nel caso gli elementi abbiano un ingombro maggiore dello stage\n\n\nTema elementi\n\n\nDefinisce l'aspetto grafico dei bottoni presenti sullo stage.\n\nVai a Tema Elementi\n.\n\n\nMargini elemento\n\n\nDefinisce la distanza tra il bordo dell'elemento  ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\nDimensione minima e massima elemento\n\n\nDefinisce le dimensioni minime e massime dell'elemento sullo stage (misura espressa in pixel nel seguente ordine Larghezza, Altezza)\n\n\nCarousel\n\n\nSelezionando Metodo visualizzazione cartelle / Carousel potranno essere gestite le seguenti propriet\u00e0 aggiuntive:\n\n\n\n\nTipo di curva:\n Imposta la distribuzione degli elementi (mezza ellisse, ellisse, linea, arco, sinusoide)\n\n\nRotazione elementi:\n Determina la rotazione massima dell'elemento nel punto pi\u00f9 lontano della curva\n\n\nElementi visibili:\n Imposta gli elementi visibili nel carousel \n\n\nRipeti:\n Gli elementi vengono ripetuti all'infinito",
             "title": "Propriet\u00e0 cartelle"
         },
         {
@@ -397,58 +397,63 @@
         },
         {
             "location": "/it/media-manager/folder-properties/#tema-barra-navigazione",
-            "text": "",
+            "text": "Definisce l'aspetto grafico della barra di navigazione. Vai a Tema Barra di Navigazione .",
             "title": "Tema barra navigazione"
         },
         {
             "location": "/it/media-manager/folder-properties/#sfondo-cartella",
-            "text": "",
+            "text": "Consente di inserire una immagine di sfondo che sostituisce quella predefinita.",
             "title": "Sfondo Cartella"
         },
         {
             "location": "/it/media-manager/folder-properties/#adattamento-file",
-            "text": "",
+            "text": "Determina la modalit\u00e0 di adattamento del background rispetto allo stage:   Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
             "title": "Adattamento file"
         },
         {
             "location": "/it/media-manager/folder-properties/#metodo-visualizzazione-cartelle",
-            "text": "",
+            "text": "Determina la distribuzione delle cartelle sullo stage:   Griglia:  Le cartelle vengono distribuite all'interno di una griglia. Gli elementi sono distribuiti su pi\u00f9 righe in base allo spazio disponibile.  Lista verticale:  Le cartelle vengono distribuite verticalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.  Lista orizzontale:  Le cartelle vengono distribuite orizzontalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.  Carousel:  Le cartelle vengono mostrate in un carosello circolare con la possibilit\u00e0 di scorrimento.  Libera per posizionamenti assoluti:  Le cartelle possono essere posizionate a piacimento sullo stage semplicemente tenendo premuto il tasto CTRL e trascinandole sulle stage nella posizione desiderata.",
             "title": "Metodo visualizzazione cartelle"
         },
         {
             "location": "/it/media-manager/folder-properties/#sfondo-contenitore",
-            "text": "",
+            "text": "Consente di impostare uno sfondo per il contenitore delle cartelle.",
             "title": "Sfondo contenitore"
         },
         {
             "location": "/it/media-manager/folder-properties/#margini-contenitore",
-            "text": "",
+            "text": "Imposta la distanza tra i bordi esterni dello stage e gli elementi in esso contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
             "title": "Margini contenitore"
         },
         {
             "location": "/it/media-manager/folder-properties/#dimensioni-contenitore",
-            "text": "",
+            "text": "Imposta le dimensioni minime e massime dello stage che contiene gli elementi visivi (misura espressa in pixel nel seguente ordine Larghezza, Altezza)",
             "title": "Dimensioni contenitore"
         },
         {
             "location": "/it/media-manager/folder-properties/#scrollbar",
-            "text": "",
+            "text": "Abilita la visualizzazione della barra di scorrimento presente sulla destra nel caso gli elementi abbiano un ingombro maggiore dello stage",
             "title": "Scrollbar"
         },
         {
             "location": "/it/media-manager/folder-properties/#tema-elementi",
-            "text": "",
+            "text": "Definisce l'aspetto grafico dei bottoni presenti sullo stage. Vai a Tema Elementi .",
             "title": "Tema elementi"
         },
         {
             "location": "/it/media-manager/folder-properties/#margini-elemento",
-            "text": "",
+            "text": "Definisce la distanza tra il bordo dell'elemento  ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
             "title": "Margini elemento"
         },
         {
             "location": "/it/media-manager/folder-properties/#dimensione-minima-e-massima-elemento",
-            "text": "",
+            "text": "Definisce le dimensioni minime e massime dell'elemento sullo stage (misura espressa in pixel nel seguente ordine Larghezza, Altezza)",
             "title": "Dimensione minima e massima elemento"
+        },
+        {
+            "location": "/it/media-manager/folder-properties/#carousel",
+            "text": "Selezionando Metodo visualizzazione cartelle / Carousel potranno essere gestite le seguenti propriet\u00e0 aggiuntive:   Tipo di curva:  Imposta la distribuzione degli elementi (mezza ellisse, ellisse, linea, arco, sinusoide)  Rotazione elementi:  Determina la rotazione massima dell'elemento nel punto pi\u00f9 lontano della curva  Elementi visibili:  Imposta gli elementi visibili nel carousel   Ripeti:  Gli elementi vengono ripetuti all'infinito",
+            "title": "Carousel"
         },
         {
             "location": "/it/media-manager/content-properties/",
