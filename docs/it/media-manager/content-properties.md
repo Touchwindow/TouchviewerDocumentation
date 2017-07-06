@@ -23,14 +23,23 @@ Imposta il numero di contenuti trascinabili nello stage dalla barra anteprime.
 ![](/img/content_properties_2.png)
 
 ### Posizionamento sullo stage
+E' possibile scegliere tra 2 modailità di posizionamento dei contenuti:
+
+- _Manuale:_ i contenuti possono essere posizionate a piacimento sullo stage tenendo premuto il tasto CTRL e trascinandoli sulle stage nella posizione desiderata.
+- _Griglia:_ i contenuti vengono distribuite all'interno di una griglia. Vedi paragafo sotto.
 
 ### Modalità disposizione griglia
+Esistono differenti modalità per la visaulizzazione a griglia:
+
+- _Automatica:_ impostazione di default, Gli elementi sono distribuiti su più righe in base allo spazio disponibile. Per tornare a questa impostazione premere il tasto X.
+- _Template:_ è possibile scegliere uno dei tanti template a disposizione nel menu a tendina.
 
 ### Margine elemento
 Definisce la distanza tra il bordo dell'elemento ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)
 
 ### Margine esterno
 Definisce la distanza tra il bordo dell'elemento ed il bordo dello stage (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)
+
 ---
 ## Proprietà comuni
 
