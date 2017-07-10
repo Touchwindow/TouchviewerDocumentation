@@ -817,7 +817,7 @@
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/",
-            "text": "Tema Barra Anteprime\n\n\n\n\nLa barra di anteprime \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:\n\n\nPosizione barra\n\n\nImposta la posizione della barra sullo stage, \u00e8 possibile scegliere tra:\n\n\n\n\nDestra\n\n\nBasso\n\n\nSinistra\n\n\n\n\nMargine esterno\n\n\nImposta il margine esterno che deve avere la barra delle anteprime sullo stage.\n\n\nDimensione anteprima\n\n\nImposta la grandezza delle miniature.\n\n\nMargine anteprime\n\n\nImposta il margine di ogni miniatura rispetto al contenitore e alle altre miniature.\n\n\nScrollbar\n\n\n\n\nVisualizza:\n visualizza la barra per scorrere le miniature nel caso in cui escano dall'area visiva.\n\n\nNascondi:\n nessuna barra viene mostrata\n\n\n\n\nApri il primo elemento\n\n\nIl primo elemento della barra anteprime viene aperto in automatico.\n\n\nIn primo piano\n\n\nLa barra delle anteprime rimane sopra ai contenuti sullo stage.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della barra delle anteprime.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della barra delle anteprime.\n\n\nArrotondamento angoli\n\n\nColore sfondo barra\n\n\nImposta il colore di fondo della barra delle anteprime.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la barra delle anteprime. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore titolo/controlli\n\n\nImposta il colore del titolo, icona e bordo delle miniature.\n\n\nEtichetta\n\n\nMostra un'etichetta sopra ad ogni miniatura, \u00e8 possibile scegliere tra:\n\n\n\n\nNessuna:\n nessuna etichetta viene mostrata.\n\n\nTitolo:\n viene mostrato il titolo del contenuto.\n\n\nNome file:\n viene mostrato il nome del file.\n\n\n\n\nCarattere\n\n\nImposta il carattere dell'etichetta ne caso venga scelto Titolo o Nome File.",
+            "text": "Tema Barra Anteprime\n\n\n\n\nLa barra di anteprime \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:\n\n\nPosizione barra\n\n\nImposta la posizione della barra sullo stage, \u00e8 possibile scegliere tra:\n\n\n\n\nDestra\n\n\nBasso\n\n\nSinistra\n\n\n\n\nMargine esterno\n\n\nImposta il margine esterno che deve avere la barra delle anteprime sullo stage.\n\n\nDimensione anteprima\n\n\nImposta la grandezza delle miniature.\n\n\nMargine anteprime\n\n\nImposta il margine di ogni miniatura rispetto al contenitore e alle altre miniature.\n\n\nScrollbar\n\n\n\n\nVisualizza:\n visualizza la barra per scorrere le miniature nel caso in cui escano dall'area visiva.\n\n\nNascondi:\n nessuna barra viene mostrata\n\n\n\n\nApri il primo elemento\n\n\nIl primo elemento della barra anteprime viene aperto in automatico.\n\n\nIn primo piano\n\n\nLa barra delle anteprime rimane sopra ai contenuti sullo stage.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della barra delle anteprime.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della barra delle anteprime.\n\n\nArrotondamento angoli\n\n\nImposta l'arrotondamento degli angoli del contenitore della barra delle anteprime. Viene espresso in pixel in questo ordine: Alto-Sinistra, Alto-Destra, Basso-destra, Basso-Sinistra.\n\n\nColore sfondo barra\n\n\nImposta il colore di fondo della barra delle anteprime.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la barra delle anteprime. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore titolo/controlli\n\n\nImposta il colore del titolo, icona e bordo delle miniature.\n\n\nEtichetta\n\n\nMostra un'etichetta sopra ad ogni miniatura, \u00e8 possibile scegliere tra:\n\n\n\n\nNessuna:\n nessuna etichetta viene mostrata.\n\n\nTitolo:\n viene mostrato il titolo del contenuto.\n\n\nNome file:\n viene mostrato il nome del file.\n\n\n\n\nCarattere\n\n\nImposta il carattere dell'etichetta ne caso venga scelto Titolo o Nome File.",
             "title": "Tema barra anteprime"
         },
         {
@@ -872,7 +872,7 @@
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#arrotondamento-angoli",
-            "text": "",
+            "text": "Imposta l'arrotondamento degli angoli del contenitore della barra delle anteprime. Viene espresso in pixel in questo ordine: Alto-Sinistra, Alto-Destra, Basso-destra, Basso-Sinistra.",
             "title": "Arrotondamento angoli"
         },
         {
@@ -902,62 +902,62 @@
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/",
-            "text": "Tema del Visualizzatore\n\n\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo elemento\n\n\nOmbra\n\n\nBarre degli strumenti\n\n\nColore bottoni/controlli\n\n\nColore fondo titolo/bottoni/controlli\n\n\nCarattere del titolo\n\n\nCarattere della descrizione\n\n\nColore sfondo descrizione",
+            "text": "Tema del Visualizzatore\n\n\n\n\nPer visualizzatore si intende l'elemento che ospita al suo interno il contenuto caricato.\nCon il theme manager \u00e8 possibile personalizzare graficamente ogni singolo visualizzatore anche all'interno della stessa sezione, impostando le seguenti opzioni:\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore.\n\n\nColore sfondo elemento\n\n\nImposta il colore di fondo del contenitore\n\n\nOmbra\n\n\nImposta l'ombra che deve avere il contenitore. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nBarre degli strumenti\n\n\nConsente di gestire la visibilit\u00e0 della barra:\n\n\n\n\nSempre visibile:\n la barra degli strumenti rimane sempre visibile.\n\n\nNascondio automaticamente:\n la barra degli strumenti si nasconde automaticamente dopo qualche secondo di inattivit\u00e0 del contenuto.\n\n\n\n\nColore bottoni/controlli\n\n\nImposta il colore dei bottoni della barra degli strumenti e degli eventuali controlli del contenuto.\n\n\nColore fondo titolo/bottoni/controlli\n\n\nImposta il colore di fondo della barra degli strumenti.\n\n\nCarattere del titolo\n\n\nImposta lo stile del carattere del titolo del contenuto.\n\n\nCarattere della descrizione\n\n\nImposta lo stile del carattere della descrizione del contenuto.\n\n\nColore sfondo descrizione\n\n\nImposta il colore dello sfondo in cui compare la descrizione.",
             "title": "Tema del visualizzatore"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#tema-del-visualizzatore",
-            "text": "",
+            "text": "Per visualizzatore si intende l'elemento che ospita al suo interno il contenuto caricato.\nCon il theme manager \u00e8 possibile personalizzare graficamente ogni singolo visualizzatore anche all'interno della stessa sezione, impostando le seguenti opzioni:",
             "title": "Tema del Visualizzatore"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#colore-bordo-esterno",
-            "text": "",
+            "text": "Imposta il colore del bordo del contenitore.",
             "title": "Colore bordo esterno"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#spessore-bordo",
-            "text": "",
+            "text": "Imposta lo spessore del bordo del contenitore.",
             "title": "Spessore bordo"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#colore-sfondo-elemento",
-            "text": "",
+            "text": "Imposta il colore di fondo del contenitore",
             "title": "Colore sfondo elemento"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#ombra",
-            "text": "",
+            "text": "Imposta l'ombra che deve avere il contenitore. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
             "title": "Ombra"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#barre-degli-strumenti",
-            "text": "",
+            "text": "Consente di gestire la visibilit\u00e0 della barra:   Sempre visibile:  la barra degli strumenti rimane sempre visibile.  Nascondio automaticamente:  la barra degli strumenti si nasconde automaticamente dopo qualche secondo di inattivit\u00e0 del contenuto.",
             "title": "Barre degli strumenti"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#colore-bottonicontrolli",
-            "text": "",
+            "text": "Imposta il colore dei bottoni della barra degli strumenti e degli eventuali controlli del contenuto.",
             "title": "Colore bottoni/controlli"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#colore-fondo-titolobottonicontrolli",
-            "text": "",
+            "text": "Imposta il colore di fondo della barra degli strumenti.",
             "title": "Colore fondo titolo/bottoni/controlli"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#carattere-del-titolo",
-            "text": "",
+            "text": "Imposta lo stile del carattere del titolo del contenuto.",
             "title": "Carattere del titolo"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#carattere-della-descrizione",
-            "text": "",
+            "text": "Imposta lo stile del carattere della descrizione del contenuto.",
             "title": "Carattere della descrizione"
         },
         {
             "location": "/it/media-manager/themes/theme-viewer/#colore-sfondo-descrizione",
-            "text": "",
+            "text": "Imposta il colore dello sfondo in cui compare la descrizione.",
             "title": "Colore sfondo descrizione"
         },
         {
