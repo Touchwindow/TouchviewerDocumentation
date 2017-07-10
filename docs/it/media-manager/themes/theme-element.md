@@ -23,7 +23,7 @@ Imposta lo spessore del bordo del contenitore della scheda.
 Imposta il colore di fondo della scheda.
 
 ### Ombra
-Imposta l'ombra che deve avere kla scheda. E' possibile scegliere tra:
+Imposta l'ombra che deve avere la scheda. E' possibile scegliere tra:
 
 * _Nessuna_
 * _Bassa_
