@@ -37,6 +37,7 @@ Imposta il colore del bordo del contenitore della barra delle anteprime.
 Imposta lo spessore del bordo del contenitore della barra delle anteprime.
 
 ### Arrotondamento angoli
+Imposta l'arrotondamento degli angoli del contenitore della barra delle anteprime. Viene espresso in pixel in questo ordine: Alto-Sinistra, Alto-Destra, Basso-destra, Basso-Sinistra.
 
 ### Colore sfondo barra
 Imposta il colore di fondo della barra delle anteprime.
