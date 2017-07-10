@@ -1227,13 +1227,28 @@
         },
         {
             "location": "/it/media-manager/features/comments/",
-            "text": "Commenti",
+            "text": "Commenti\n\n\nQuesto tool ti permette di eseguire annotazioni testuali sugli elementi presenti nello stage cliccando sul pulante \n nella barra degli strumenti del contenuto.\n\n\nPosizionamento\n\n\n\n\nEditazione del commento\n\n\n\n\nVisualizzazione e opzioni",
             "title": "Commenti"
         },
         {
             "location": "/it/media-manager/features/comments/#commenti",
-            "text": "",
+            "text": "Questo tool ti permette di eseguire annotazioni testuali sugli elementi presenti nello stage cliccando sul pulante   nella barra degli strumenti del contenuto.",
             "title": "Commenti"
+        },
+        {
+            "location": "/it/media-manager/features/comments/#posizionamento",
+            "text": "",
+            "title": "Posizionamento"
+        },
+        {
+            "location": "/it/media-manager/features/comments/#editazione-del-commento",
+            "text": "",
+            "title": "Editazione del commento"
+        },
+        {
+            "location": "/it/media-manager/features/comments/#visualizzazione-e-opzioni",
+            "text": "",
+            "title": "Visualizzazione e opzioni"
         },
         {
             "location": "/it/media-manager/features/favourite/",
