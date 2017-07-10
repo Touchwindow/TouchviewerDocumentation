@@ -18,3 +18,6 @@ Da questo popup è possibile modificare:
 Il tratto viene salvato in automatico anche per le successive sessioni.
 
 Cliccando sull'icona ![](/img/icon_draw-on-erase.png) nella barra degli strumenti del contenuto, viene cancellato tutto ciò che è stato disegnato.
+
+### Esempio
+![](/img/draw-on_example.png)
