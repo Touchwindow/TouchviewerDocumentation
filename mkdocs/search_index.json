@@ -657,7 +657,7 @@
         },
         {
             "location": "/it/media-manager/themes/theme-element/",
-            "text": "Tema Elementi\n\n\nIl tema elementi consente di personalizzare l'aspetto grafico dei bottoni (cartelle) necessari alla navigazione del software, \u00e8 possibile gestire le seguenti opzioni:\n\n\n\n\nScheda\n\n\nImmagine\n\n\nImmagine e testo\n\n\nSolo testo\n\n\n\n\nOgnuna di queste visualizzazioni pu\u00f2 essere configurata graficamente impostando i seguenti parametri:\n\n\nTemplate elemento SCHEDA\n\n\n\n\nViene visualizzata una scheda che pu\u00f2 essere composta da un \nTitolo\n, una \nDescrizione\n e un \nImmagine\n.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della scheda.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della scheda.\n\n\nColore sfondo\n\n\nImposta il colore di fondo della scheda.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere kla scheda. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore controlli\n\n\nImposta il colore del bordo che circonda l'immagine e il bordo di separazione tra il Titolo e l'Immagine o Descrizione.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento IMMAGINE\n\n\n\n\nViene utilizzata l'immagine caricata per ogni cartella.\n\n\nTemplate elemento IMMAGINE E TESTO\n\n\n\n\nViene utilizzata l'immagine caricata e in basso viene mostrato un overlay con il titolo e la descrizione.\n\n\nColore sfondo testo\n\n\nImposta il colore di fondo dell'overlay su cui compare il testo.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento SOLO TESTO\n\n\n\n\nViene mostrato il Titolo e la Descrizione senza nessun contenitore.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.",
+            "text": "Tema Elementi\n\n\nIl tema elementi consente di personalizzare l'aspetto grafico dei bottoni (cartelle) necessari alla navigazione del software, \u00e8 possibile gestire le seguenti opzioni:\n\n\n\n\nScheda\n\n\nImmagine\n\n\nImmagine e testo\n\n\nSolo testo\n\n\n\n\nOgnuna di queste visualizzazioni pu\u00f2 essere configurata graficamente impostando i seguenti parametri:\n\n\nTemplate elemento SCHEDA\n\n\n\n\nViene visualizzata una scheda che pu\u00f2 essere composta da un \nTitolo\n, una \nDescrizione\n e un \nImmagine\n.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della scheda.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della scheda.\n\n\nColore sfondo\n\n\nImposta il colore di fondo della scheda.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la scheda. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore controlli\n\n\nImposta il colore del bordo che circonda l'immagine e il bordo di separazione tra il Titolo e l'Immagine o Descrizione.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento IMMAGINE\n\n\n\n\nViene utilizzata l'immagine caricata per ogni cartella.\n\n\nTemplate elemento IMMAGINE E TESTO\n\n\n\n\nViene utilizzata l'immagine caricata e in basso viene mostrato un overlay con il titolo e la descrizione.\n\n\nColore sfondo testo\n\n\nImposta il colore di fondo dell'overlay su cui compare il testo.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento SOLO TESTO\n\n\n\n\nViene mostrato il Titolo e la Descrizione senza nessun contenitore.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.",
             "title": "Tema elementi"
         },
         {
@@ -687,7 +687,7 @@
         },
         {
             "location": "/it/media-manager/themes/theme-element/#ombra",
-            "text": "Imposta l'ombra che deve avere kla scheda. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "text": "Imposta l'ombra che deve avere la scheda. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
             "title": "Ombra"
         },
         {
@@ -747,63 +747,73 @@
         },
         {
             "location": "/it/media-manager/themes/theme-navigationbar/",
-            "text": "Tema Barra di Navigazione\n\n\n\n\nTipo di Navigazione\n\n\nPosizione barra\n\n\nChiusura\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nColore sfondo\n\n\nOmbra\n\n\nColore cartelle/bottoni\n\n\nCarattere cartelle\n\n\nCarattere cartella corrente",
+            "text": "Tema Barra di Navigazione\n\n\n\n\nLa barra di navigazione \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:\n\n\nTipo di Navigazione\n\n\nImposta il tipo di barra in 2 differenti modalit\u00e0:\n\n\n\n\nBarra completa con navigazione e bottoni funzioni:\n la barra di navigazione sar\u00e0 completa di navigazione \"Breadcrumbs\" e bottoni funzione.\n\n\nSolo bottoni funzione:\n saranno mostrati solo i bottoni funzione.\n\n\n\n\nPosizione barra\n\n\n\n\nAlto:\n la barra verr\u00e0 posizionata nella parte alta dello schermo.\n\n\nBasso:\n la barra verr\u00e0 posizionata nella parte bassa dello schermo.\n\n\n\n\nChiusura \n[Solo nella modalit\u00e0 barra completa]\n\n\n\n\nSempre visibile:\n la barra di navigazione sar\u00e0 sempre visibile.\n\n\nPermetti chiusura:\n verra mostrato un tasto per mostrare o nascondere la barra di navigazione.\n\n\n\n\nColore bordo esterno \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore del bordo del contenitore della barra di navigazione.\n\n\nSpessore bordo \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta lo spessore del bordo del contenitore della barra di navigazione.\n\n\nColore sfondo \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore di fondo della barra di navigazione.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la barra di navigazione. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore cartelle/bottoni \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore delle cartelle e dei bottoni funzione.\n\n\nCarattere cartelle \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore delle cartelle.\n\n\nCarattere cartella corrente \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore della cartella corrente.\n\n\nTipo bottoni \n[Solo nella modalit\u00e0 solo bottoni funzione]\n\n\n\n\nStandard:\n i bottoni visualizzati saranno quelli standard caricati durante l'installazione.\n\n\nPersonalizzati:\n Potranno essere caricati dei bottoni custom, i bottoni dovranno essere caricati gi\u00e0 del colore desiderato.\n\n\n\n\nColore bottoni \n[Solo nella modalit\u00e0 solo bottoni funzione standard]\n\n\nImposta il colore dei bottoni standard.",
             "title": "Tema barra navigazione"
         },
         {
             "location": "/it/media-manager/themes/theme-navigationbar/#tema-barra-di-navigazione",
-            "text": "",
+            "text": "La barra di navigazione \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:",
             "title": "Tema Barra di Navigazione"
         },
         {
             "location": "/it/media-manager/themes/theme-navigationbar/#tipo-di-navigazione",
-            "text": "",
+            "text": "Imposta il tipo di barra in 2 differenti modalit\u00e0:   Barra completa con navigazione e bottoni funzioni:  la barra di navigazione sar\u00e0 completa di navigazione \"Breadcrumbs\" e bottoni funzione.  Solo bottoni funzione:  saranno mostrati solo i bottoni funzione.",
             "title": "Tipo di Navigazione"
         },
         {
             "location": "/it/media-manager/themes/theme-navigationbar/#posizione-barra",
-            "text": "",
+            "text": "Alto:  la barra verr\u00e0 posizionata nella parte alta dello schermo.  Basso:  la barra verr\u00e0 posizionata nella parte bassa dello schermo.",
             "title": "Posizione barra"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#chiusura",
-            "text": "",
-            "title": "Chiusura"
+            "location": "/it/media-manager/themes/theme-navigationbar/#chiusura-solo-nella-modalita-barra-completa",
+            "text": "Sempre visibile:  la barra di navigazione sar\u00e0 sempre visibile.  Permetti chiusura:  verra mostrato un tasto per mostrare o nascondere la barra di navigazione.",
+            "title": "Chiusura [Solo nella modalit\u00e0 barra completa]"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#colore-bordo-esterno",
-            "text": "",
-            "title": "Colore bordo esterno"
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-bordo-esterno-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore del bordo del contenitore della barra di navigazione.",
+            "title": "Colore bordo esterno [Solo nella modalit\u00e0 barra completa]"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#spessore-bordo",
-            "text": "",
-            "title": "Spessore bordo"
+            "location": "/it/media-manager/themes/theme-navigationbar/#spessore-bordo-solo-nella-modalita-barra-completa",
+            "text": "Imposta lo spessore del bordo del contenitore della barra di navigazione.",
+            "title": "Spessore bordo [Solo nella modalit\u00e0 barra completa]"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#colore-sfondo",
-            "text": "",
-            "title": "Colore sfondo"
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-sfondo-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore di fondo della barra di navigazione.",
+            "title": "Colore sfondo [Solo nella modalit\u00e0 barra completa]"
         },
         {
             "location": "/it/media-manager/themes/theme-navigationbar/#ombra",
-            "text": "",
+            "text": "Imposta l'ombra che deve avere la barra di navigazione. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
             "title": "Ombra"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#colore-cartellebottoni",
-            "text": "",
-            "title": "Colore cartelle/bottoni"
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-cartellebottoni-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore delle cartelle e dei bottoni funzione.",
+            "title": "Colore cartelle/bottoni [Solo nella modalit\u00e0 barra completa]"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#carattere-cartelle",
-            "text": "",
-            "title": "Carattere cartelle"
+            "location": "/it/media-manager/themes/theme-navigationbar/#carattere-cartelle-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore delle cartelle.",
+            "title": "Carattere cartelle [Solo nella modalit\u00e0 barra completa]"
         },
         {
-            "location": "/it/media-manager/themes/theme-navigationbar/#carattere-cartella-corrente",
-            "text": "",
-            "title": "Carattere cartella corrente"
+            "location": "/it/media-manager/themes/theme-navigationbar/#carattere-cartella-corrente-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore della cartella corrente.",
+            "title": "Carattere cartella corrente [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#tipo-bottoni-solo-nella-modalita-solo-bottoni-funzione",
+            "text": "Standard:  i bottoni visualizzati saranno quelli standard caricati durante l'installazione.  Personalizzati:  Potranno essere caricati dei bottoni custom, i bottoni dovranno essere caricati gi\u00e0 del colore desiderato.",
+            "title": "Tipo bottoni [Solo nella modalit\u00e0 solo bottoni funzione]"
+        },
+        {
+            "location": "/it/media-manager/themes/theme-navigationbar/#colore-bottoni-solo-nella-modalita-solo-bottoni-funzione-standard",
+            "text": "Imposta il colore dei bottoni standard.",
+            "title": "Colore bottoni [Solo nella modalit\u00e0 solo bottoni funzione standard]"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/",
