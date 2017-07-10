@@ -817,57 +817,57 @@
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/",
-            "text": "Tema Barra Anteprime\n\n\n\n\nPosizione barra\n\n\nMargine esterno\n\n\nDimensione anteprima\n\n\nMargine anteprime\n\n\nScrollbar\n\n\nApri il primo elemento\n\n\nIn primo piano\n\n\nColore bordo esterno\n\n\nSpessore bordo\n\n\nArrotondamento angoli\n\n\nColore sfondo barra\n\n\nOmbra\n\n\nColore titolo/controlli\n\n\nEtichetta\n\n\nCarattere",
+            "text": "Tema Barra Anteprime\n\n\n\n\nLa barra di anteprime \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:\n\n\nPosizione barra\n\n\nImposta la posizione della barra sullo stage, \u00e8 possibile scegliere tra:\n\n\n\n\nDestra\n\n\nBasso\n\n\nSinistra\n\n\n\n\nMargine esterno\n\n\nImposta il margine esterno che deve avere la barra delle anteprime sullo stage.\n\n\nDimensione anteprima\n\n\nImposta la grandezza delle miniature.\n\n\nMargine anteprime\n\n\nImposta il margine di ogni miniatura rispetto al contenitore e alle altre miniature.\n\n\nScrollbar\n\n\n\n\nVisualizza:\n visualizza la barra per scorrere le miniature nel caso in cui escano dall'area visiva.\n\n\nNascondi:\n nessuna barra viene mostrata\n\n\n\n\nApri il primo elemento\n\n\nIl primo elemento della barra anteprime viene aperto in automatico.\n\n\nIn primo piano\n\n\nLa barra delle anteprime rimane sopra ai contenuti sullo stage.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della barra delle anteprime.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della barra delle anteprime.\n\n\nArrotondamento angoli\n\n\nColore sfondo barra\n\n\nImposta il colore di fondo della barra delle anteprime.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la barra delle anteprime. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore titolo/controlli\n\n\nImposta il colore del titolo, icona e bordo delle miniature.\n\n\nEtichetta\n\n\nMostra un'etichetta sopra ad ogni miniatura, \u00e8 possibile scegliere tra:\n\n\n\n\nNessuna:\n nessuna etichetta viene mostrata.\n\n\nTitolo:\n viene mostrato il titolo del contenuto.\n\n\nNome file:\n viene mostrato il nome del file.\n\n\n\n\nCarattere\n\n\nImposta il carattere dell'etichetta ne caso venga scelto Titolo o Nome File.",
             "title": "Tema barra anteprime"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#tema-barra-anteprime",
-            "text": "",
+            "text": "La barra di anteprime \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:",
             "title": "Tema Barra Anteprime"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#posizione-barra",
-            "text": "",
+            "text": "Imposta la posizione della barra sullo stage, \u00e8 possibile scegliere tra:   Destra  Basso  Sinistra",
             "title": "Posizione barra"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#margine-esterno",
-            "text": "",
+            "text": "Imposta il margine esterno che deve avere la barra delle anteprime sullo stage.",
             "title": "Margine esterno"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#dimensione-anteprima",
-            "text": "",
+            "text": "Imposta la grandezza delle miniature.",
             "title": "Dimensione anteprima"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#margine-anteprime",
-            "text": "",
+            "text": "Imposta il margine di ogni miniatura rispetto al contenitore e alle altre miniature.",
             "title": "Margine anteprime"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#scrollbar",
-            "text": "",
+            "text": "Visualizza:  visualizza la barra per scorrere le miniature nel caso in cui escano dall'area visiva.  Nascondi:  nessuna barra viene mostrata",
             "title": "Scrollbar"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#apri-il-primo-elemento",
-            "text": "",
+            "text": "Il primo elemento della barra anteprime viene aperto in automatico.",
             "title": "Apri il primo elemento"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#in-primo-piano",
-            "text": "",
+            "text": "La barra delle anteprime rimane sopra ai contenuti sullo stage.",
             "title": "In primo piano"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#colore-bordo-esterno",
-            "text": "",
+            "text": "Imposta il colore del bordo del contenitore della barra delle anteprime.",
             "title": "Colore bordo esterno"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#spessore-bordo",
-            "text": "",
+            "text": "Imposta lo spessore del bordo del contenitore della barra delle anteprime.",
             "title": "Spessore bordo"
         },
         {
@@ -877,27 +877,27 @@
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#colore-sfondo-barra",
-            "text": "",
+            "text": "Imposta il colore di fondo della barra delle anteprime.",
             "title": "Colore sfondo barra"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#ombra",
-            "text": "",
+            "text": "Imposta l'ombra che deve avere la barra delle anteprime. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
             "title": "Ombra"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#colore-titolocontrolli",
-            "text": "",
+            "text": "Imposta il colore del titolo, icona e bordo delle miniature.",
             "title": "Colore titolo/controlli"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#etichetta",
-            "text": "",
+            "text": "Mostra un'etichetta sopra ad ogni miniatura, \u00e8 possibile scegliere tra:   Nessuna:  nessuna etichetta viene mostrata.  Titolo:  viene mostrato il titolo del contenuto.  Nome file:  viene mostrato il nome del file.",
             "title": "Etichetta"
         },
         {
             "location": "/it/media-manager/themes/theme-previewbar/#carattere",
-            "text": "",
+            "text": "Imposta il carattere dell'etichetta ne caso venga scelto Titolo o Nome File.",
             "title": "Carattere"
         },
         {
