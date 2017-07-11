@@ -31,42 +31,36 @@ pages:
     - Requisiti: it/requirements.md
     - Installazione: it/installation.md
     - Primo avvio: it/first-boot.md
-    - Media Manager:
-      - Workspace: it/media-manager/workspace.md
-      - Impostazioni: it/media-manager/settings.md
-      - Contenuti:
-        - Elenco Contenuti: it/media-manager/content-directory.md
-        - Opzioni Cartella: it/media-manager/folder-option.md
-        - Opzioni Contenuto: it/media-manager/content-option.md
-        - Proprietà cartelle: it/media-manager/folder-properties.md
-        - Proprietà contenuti: it/media-manager/content-properties.md
-      - Theme Manager:
-        - Panoramica: it/media-manager/themes/overview.md
-        - Tema moduli: it/media-manager/themes/theme-module.md
-        - Tema elementi: it/media-manager/themes/theme-element.md
-        - Tema barra navigazione: it/media-manager/themes/theme-navigationbar.md
-        - Tema barra anteprime: it/media-manager/themes/theme-previewbar.md
-        - Tema del visualizzatore: it/media-manager/themes/theme-viewer.md
-        - Tema popup strumenti: it/media-manager/themes/theme-toolspopup.md
-      - Aggiungi Contenuti:
-        - Panoramica : it/media-manager/contents/overview.md
-        - Foto : it/media-manager/contents/image.md
-        - Video : it/media-manager/contents/video.md
-        - PDF/Docs : it/media-manager/contents/pdf.md
-        - Lista Immagini : it/media-manager/contents/image-list.md
-        - Lista Video : it/media-manager/contents/video-list.md
-        - Web Browser : it/media-manager/contents/web-browser.md
-        - Mappa Interattiva: it/media-manager/contents/interactive-map.md
-        - Ingresso Video : it/media-manager/contents/video-input.md
-        - Streaming Video : it/media-manager/contents/video-streaming.md
-      - Features:
-        - Draw-On: it/media-manager/features/draw-on.md
-        - Commenti: it/media-manager/features/comments.md
-        - Favoriti: it/media-manager/features/favourite.md
-        - Info Point: it/media-manager/features/info-point.md
-      - Sincronizzazione: it/media-manager/network-sync.md
-    - Media Presenter:
-      - Workspace:
-        - Singolo Utente: it/media-presenter/workspace/single-user.md
-        - Multiutenza: it/media-presenter/workspace/multi-user.md
-        - Content Sharing: it/media-presenter/workspace/content-sharing.md
+    - Workspace: it/media-manager/workspace.md
+    - Impostazioni: it/media-manager/settings.md
+    - Contenuti:
+      - Elenco Contenuti: it/media-manager/content-directory.md
+      - Opzioni Cartella: it/media-manager/folder-option.md
+      - Opzioni Contenuto: it/media-manager/content-option.md
+      - Proprietà cartelle: it/media-manager/folder-properties.md
+      - Proprietà contenuti: it/media-manager/content-properties.md
+    - Theme Manager:
+      - Panoramica: it/media-manager/themes/overview.md
+      - Tema moduli: it/media-manager/themes/theme-module.md
+      - Tema elementi: it/media-manager/themes/theme-element.md
+      - Tema barra navigazione: it/media-manager/themes/theme-navigationbar.md
+      - Tema barra anteprime: it/media-manager/themes/theme-previewbar.md
+      - Tema del visualizzatore: it/media-manager/themes/theme-viewer.md
+      - Tema popup strumenti: it/media-manager/themes/theme-toolspopup.md
+    - Aggiungi Contenuti:
+      - Panoramica : it/media-manager/contents/overview.md
+      - Foto : it/media-manager/contents/image.md
+      - Video : it/media-manager/contents/video.md
+      - PDF/Docs : it/media-manager/contents/pdf.md
+      - Lista Immagini : it/media-manager/contents/image-list.md
+      - Lista Video : it/media-manager/contents/video-list.md
+      - Web Browser : it/media-manager/contents/web-browser.md
+      - Mappa Interattiva: it/media-manager/contents/interactive-map.md
+      - Ingresso Video : it/media-manager/contents/video-input.md
+      - Streaming Video : it/media-manager/contents/video-streaming.md
+    - Features:
+      - Draw-On: it/media-manager/features/draw-on.md
+      - Commenti: it/media-manager/features/comments.md
+      - Favoriti: it/media-manager/features/favourite.md
+      - Info Point: it/media-manager/features/info-point.md
+    - Sincronizzazione: it/media-manager/network-sync.md
