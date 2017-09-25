@@ -1,10 +1,10 @@
 # Streaming Video
-![](/img/contents_video-streaming-input.png)
+![](/img/contents_video-streaming.png)
 
 Quando si inserisce un contenuto di tipo Streaming Video va inserito il nome che serve per identificarlo all'interno dell'archivio.
 
 ### Settings
-![](/img/contents_video-contents_video-streaming_setting.png)
+![](/img/contents_video-streaming_setting.png)
 
 &Egrave; possibile impostare:
 
