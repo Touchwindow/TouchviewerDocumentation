@@ -9,7 +9,7 @@
         <meta name="description" content="Touchviewer documentation">
       
       
-        <link rel="canonical" href="http://support-test.touchviewer.net/it/media-manager/features/favourite/">
+        <link rel="canonical" href="http://support-test.touchviewer.net/it/media-manager/features/network-sync/">
       
       
       
@@ -19,7 +19,7 @@
     
     
       
-        <title>Favoriti - Touchviewer documentation</title>
+        <title>Sincronizzazione - Touchviewer documentation</title>
       
     
     
@@ -88,7 +88,7 @@
                 </span>
               
             
-            Favoriti
+            Sincronizzazione
           
         </span>
       </div>
@@ -621,25 +621,6 @@
           
           
 
-  
-
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
-    
-    
-    <a href="./" title="Favoriti" class="md-nav__link md-nav__link--active">
-      Favoriti
-    </a>
-    
-  </li>
-
-        
-          
-          
-          
-
 
   <li class="md-nav__item">
     <a href="../info-point/" title="Info Point" class="md-nav__link">
@@ -654,9 +635,64 @@
 
 
   <li class="md-nav__item">
-    <a href="../../network-sync/" title="Sincronizzazione" class="md-nav__link">
+    <a href="../search/" title="Ricerca" class="md-nav__link">
+      Ricerca
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Sincronizzazione
+      </label>
+    
+    <a href="./" title="Sincronizzazione" class="md-nav__link md-nav__link--active">
       Sincronizzazione
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#configurazione-pubblicazione" title="Configurazione pubblicazione" class="md-nav__link">
+    Configurazione pubblicazione
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configurazione-aggiornamento" title="Configurazione aggiornamento" class="md-nav__link">
+    Configurazione aggiornamento
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -684,6 +720,29 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#configurazione-pubblicazione" title="Configurazione pubblicazione" class="md-nav__link">
+    Configurazione pubblicazione
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configurazione-aggiornamento" title="Configurazione aggiornamento" class="md-nav__link">
+    Configurazione aggiornamento
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
   
 </nav>
                   </div>
@@ -696,9 +755,25 @@
               
                 
                 
-                  <h1>Favoriti</h1>
-                
-                
+                <h1 id="sincronizzazione">Sincronizzazione</h1>
+<p><img alt="" src="../../../../img/sync_empty_1.png" /></p>
+<p>Touchviewer è gestibile sia in locale che in remoto. È progettato per distribuire contenuti su un network di postazioni interattive installate in location differenti. Tutti i client Touchviewer possono essere configurati per inviare o ricevere aggiornamenti in maniera manuale o pianificata. L'intera architettura è basata su un sistema di sincronizzazione estremamente performante che garantisce velocità e affidabilità in tutte le operazioni di aggiornamento con e verso il server remoto.</p>
+<h3 id="configurazione-pubblicazione">Configurazione pubblicazione</h3>
+<p><img alt="" src="../../../../img/sync_publish_open_2.png" /></p>
+<p>Da qui è possibile scegliere la destinazione per la pubblicazione dei contenuti. La destinazione può essere una cartella del PC, una cartella di rete (selezionare Robocopy), uno spazio storage del servizio Strongspace o una cartella Dropbox.</p>
+<p>Escludendo le miniature (consigliato per archivi con molti contenuti) si velocizza il processo di publiccazione. Le miniature verranno ricreate al momento della sincronizzazione sul dispositivo che scarica gli aggiornamenti.</p>
+<p>Nel caso si scelga il servizio cloud <strong>Strongspace</strong> bisogna inserire lo <em>Username</em> dell'account e il nome della cartella che si trova su strongspace. Bisogna inoltre inserire la Chiave SSH fornita da Strongspace per l'autenticazione.</p>
+<p><img alt="" src="../../../../img/sync_publish_strongspace_3.png" /></p>
+<h3 id="configurazione-aggiornamento">Configurazione aggiornamento</h3>
+<p><img alt="" src="../../../../img/sync_update_open_6.png" /></p>
+<p>Definire la sorgente da cui scaricare gli aggiornamenti. La sorgente può essere una cartella del PC, una cartella di rete (selezionare Robocopy), uno spazio storage del servizio Strongspace o una cartella Dropbox.</p>
+<p><strong>Attenzione</strong> gli aggiornamenti verranno scaricati nell'archivio attualmente aperto.</p>
+<p><img alt="" src="../../../../img/sync_update_folder_7.png" /></p>
+<p>Una volta selezionata la sorgente da cui scaricare gli aggiornamenti è possibile impostare la modalità di sincronizzazione:</p>
+<ul>
+<li><em>Aggiorna i contenuti all'avvio del software</em>  Ad ogni avvio di Touchviewer la procedura esegue un controllo di aggiornamenti disponibili ed esegue il downloadqualora siano presenti nuovi contenuti o contenuti modificati nell cartella sorgente. Spuntando <strong><em>Chiedi conferma prima di aggiornare</em></strong> verrà mostrata una notifica in cui verrà chiesto se si vuole aggiornare l'archivio. In caso di risposta negativa l'aggiornamento verrà richiesto al prossimo avvio del Touchviewer.</li>
+<li><em>Non aggiornare automaticamente</em> Richiede l'azione manuale di aggiornamento mediante il pulsante <strong>Aggiorna</strong>.</li>
+</ul>
                 
                   
                 
@@ -717,7 +792,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../comments/" title="Commenti" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../search/" title="Ricerca" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -726,25 +801,11 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Commenti
+                Ricerca
               </span>
             </div>
           </a>
         
-        
-          <a href="../info-point/" title="Info Point" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                Info Point
-              </span>
-            </div>
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-            </div>
-          </a>
         
       </nav>
     </div>
