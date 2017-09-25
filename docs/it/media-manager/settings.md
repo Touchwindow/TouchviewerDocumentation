@@ -63,7 +63,7 @@ __Invio email da preferiti:__ Abilita la possibilità di condividere contenuti t
 - _Ssl:_ Specificare se l'account smtp richiede l'SSL attivo.<br>
 __Abilita ricerca:__ Viene abilitata la funzione di ricerca all'interno dell'archivio.<br>
 __Abilita rotazione magnetica:__ Quando è abilitata i contenuti potranno essere ruotati a step di 90°.<br>
-__Apertura multipla punti informativi:__ Quando è abilitata si potranno aprirre più punti informativi alla volta.<br>
+__Apertura multipla punti informativi:__ Quando è abilitata si potranno aprire più punti informativi alla volta.<br>
 __Tema moduli:__ Personalizzazione grafica dei moduli "Preferiti", "Ricerca", etc [__Vai al Tema Moduli__](/it/media-manager/themes/theme-module.md)
 
 ### Impostazioni screensaver

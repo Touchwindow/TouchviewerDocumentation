@@ -60,6 +60,6 @@ pages:
     - Features:
       - Draw-On: it/media-manager/features/draw-on.md
       - Commenti: it/media-manager/features/comments.md
-      - Favoriti: it/media-manager/features/favourite.md
       - Info Point: it/media-manager/features/info-point.md
-      - Sincronizzazione: it/media-manager/network-sync.md
+      - Ricerca: it/media-manager/features/search.md
+      - Sincronizzazione: it/media-manager/features/network-sync.md
