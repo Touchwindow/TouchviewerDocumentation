@@ -1012,203 +1012,138 @@
         },
         {
             "location": "/it/media-manager/contents/overview/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Panoramica\n\n\nPer aggiungere un contenuto cliccare con il tasto destro del mouse sulla cartella desiderata e selezionare l'opzione \"Aggiungi contenuto a cartella\".\n\n\n\n\nVerr\u00e0 mostrata una finestra di dialogo da cui selezionare il tipo di contenuto ed i file da una cartella specifica del computer.\n\n\n\n\nTipi di contenuti\n\n\nI contenuti vengono convertiti automaticamente nel formato compatibile con il software. Durante la conversione verr\u00e0 mostrata un indicatore che mostra l'avanzamento di tale processo.\n\n\nOpzioni per il tipo contenuto:\n\n\n\n\nFile singoli\n: Permette la selezione di file (immagini, video e documenti) che verranno mostrati singolarmente.\n\n\nCollega file da altre cartelle\n: Permette di collegare un file che si trova all'interno di un'altra cartella dello stesso archivio.\n\n\nLista di immagini\n: Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage\n\n\nLista di video\n: Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage\n\n\nWeb browser\n: Permette di inserire un browser web per la navigazione su internet\n\n\nMappa interattiva\n: Permette di inserire una mappa per la visualizzazione di tracciati e punti informativi\n\n\nIngresso video\n: Permette di visualizzare un video ripreso da una webcam o telecamera collegata al PC.\n\n\nStreaming video\n: Permette di visualizzare uno streaming video inserendo il MRL (percorso media resource locator).\n\n\n\n\nOperazioni sui contenuti\n\n\nCliccando con il tasto destro del mouse sul contenuto inserito \u00e8 possibile effettuare alcune operazioni:\n\n\n\n\n\n\nApri\n: Permette di aprire il contenuto con il programma predefinito di windows per quel tipo di file.\n\n\nElimina\n: Permette di eliminare il contenuto dall'archivio (attenzione canceller\u00e0 il file definitivamente).\n\n\nOpzioni\n: Permette di accedere alle opzioni per quel tipo di file. \nVedi Opzioni Contenuto\n\n\nDuplica\n: Permette di duplicare quel file all'interno dell'archivio.",
             "title": "Panoramica"
         },
         {
-            "location": "/it/media-manager/contents/overview/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/overview/#panoramica",
+            "text": "Per aggiungere un contenuto cliccare con il tasto destro del mouse sulla cartella desiderata e selezionare l'opzione \"Aggiungi contenuto a cartella\".   Verr\u00e0 mostrata una finestra di dialogo da cui selezionare il tipo di contenuto ed i file da una cartella specifica del computer.",
+            "title": "Panoramica"
         },
         {
-            "location": "/it/media-manager/contents/overview/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/it/media-manager/contents/overview/#tipi-di-contenuti",
+            "text": "I contenuti vengono convertiti automaticamente nel formato compatibile con il software. Durante la conversione verr\u00e0 mostrata un indicatore che mostra l'avanzamento di tale processo.  Opzioni per il tipo contenuto:   File singoli : Permette la selezione di file (immagini, video e documenti) che verranno mostrati singolarmente.  Collega file da altre cartelle : Permette di collegare un file che si trova all'interno di un'altra cartella dello stesso archivio.  Lista di immagini : Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage  Lista di video : Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage  Web browser : Permette di inserire un browser web per la navigazione su internet  Mappa interattiva : Permette di inserire una mappa per la visualizzazione di tracciati e punti informativi  Ingresso video : Permette di visualizzare un video ripreso da una webcam o telecamera collegata al PC.  Streaming video : Permette di visualizzare uno streaming video inserendo il MRL (percorso media resource locator).",
+            "title": "Tipi di contenuti"
         },
         {
-            "location": "/it/media-manager/contents/overview/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/overview/#operazioni-sui-contenuti",
+            "text": "Cliccando con il tasto destro del mouse sul contenuto inserito \u00e8 possibile effettuare alcune operazioni:    Apri : Permette di aprire il contenuto con il programma predefinito di windows per quel tipo di file.  Elimina : Permette di eliminare il contenuto dall'archivio (attenzione canceller\u00e0 il file definitivamente).  Opzioni : Permette di accedere alle opzioni per quel tipo di file.  Vedi Opzioni Contenuto  Duplica : Permette di duplicare quel file all'interno dell'archivio.",
+            "title": "Operazioni sui contenuti"
         },
         {
             "location": "/it/media-manager/contents/image/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Foto"
+            "text": "Immagini\n\n\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati: \njpg, png, gif, bmp, tiff\n.\n\n\nUna funzionalit\u00e0 dei contenuti di tipo immagine \u00e8 la possibilit\u00e0 di inserire punti informativi all'interno di essa. \nVedi Punti Informativi",
+            "title": "Immagini"
         },
         {
-            "location": "/it/media-manager/contents/image/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/media-manager/contents/image/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/image/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/image/#immagini",
+            "text": "\u00c8 possibile inserire immagini anche di grandissimo formato nei formati:  jpg, png, gif, bmp, tiff .  Una funzionalit\u00e0 dei contenuti di tipo immagine \u00e8 la possibilit\u00e0 di inserire punti informativi all'interno di essa.  Vedi Punti Informativi",
+            "title": "Immagini"
         },
         {
             "location": "/it/media-manager/contents/video/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Video\n\n\n\u00c8 possibile inserire video nei seguenti formati: \nwmv, flv, 3gp, mov, mp4, mpg, avi\n.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare i seguenti comportamenti:\n\n\n\n\nAvviare il video automaticamente all'apertura.\n\n\nRipetere il video al termine della riproduzione (loop).\n\n\nChiudere il video al termine della riproduzione.\n\n\nImpostare il colore di sfondo del video in fase di caricamento.",
             "title": "Video"
         },
         {
-            "location": "/it/media-manager/contents/video/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/video/#video",
+            "text": "\u00c8 possibile inserire video nei seguenti formati:  wmv, flv, 3gp, mov, mp4, mpg, avi .",
+            "title": "Video"
         },
         {
-            "location": "/it/media-manager/contents/video/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/video/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/video/#settings",
+            "text": "\u00c8 possibile impostare i seguenti comportamenti:   Avviare il video automaticamente all'apertura.  Ripetere il video al termine della riproduzione (loop).  Chiudere il video al termine della riproduzione.  Impostare il colore di sfondo del video in fase di caricamento.",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/contents/pdf/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "PDF e Documenti\n\n\n\u00c8 possibile inserire documenti nei formati: \nPDF, doc, docx, ppt, pptx, xls, xlsx\n.\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:\n\n\n\n\nLibro con navigazione a pulsanti.\n\n\nLibro con navigazione a miniature.\n\n\nLibro senza navigazione.\n\n\nLista di immagini con navigazione a miniature.\n\n\n\n\n\nE' possibile inserire punti informativi anche nei contenuti di tipo \nLista di Immagini\n. \nVedi Punti Informativi",
             "title": "PDF/Docs"
         },
         {
-            "location": "/it/media-manager/contents/pdf/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/pdf/#pdf-e-documenti",
+            "text": "\u00c8 possibile inserire documenti nei formati:  PDF, doc, docx, ppt, pptx, xls, xlsx .\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.",
+            "title": "PDF e Documenti"
         },
         {
-            "location": "/it/media-manager/contents/pdf/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/pdf/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/pdf/#settings",
+            "text": "\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:   Libro con navigazione a pulsanti.  Libro con navigazione a miniature.  Libro senza navigazione.  Lista di immagini con navigazione a miniature.   \nE' possibile inserire punti informativi anche nei contenuti di tipo  Lista di Immagini .  Vedi Punti Informativi",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/contents/image-list/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Lista di Immagini\n\n\n\n\nQuando si inserisce un contenuto di tipo Lista di Immagini, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di immagini deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati: \njpg, png, gif, bmp, tiff\n.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:\n\n\n\n\nLibro con navigazione a pulsanti.\n\n\nLibro con navigazione a miniature.\n\n\nLibro senza navigazione.\n\n\nLista di immagini con navigazione a miniature.\n\n\n\n\n\nE' possibile inserire punti informativi anche nei contenuti di tipo \nLista di Immagini\n. \nVedi Punti Informativi",
             "title": "Lista Immagini"
         },
         {
-            "location": "/it/media-manager/contents/image-list/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/image-list/#lista-di-immagini",
+            "text": "Quando si inserisce un contenuto di tipo Lista di Immagini, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di immagini deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati:  jpg, png, gif, bmp, tiff .",
+            "title": "Lista di Immagini"
         },
         {
-            "location": "/it/media-manager/contents/image-list/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/image-list/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/image-list/#settings",
+            "text": "\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:   Libro con navigazione a pulsanti.  Libro con navigazione a miniature.  Libro senza navigazione.  Lista di immagini con navigazione a miniature.   \nE' possibile inserire punti informativi anche nei contenuti di tipo  Lista di Immagini .  Vedi Punti Informativi",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/contents/video-list/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Lista di Video\n\n\n\n\nQuando si inserisce un contenuto di tipo Lista di Video, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di video deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire video nei seguenti formati: \nwmv, flv, 3gp, mov, mp4, mpg, avi\n.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nLa dimensione in cui viene riprodotto il video selezionato.\n\n\nSe avviare il primo video automaticamente all'apertura della Lista Video.\n\n\nSe al termine del video in riproduzione, passare in automatico alla riproduzione del video sucessivo.",
             "title": "Lista Video"
         },
         {
-            "location": "/it/media-manager/contents/video-list/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/video-list/#lista-di-video",
+            "text": "Quando si inserisce un contenuto di tipo Lista di Video, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di video deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire video nei seguenti formati:  wmv, flv, 3gp, mov, mp4, mpg, avi .",
+            "title": "Lista di Video"
         },
         {
-            "location": "/it/media-manager/contents/video-list/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/video-list/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/video-list/#settings",
+            "text": "\u00c8 possibile impostare:   La dimensione in cui viene riprodotto il video selezionato.  Se avviare il primo video automaticamente all'apertura della Lista Video.  Se al termine del video in riproduzione, passare in automatico alla riproduzione del video sucessivo.",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/contents/web-browser/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Web Browser\n\n\n\n\nQuando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nURL della pagina di partenza.\n\n\nDimensione della finestra del browser.\n\n\nFiltro dei nomi a dominio che \u00e8 consentito navigare.\n\n\nAbilita navigazione, permette di uscire dalla pagina corrente tramite link.\n\n\nE' possibile modificare l'URL nella barra degli indirizzi.\n\n\nVisualizza la barra di navigazione.",
             "title": "Web Browser"
         },
         {
-            "location": "/it/media-manager/contents/web-browser/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/web-browser/#web-browser",
+            "text": "Quando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.",
+            "title": "Web Browser"
         },
         {
-            "location": "/it/media-manager/contents/web-browser/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/web-browser/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
-            "location": "/it/media-manager/contents/interactive-map/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Mappa Interattiva"
-        },
-        {
-            "location": "/it/media-manager/contents/interactive-map/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/it/media-manager/contents/interactive-map/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/interactive-map/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/web-browser/#settings",
+            "text": "\u00c8 possibile impostare:   URL della pagina di partenza.  Dimensione della finestra del browser.  Filtro dei nomi a dominio che \u00e8 consentito navigare.  Abilita navigazione, permette di uscire dalla pagina corrente tramite link.  E' possibile modificare l'URL nella barra degli indirizzi.  Visualizza la barra di navigazione.",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/contents/video-input/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Video Input\n\n\n\n\nQuando si inserisce un contenuto di tipo Video Input va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nLa periferica video che \u00e8 collegata al PC.\n\n\nLa dimensione della finestra in cui deve essere visualizzato il video.",
             "title": "Ingresso Video"
         },
         {
-            "location": "/it/media-manager/contents/video-input/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/video-input/#video-input",
+            "text": "Quando si inserisce un contenuto di tipo Video Input va inserito il nome che serve per identificarlo all'interno dell'archivio.",
+            "title": "Video Input"
         },
         {
-            "location": "/it/media-manager/contents/video-input/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/video-input/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/video-input/#settings",
+            "text": "\u00c8 possibile impostare:   La periferica video che \u00e8 collegata al PC.  La dimensione della finestra in cui deve essere visualizzato il video.",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/contents/video-streaming/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Streaming Video\n\n\n\n\nQuando si inserisce un contenuto di tipo Streaming Video va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nL'MRL (percorso media resource locator) il percorso della sorgente dello stream.\n\n\nOptions, parametri facoltativi da passare nel MRL.\n\n\nLa dimensione della finestra in cui deve essere visualizzato il video.",
             "title": "Streaming Video"
         },
         {
-            "location": "/it/media-manager/contents/video-streaming/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/it/media-manager/contents/video-streaming/#streaming-video",
+            "text": "Quando si inserisce un contenuto di tipo Streaming Video va inserito il nome che serve per identificarlo all'interno dell'archivio.",
+            "title": "Streaming Video"
         },
         {
-            "location": "/it/media-manager/contents/video-streaming/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/it/media-manager/contents/video-streaming/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/it/media-manager/contents/video-streaming/#settings",
+            "text": "\u00c8 possibile impostare:   L'MRL (percorso media resource locator) il percorso della sorgente dello stream.  Options, parametri facoltativi da passare nel MRL.  La dimensione della finestra in cui deve essere visualizzato il video.",
+            "title": "Settings"
         },
         {
             "location": "/it/media-manager/features/draw-on/",

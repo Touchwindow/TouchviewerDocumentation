@@ -4,7 +4,7 @@
     
     <url>
      <loc>http://support-test.touchviewer.net//</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,37 +13,37 @@
         
     <url>
      <loc>http://support-test.touchviewer.net//it/overview/</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://support-test.touchviewer.net//it/requirements/</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://support-test.touchviewer.net//it/installation/</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://support-test.touchviewer.net//it/first-boot/</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://support-test.touchviewer.net//it/media-manager/workspace/</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://support-test.touchviewer.net//it/media-manager/settings/</loc>
-     <lastmod>2017-07-11</lastmod>
+     <lastmod>2017-09-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -68,12 +68,6 @@
     <url>
      <loc>http://support-test.touchviewer.net/</loc>
      <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://support-test.touchviewer.net//it/media-manager/network-sync/</loc>
-     <lastmod>2017-07-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
