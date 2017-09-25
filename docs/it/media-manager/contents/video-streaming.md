@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Streaming Video
+![](/img/contents_video-streaming-input.png)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Quando si inserisce un contenuto di tipo Streaming Video va inserito il nome che serve per identificarlo all'interno dell'archivio.
 
-## Commands
+### Settings
+![](/img/contents_video-contents_video-streaming_setting.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+&Egrave; possibile impostare:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* L'MRL (percorso media resource locator) il percorso della sorgente dello stream.
+* Options, parametri facoltativi da passare nel MRL.
+* La dimensione della finestra in cui deve essere visualizzato il video.

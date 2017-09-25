@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Video Input
+![](/img/contents_video-input.png)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Quando si inserisce un contenuto di tipo Video Input va inserito il nome che serve per identificarlo all'interno dell'archivio.
 
-## Commands
+### Settings
+![](/img/contents_video-input_setting.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+&Egrave; possibile impostare:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* La periferica video che è collegata al PC.
+* La dimensione della finestra in cui deve essere visualizzato il video.

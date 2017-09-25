@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Immagini
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+&Egrave; possibile inserire immagini anche di grandissimo formato nei formati: __jpg, png, gif, bmp, tiff__.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Una funzionalità dei contenuti di tipo immagine è la possibilità di inserire punti informativi all'interno di essa. [__Vedi Punti Informativi__](/it/media-manager/features/info-point.md)

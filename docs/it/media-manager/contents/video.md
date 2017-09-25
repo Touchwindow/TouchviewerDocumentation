@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Video
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+&Egrave; possibile inserire video nei seguenti formati: __wmv, flv, 3gp, mov, mp4, mpg, avi__.
 
-## Commands
+### Settings
+![](/img/contents_video_settings.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+&Egrave; possibile impostare i seguenti comportamenti:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Avviare il video automaticamente all'apertura.
+* Ripetere il video al termine della riproduzione (loop).
+* Chiudere il video al termine della riproduzione.
+* Impostare il colore di sfondo del video in fase di caricamento.

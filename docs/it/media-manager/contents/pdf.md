@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# PDF e Documenti
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+&Egrave; possibile inserire documenti nei formati: __PDF, doc, docx, ppt, pptx, xls, xlsx__.
+Bisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer è necessario che sul computer sia installato il  pacchetto Microsft Office.
 
-## Commands
+### Settings
+![](/img/contents_multipage_settings.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+&Egrave; possibile impostare la tipologia di visualizzazione della lista immaggini:
 
-## Project layout
+* Libro con navigazione a pulsanti.
+* Libro con navigazione a miniature.
+* Libro senza navigazione.
+* Lista di immagini con navigazione a miniature.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<br>
+E' possibile inserire punti informativi anche nei contenuti di tipo __Lista di Immagini__. [__Vedi Punti Informativi__](/it/media-manager/features/info-point.md)

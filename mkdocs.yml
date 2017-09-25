@@ -49,13 +49,12 @@ pages:
       - Tema popup strumenti: it/media-manager/themes/theme-toolspopup.md
     - Aggiungi Contenuti:
       - Panoramica : it/media-manager/contents/overview.md
-      - Foto : it/media-manager/contents/image.md
+      - Immagini : it/media-manager/contents/image.md
       - Video : it/media-manager/contents/video.md
       - PDF/Docs : it/media-manager/contents/pdf.md
       - Lista Immagini : it/media-manager/contents/image-list.md
       - Lista Video : it/media-manager/contents/video-list.md
       - Web Browser : it/media-manager/contents/web-browser.md
-      - Mappa Interattiva: it/media-manager/contents/interactive-map.md
       - Ingresso Video : it/media-manager/contents/video-input.md
       - Streaming Video : it/media-manager/contents/video-streaming.md
     - Features:
@@ -63,4 +62,4 @@ pages:
       - Commenti: it/media-manager/features/comments.md
       - Favoriti: it/media-manager/features/favourite.md
       - Info Point: it/media-manager/features/info-point.md
-    - Sincronizzazione: it/media-manager/network-sync.md
+      - Sincronizzazione: it/media-manager/network-sync.md

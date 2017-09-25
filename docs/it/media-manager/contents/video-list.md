@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Lista di Video
+![](/img/contents_videolist.png)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Quando si inserisce un contenuto di tipo Lista di Video, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di video deve avere, per identificarla all'interno dell'archivio.
+&Egrave; possibile inserire video nei seguenti formati: __wmv, flv, 3gp, mov, mp4, mpg, avi__.
 
-## Commands
+### Settings
+![](/img/contents_videolist_setting.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+&Egrave; possibile impostare:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* La dimensione in cui viene riprodotto il video selezionato.
+* Se avviare il primo video automaticamente all'apertura della Lista Video.
+* Se al termine del video in riproduzione, passare in automatico alla riproduzione del video sucessivo.

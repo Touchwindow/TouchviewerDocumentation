@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Web Browser
+![](/img/contents_webbrowser.png)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Quando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.
 
-## Commands
+### Settings
+![](/img/contents_webbrowser_settings.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+&Egrave; possibile impostare:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* URL della pagina di partenza.
+* Dimensione della finestra del browser.
+* Filtro dei nomi a dominio che è consentito navigare.
+* Abilita navigazione, permette di uscire dalla pagina corrente tramite link.
+* E' possibile modificare l'URL nella barra degli indirizzi.
+* Visualizza la barra di navigazione.
