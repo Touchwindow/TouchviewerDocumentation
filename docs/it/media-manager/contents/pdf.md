@@ -3,6 +3,8 @@
 &Egrave; possibile inserire documenti nei formati: __PDF, doc, docx, ppt, pptx, xls, xlsx__.
 Bisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer è necessario che sul computer sia installato il  pacchetto Microsft Office.
 
+Le immagini contenute nei documenti devono essere in formato RGB. Salvare e convertire i documenti in RGB.
+
 ### Settings
 ![](/img/contents_multipage_settings.png)
 
