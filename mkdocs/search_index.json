@@ -1032,12 +1032,12 @@
         },
         {
             "location": "/it/media-manager/contents/image/",
-            "text": "Immagini\n\n\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati: \njpg, png, gif, bmp, tiff\n.\n\n\nInoltre nei contenuti di tipo immagine \u00e8 possibile inserire punti informativi all'interno di essa. \nVedi Punti Informativi",
+            "text": "Immagini\n\n\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati: \njpg, png, gif, bmp, tiff\n.\nLe immagini devono essere in formato RGB.\n\n\nInoltre nei contenuti di tipo immagine \u00e8 possibile inserire punti informativi all'interno di essa. \nVedi Punti Informativi",
             "title": "Immagini"
         },
         {
             "location": "/it/media-manager/contents/image/#immagini",
-            "text": "\u00c8 possibile inserire immagini anche di grandissimo formato nei formati:  jpg, png, gif, bmp, tiff .  Inoltre nei contenuti di tipo immagine \u00e8 possibile inserire punti informativi all'interno di essa.  Vedi Punti Informativi",
+            "text": "\u00c8 possibile inserire immagini anche di grandissimo formato nei formati:  jpg, png, gif, bmp, tiff .\nLe immagini devono essere in formato RGB.  Inoltre nei contenuti di tipo immagine \u00e8 possibile inserire punti informativi all'interno di essa.  Vedi Punti Informativi",
             "title": "Immagini"
         },
         {
@@ -1057,12 +1057,12 @@
         },
         {
             "location": "/it/media-manager/contents/pdf/",
-            "text": "PDF e Documenti\n\n\n\u00c8 possibile inserire documenti nei formati: \nPDF, doc, docx, ppt, pptx, xls, xlsx\n.\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:\n\n\n\n\nLibro con navigazione a pulsanti.\n\n\nLibro con navigazione a miniature.\n\n\nLibro senza navigazione.\n\n\nLista di immagini con navigazione a miniature.\n\n\n\n\n\nE' possibile inserire punti informativi anche nei contenuti di tipo \nLista di Immagini\n. \nVedi Punti Informativi",
+            "text": "PDF e Documenti\n\n\n\u00c8 possibile inserire documenti nei formati: \nPDF, doc, docx, ppt, pptx, xls, xlsx\n.\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.\n\n\nLe immagini contenute nei documenti devono essere in formato RGB. Salvare e convertire i documenti in RGB.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:\n\n\n\n\nLibro con navigazione a pulsanti.\n\n\nLibro con navigazione a miniature.\n\n\nLibro senza navigazione.\n\n\nLista di immagini con navigazione a miniature.\n\n\n\n\n\nE' possibile inserire punti informativi anche nei contenuti di tipo \nLista di Immagini\n. \nVedi Punti Informativi",
             "title": "PDF/Docs"
         },
         {
             "location": "/it/media-manager/contents/pdf/#pdf-e-documenti",
-            "text": "\u00c8 possibile inserire documenti nei formati:  PDF, doc, docx, ppt, pptx, xls, xlsx .\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.",
+            "text": "\u00c8 possibile inserire documenti nei formati:  PDF, doc, docx, ppt, pptx, xls, xlsx .\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.  Le immagini contenute nei documenti devono essere in formato RGB. Salvare e convertire i documenti in RGB.",
             "title": "PDF e Documenti"
         },
         {
