@@ -63,3 +63,40 @@ pages:
       - Info Point: it/media-manager/features/info-point.md
       - Ricerca: it/media-manager/features/search.md
       - Sincronizzazione: it/media-manager/features/network-sync.md
+  - Inglese:
+    - Overview: en/overview.md
+    - Requisiti: en/requirements.md
+    - Installazione: en/installation.md
+    - Primo avvio: en/first-boot.md
+    - Workspace: en/media-manager/workspace.md
+    - Impostazioni: en/media-manager/settings.md
+    - Contenuti:
+      - Elenco Contenuti: en/media-manager/content-directory.md
+      - Opzioni Cartella: en/media-manager/folder-option.md
+      - Opzioni Contenuto: en/media-manager/content-option.md
+      - Proprietà cartelle: en/media-manager/folder-properties.md
+      - Proprietà contenuti: en/media-manager/content-properties.md
+    - Theme Manager:
+      - Panoramica: en/media-manager/themes/overview.md
+      - Tema moduli: en/media-manager/themes/theme-module.md
+      - Tema elementi: en/media-manager/themes/theme-element.md
+      - Tema barra navigazione: en/media-manager/themes/theme-navigationbar.md
+      - Tema barra anteprime: en/media-manager/themes/theme-previewbar.md
+      - Tema del visualizzatore: en/media-manager/themes/theme-viewer.md
+      - Tema popup strumenti: en/media-manager/themes/theme-toolspopup.md
+    - Aggiungi Contenuti:
+      - Panoramica : en/media-manager/contents/overview.md
+      - Immagini : en/media-manager/contents/image.md
+      - Video : en/media-manager/contents/video.md
+      - PDF/Docs : en/media-manager/contents/pdf.md
+      - Lista Immagini : en/media-manager/contents/image-list.md
+      - Lista Video : en/media-manager/contents/video-list.md
+      - Web Browser : en/media-manager/contents/web-browser.md
+      - Ingresso Video : en/media-manager/contents/video-input.md
+      - Streaming Video : en/media-manager/contents/video-streaming.md
+    - Features:
+      - Draw-On: en/media-manager/features/draw-on.md
+      - Commenti: en/media-manager/features/comments.md
+      - Info Point: en/media-manager/features/info-point.md
+      - Ricerca: en/media-manager/features/search.md
+      - Sincronizzazione: en/media-manager/features/network-sync.md
