@@ -1,7 +1,7 @@
 # FIRST BOOT
 
 ### Open the software
-You can click on the icon on the desktop to boot Touchviewer®. At the first boot you will be presented with the text __DEMO VERSION__.
+You can click on the icon on the desktop to boot TouchviewerÂ®. At the first boot you will be presented with the text __DEMO VERSION__.
 
 <center>![](/img/first-boot_1.png)</center>
 

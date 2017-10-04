@@ -1,7 +1,7 @@
 # WORKSPACE
 ![](/img/mediamanager_workspace_1.png)
 
-The Media Manager interface is extremely simple and intuitive and contains all the tools for customising the Touchviewer® application.
+The Media Manager interface is extremely simple and intuitive and contains all the tools for customising the Touchviewerï¿½ application.
 
 1. Secondary menus
 

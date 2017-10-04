@@ -1,9 +1,11 @@
+# Tool Pop-up Theme
+
 ### Tool Pop-up Theme
 ![](/img/theme_toolspopup.png)
 
 The Tool pop-up contains buttons for activating tools on displayed content.
 They are visible when the size of content exceeds monitor resolution size.
-Also set pop-up colour from the [__Draw-On__] feature (/it/media-manager/features/draw-on.md).
+Also set pop-up colourï¿½from the [__Draw-On__] feature (/it/media-manager/features/draw-on.md).
 
 ### Outer margin colour
 Sets the pop-up margin colour.

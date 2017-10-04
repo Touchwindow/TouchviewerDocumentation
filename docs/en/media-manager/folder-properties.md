@@ -52,5 +52,5 @@ Select the Folders / Carousel display method to manage the following additional 
 
 * _Type of curve:_ Sets the distribution of elements (half ellipse, ellipse, line, arc, sine wave)
 * _Element rotation:_ Defines the maximum rotation of the element at the farthest point of the curve
-* _Visible elements:_Set the visible elements in the carousel 
+* _Visible elements:_Set the visible elements in the carousel
 * _Repeat:_ Elements are repeated indefinitely

@@ -24,7 +24,7 @@ Right-click on the folders or contents to open a sub-menu from where you can per
 1. Access folder Options. [Go to the section __Folder Options__](/it/media-manager/folder-option.md)
 1. Add content to the folder. [Go to the section __Add Contents__](/it/media-manager/contents/overview.md)
 1. Create a sub-folder
-1. Hide the current folder and it will not be shown in the Media Presenter 
+1. Hide the current folder and it will not be shown in the Media Presenter
 1. This folder can be linked to another. Click on this section to view the contents of the linked folder in the Media Presenter.
 
 

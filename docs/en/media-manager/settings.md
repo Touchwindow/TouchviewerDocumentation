@@ -10,7 +10,7 @@ __Multiple Instances:__ Multiple Touchviewer windows can be opened.
 
 ### Window style
 __Without margins:__ The Media Presenter opens in full screen mode [default].<br>
-__Standard:__ The Media Presenter opens in windowed mode.
+__Standard:__ The Media Presenter opens inï¿½windowed mode.
 
 ### Dimensions
 __Full screen:__ The Media Presenter will occupy the entire available screen.<br>
@@ -33,8 +33,8 @@ __File adaptation:__ Defines the background adaptation mode with respect to the 
   - _Adjust Internally:_ The file is adjusted, keeping its proportions inside the window<br>
   - _Adjust Externally:_ The file is adjusted, keeping its proportions covering the entire visible screen area
 
-### Quality 
-__Quality :__ Represents the quality index of the general graphics aspect of the software and the contents loaded in it.<br>
+### Qualityï¿½
+__Qualityï¿½:__ Represents the quality index of the general graphics aspect of the software and the contents loaded in it.<br>
 __Mouse:__ Shows / hides the mouse cursor.<br>
 __Touch points:__ Shows / hides the touch cursor.<br>
 __Touch points colour:__ Indicates the colour in which the touch cursor is viewed.<br>
@@ -62,7 +62,7 @@ __Send e-mail from favourites:__ Enables the ability to share content via e-mail
 - _Port:_ Specify the SMTP protocol port for content sharing via e-mail.<br>
 - _Ssl:_ Specify whether the smtp account requires active SSL.<br>
 __Enable search:__ Enables the search feature in the archive.<br>
-__Enable magnetic rotation:__ When enabled, content can be rotated at 90° steps.<br>
+__Enable magnetic rotation:__ When enabled, content can be rotated at 90ï¿½ steps.<br>
 __Multiple info point opening:__When enabled, you can open more than one information point at a time.<br>
 __Modules theme:__ Graphics customisation of "Favourites", "Search", etc. modules [__Go to Modules theme__](/it/media-manager/themes/theme-module.md)
 

@@ -23,7 +23,7 @@ __Caution__ updates will be downloaded to the archive that is currently open.
 
 ![](/img/sync_update_folder_7.png)
 
-Once you have selected the source from where you wish to download updates, you can set the synchronisation method: 
+Once you have selected the source from where you wish to download updates, you can set the synchronisation method:
 
 * _Update contents upon software start-up_  Every time you start Touchviewer, the procedure performs a check of available updates and downloads any new content or any content that has been edited in the source folder. Tick___Ask for confirmation before updating___to receive notification asking if you want to update the archive. If you answer no, the update will be requested at the next Touchviewer start-up.
 * _Do not update automatically_ Requires manual updating activation via the __Update__ button.

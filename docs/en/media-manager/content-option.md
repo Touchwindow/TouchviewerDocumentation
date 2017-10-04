@@ -15,7 +15,7 @@ The name displayed in the Media Presenter.
 The description displayed in the Media Presenter after you click on the icon ![](/img/icon_description.png)
 
 ### Position
-The order in which an element is displayed on the screen or in the preview bar. 
+The order in which an element is displayed on the screen or in the preview bar.
 
 ### Minimum and maximum file size
 Sets the minimum and maximum size in which content can be resized.<br>

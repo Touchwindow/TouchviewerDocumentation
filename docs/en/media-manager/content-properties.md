@@ -1,6 +1,6 @@
 # Content Properties
 
-## File display method (Previews list)
+### File display method (Previews list)
 ![](/img/content_properties_1.png)
 
 Defines the presentation layout of the thumbnails contained in a preview bar.
