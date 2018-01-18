@@ -1,0 +1,3 @@
+- Modulo per la ricerca dei contenuti
+- Possibilità di aprire più punti informativi contemporaneamente
+- Posizionamento dei contenuti sullo stage

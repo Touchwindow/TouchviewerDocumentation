@@ -27,76 +27,156 @@ markdown_extensions:
 pages:
   - Welcome: index.md
   - Italiano:
-    - Overview: it/overview.md
-    - Requisiti: it/requirements.md
-    - Installazione: it/installation.md
-    - Primo avvio: it/first-boot.md
-    - Workspace: it/media-manager/workspace.md
-    - Impostazioni: it/media-manager/settings.md
-    - Contenuti:
-      - Elenco Contenuti: it/media-manager/content-directory.md
-      - Opzioni Cartella: it/media-manager/folder-option.md
-      - Opzioni Contenuto: it/media-manager/content-option.md
-      - Proprietà cartelle: it/media-manager/folder-properties.md
-      - Proprietà contenuti: it/media-manager/content-properties.md
-    - Theme Manager:
-      - Panoramica: it/media-manager/themes/overview.md
-      - Tema moduli: it/media-manager/themes/theme-module.md
-      - Tema elementi: it/media-manager/themes/theme-element.md
-      - Tema barra navigazione: it/media-manager/themes/theme-navigationbar.md
-      - Tema barra anteprime: it/media-manager/themes/theme-previewbar.md
-      - Tema del visualizzatore: it/media-manager/themes/theme-viewer.md
-      - Tema popup strumenti: it/media-manager/themes/theme-toolspopup.md
-    - Aggiungi Contenuti:
-      - Panoramica : it/media-manager/contents/overview.md
-      - Immagini : it/media-manager/contents/image.md
-      - Video : it/media-manager/contents/video.md
-      - PDF/Docs : it/media-manager/contents/pdf.md
-      - Lista Immagini : it/media-manager/contents/image-list.md
-      - Lista Video : it/media-manager/contents/video-list.md
-      - Web Browser : it/media-manager/contents/web-browser.md
-      - Ingresso Video : it/media-manager/contents/video-input.md
-      - Streaming Video : it/media-manager/contents/video-streaming.md
-    - Features:
-      - Draw-On: it/media-manager/features/draw-on.md
-      - Commenti: it/media-manager/features/comments.md
-      - Info Points: it/media-manager/features/info-point.md
-      - Ricerca: it/media-manager/features/search.md
-      - Sincronizzazione: it/media-manager/features/network-sync.md
+    - 2.17:
+      - Whats New: it/2.17/whats-new.md
+      - Overview: it/2.17/overview.md
+      - Requisiti: it/2.17/requirements.md
+      - Installazione: it/2.17/installation.md
+      - Primo avvio: it/2.17/first-boot.md
+      - Workspace: it/2.17/media-manager/workspace.md
+      - Impostazioni: it/2.17/media-manager/settings.md
+      - Contenuti:
+        - Elenco Contenuti: it/2.17/media-manager/content-directory.md
+        - Opzioni Cartella: it/2.17/media-manager/folder-option.md
+        - Opzioni Contenuto: it/2.17/media-manager/content-option.md
+        - Proprietà cartelle: it/2.17/media-manager/folder-properties.md
+        - Proprietà contenuti: it/2.17/media-manager/content-properties.md
+      - Theme Manager:
+        - Panoramica: it/2.17/media-manager/themes/overview.md
+        - Tema moduli: it/2.17/media-manager/themes/theme-module.md
+        - Tema elementi: it/2.17/media-manager/themes/theme-element.md
+        - Tema barra navigazione: it/2.17/media-manager/themes/theme-navigationbar.md
+        - Tema barra anteprime: it/2.17/media-manager/themes/theme-previewbar.md
+        - Tema del visualizzatore: it/2.17/media-manager/themes/theme-viewer.md
+        - Tema popup strumenti: it/2.17/media-manager/themes/theme-toolspopup.md
+      - Aggiungi Contenuti:
+        - Panoramica : it/2.17/media-manager/contents/overview.md
+        - Immagini : it/2.17/media-manager/contents/image.md
+        - Video : it/2.17/media-manager/contents/video.md
+        - PDF/Docs : it/2.17/media-manager/contents/pdf.md
+        - Lista Immagini : it/2.17/media-manager/contents/image-list.md
+        - Lista Video : it/2.17/media-manager/contents/video-list.md
+        - Web Browser : it/2.17/media-manager/contents/web-browser.md
+        - Ingresso Video : it/2.17/media-manager/contents/video-input.md
+        - Streaming Video : it/2.17/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: it/2.17/media-manager/features/draw-on.md
+        - Commenti: it/2.17/media-manager/features/comments.md
+        - Info Points: it/2.17/media-manager/features/info-point.md
+        - Ricerca: it/2.17/media-manager/features/search.md
+        - Sincronizzazione: it/2.17/media-manager/features/network-sync.md
+    - 2.16:
+      - Whats New: it/2.16/whats-new.md
+      - Overview: it/2.16/overview.md
+      - Requisiti: it/2.16/requirements.md
+      - Installazione: it/2.16/installation.md
+      - Primo avvio: it/2.16/first-boot.md
+      - Workspace: it/2.16/media-manager/workspace.md
+      - Impostazioni: it/2.16/media-manager/settings.md
+      - Contenuti:
+        - Elenco Contenuti: it/2.16/media-manager/content-directory.md
+        - Opzioni Cartella: it/2.16/media-manager/folder-option.md
+        - Opzioni Contenuto: it/2.16/media-manager/content-option.md
+        - Proprietà cartelle: it/2.16/media-manager/folder-properties.md
+        - Proprietà contenuti: it/2.16/media-manager/content-properties.md
+      - Theme Manager:
+        - Panoramica: it/2.16/media-manager/themes/overview.md
+        - Tema moduli: it/2.16/media-manager/themes/theme-module.md
+        - Tema elementi: it/2.16/media-manager/themes/theme-element.md
+        - Tema barra navigazione: it/2.16/media-manager/themes/theme-navigationbar.md
+        - Tema barra anteprime: it/2.16/media-manager/themes/theme-previewbar.md
+        - Tema del visualizzatore: it/2.16/media-manager/themes/theme-viewer.md
+        - Tema popup strumenti: it/2.16/media-manager/themes/theme-toolspopup.md
+      - Aggiungi Contenuti:
+        - Panoramica : it/2.16/media-manager/contents/overview.md
+        - Immagini : it/2.16/media-manager/contents/image.md
+        - Video : it/2.16/media-manager/contents/video.md
+        - PDF/Docs : it/2.16/media-manager/contents/pdf.md
+        - Lista Immagini : it/2.16/media-manager/contents/image-list.md
+        - Lista Video : it/2.16/media-manager/contents/video-list.md
+        - Web Browser : it/2.16/media-manager/contents/web-browser.md
+        - Ingresso Video : it/2.16/media-manager/contents/video-input.md
+        - Streaming Video : it/2.16/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: it/2.16/media-manager/features/draw-on.md
+        - Commenti: it/2.16/media-manager/features/comments.md
+        - Info Points: it/2.16/media-manager/features/info-point.md
+        - Ricerca: it/2.16/media-manager/features/search.md
+        - Sincronizzazione: it/2.16/media-manager/features/network-sync.md
   - English:
-    - Overview: en/overview.md
-    - Requirements: en/requirements.md
-    - Installation: en/installation.md
-    - First Boot: en/first-boot.md
-    - Workspace: en/media-manager/workspace.md
-    - Settings: en/media-manager/settings.md
-    - Contents:
-      - Content List: en/media-manager/content-directory.md
-      - Opzioni Cartella: en/media-manager/folder-option.md
-      - Folder Options: en/media-manager/content-option.md
-      - Folder Properties: en/media-manager/folder-properties.md
-      - Content Properties: en/media-manager/content-properties.md
-    - Theme Manager:
-      - Themes Overview: en/media-manager/themes/overview.md
-      - Modules Theme: en/media-manager/themes/theme-module.md
-      - Elements Theme: en/media-manager/themes/theme-element.md
-      - Navigation Bar Theme: en/media-manager/themes/theme-navigationbar.md
-      - Preview Bar Theme: en/media-manager/themes/theme-previewbar.md
-      - Viewer theme: en/media-manager/themes/theme-viewer.md
-      - Tool Pop-up Theme: en/media-manager/themes/theme-toolspopup.md
-    - Aggiungi Contenuti:
-      - Overview : en/media-manager/contents/overview.md
-      - Images : en/media-manager/contents/image.md
-      - Video : en/media-manager/contents/video.md
-      - PDF/Docs : en/media-manager/contents/pdf.md
-      - Image List : en/media-manager/contents/image-list.md
-      - Video List : en/media-manager/contents/video-list.md
-      - Web Browser : en/media-manager/contents/web-browser.md
-      - Video Input : en/media-manager/contents/video-input.md
-      - Video Streaming : en/media-manager/contents/video-streaming.md
-    - Features:
-      - Draw-On: en/media-manager/features/draw-on.md
-      - Comments: en/media-manager/features/comments.md
-      - Info Points: en/media-manager/features/info-point.md
-      - Search: en/media-manager/features/search.md
-      - Synchronisation: en/media-manager/features/network-sync.md
+    - 2.17:
+      - Whats New: en/2.17/whats-new.md
+      - Overview: en/2.17/overview.md
+      - Requirements: en/2.17/requirements.md
+      - Installation: en/2.17/installation.md
+      - First Boot: en/2.17/first-boot.md
+      - Workspace: en/2.17/media-manager/workspace.md
+      - Settings: en/2.17/media-manager/settings.md
+      - Contents:
+        - Content List: en/2.17/media-manager/content-directory.md
+        - Opzioni Cartella: en/2.17/media-manager/folder-option.md
+        - Folder Options: en/2.17/media-manager/content-option.md
+        - Folder Properties: en/2.17/media-manager/folder-properties.md
+        - Content Properties: en/2.17/media-manager/content-properties.md
+      - Theme Manager:
+        - Themes Overview: en/2.17/media-manager/themes/overview.md
+        - Modules Theme: en/2.17/media-manager/themes/theme-module.md
+        - Elements Theme: en/2.17/media-manager/themes/theme-element.md
+        - Navigation Bar Theme: en/2.17/media-manager/themes/theme-navigationbar.md
+        - Preview Bar Theme: en/2.17/media-manager/themes/theme-previewbar.md
+        - Viewer theme: en/2.17/media-manager/themes/theme-viewer.md
+        - Tool Pop-up Theme: en/2.17/media-manager/themes/theme-toolspopup.md
+      - Aggiungi Contenuti:
+        - Overview : en/2.17/media-manager/contents/overview.md
+        - Images : en/2.17/media-manager/contents/image.md
+        - Video : en/2.17/media-manager/contents/video.md
+        - PDF/Docs : en/2.17/media-manager/contents/pdf.md
+        - Image List : en/2.17/media-manager/contents/image-list.md
+        - Video List : en/2.17/media-manager/contents/video-list.md
+        - Web Browser : en/2.17/media-manager/contents/web-browser.md
+        - Video Input : en/2.17/media-manager/contents/video-input.md
+        - Video Streaming : en/2.17/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: en/2.17/media-manager/features/draw-on.md
+        - Comments: en/2.17/media-manager/features/comments.md
+        - Info Points: en/2.17/media-manager/features/info-point.md
+        - Search: en/2.17/media-manager/features/search.md
+        - Synchronisation: en/2.17/media-manager/features/network-sync.md
+    - 2.16:
+      - Whats New: en/2.16/whats-new.md
+      - Overview: en/2.16/overview.md
+      - Requirements: en/2.16/requirements.md
+      - Installation: en/2.16/installation.md
+      - First Boot: en/2.16/first-boot.md
+      - Workspace: en/2.16/media-manager/workspace.md
+      - Settings: en/2.16/media-manager/settings.md
+      - Contents:
+        - Content List: en/2.16/media-manager/content-directory.md
+        - Opzioni Cartella: en/2.16/media-manager/folder-option.md
+        - Folder Options: en/2.16/media-manager/content-option.md
+        - Folder Properties: en/2.16/media-manager/folder-properties.md
+        - Content Properties: en/2.16/media-manager/content-properties.md
+      - Theme Manager:
+        - Themes Overview: en/2.16/media-manager/themes/overview.md
+        - Modules Theme: en/2.16/media-manager/themes/theme-module.md
+        - Elements Theme: en/2.16/media-manager/themes/theme-element.md
+        - Navigation Bar Theme: en/2.16/media-manager/themes/theme-navigationbar.md
+        - Preview Bar Theme: en/2.16/media-manager/themes/theme-previewbar.md
+        - Viewer theme: en/2.16/media-manager/themes/theme-viewer.md
+        - Tool Pop-up Theme: en/2.16/media-manager/themes/theme-toolspopup.md
+      - Aggiungi Contenuti:
+        - Overview : en/2.16/media-manager/contents/overview.md
+        - Images : en/2.16/media-manager/contents/image.md
+        - Video : en/2.16/media-manager/contents/video.md
+        - PDF/Docs : en/2.16/media-manager/contents/pdf.md
+        - Image List : en/2.16/media-manager/contents/image-list.md
+        - Video List : en/2.16/media-manager/contents/video-list.md
+        - Web Browser : en/2.16/media-manager/contents/web-browser.md
+        - Video Input : en/2.16/media-manager/contents/video-input.md
+        - Video Streaming : en/2.16/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: en/2.16/media-manager/features/draw-on.md
+        - Comments: en/2.16/media-manager/features/comments.md
+        - Info Points: en/2.16/media-manager/features/info-point.md
+        - Search: en/2.16/media-manager/features/search.md
+        - Synchronisation: en/2.16/media-manager/features/network-sync.md

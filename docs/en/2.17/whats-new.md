@@ -1,0 +1,4 @@
+- K-Lite video codec package updated to version 13.5.0
+- Management of bookmarks in the browser
+- Browser compatibility for creating documents online with Google Documents and Office 365
+- Content synchronization system with Dropbox

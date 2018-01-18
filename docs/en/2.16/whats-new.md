@@ -1,0 +1,3 @@
+- Content search form
+- Possibility to open more info points at the same time
+- Positioning of contents on the stage

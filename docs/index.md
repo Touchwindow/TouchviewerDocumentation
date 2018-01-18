@@ -2,6 +2,5 @@
 <center>
 # Welcome to Touchviewer, Real multitouch software.
 
-### [Leggi la guida in italiano](it/overview.md)
-### [Read the guide in English](en/overview.md)
+
 </center>
