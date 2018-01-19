@@ -4,7 +4,7 @@
 Touchviewer can be managed both locally and remotely. It has been designed to distribute contents on an interactive network of stations installed in different locations. All Touchviewer clients can be configured to send or receive updates manually or in a scheduled manner. The entire architecture is based on an extremely powerful synchronisation system that ensures speed and reliability in all updating tasks with and to the remote server.
 
 ### Publish configuration
-![](/img/sync_publish_open_2.png)
+![](/img/2.17/sync_publish_open_2.png)
 
 From here you can choose the destination for publishing contents. The destination can be a PC folder or a mapped network folder, a Dropbox service storage space.
 
@@ -13,7 +13,7 @@ Excluding thumbnails (recommended for archives with a lot of content) speeds up 
 If you choose __DROPBOX__ cloud service, you will need to enter all the data of the account for authentication and the name of the folder found on Dropbox.
 
 ### Update configuration
-![](/img/sync_update_open_6.png)
+![](/img/2.17/sync_update_open_6.png)
 
 Define the source from where you want to download updates. The source can be a PC folder, a network folder or a Dropbox.
 
