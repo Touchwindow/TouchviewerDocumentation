@@ -15,7 +15,7 @@ If you choose __DROPBOX__ cloud service, you will need to enter all the data of 
 ### Update configuration
 ![](/img/sync_update_open_6.png)
 
-Define the source from where you want to download updates. The source can be a PC folder, a network folder (select Robocopy), a Strongspace service storage space, or a Dropbox folder.
+Define the source from where you want to download updates. The source can be a PC folder, a network folder or a Dropbox.
 
 __Caution__ updates will be downloaded to the archive that is currently open.
 

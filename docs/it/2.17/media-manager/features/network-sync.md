@@ -16,7 +16,7 @@ Nel caso si scelga il servizio cloud __DROPBOX__ bisogna inserire tutti di dati 
 ### Configurazione aggiornamento
 ![](/img/sync_update_open_6.png)
 
-Definire la sorgente da cui scaricare gli aggiornamenti. La sorgente può essere una cartella del PC, una cartella di rete (selezionare Robocopy), uno spazio storage del servizio Strongspace o una cartella Dropbox.
+Definire la sorgente da cui scaricare gli aggiornamenti. La sorgente può essere una cartella del PC, una cartella di rete o Dropbox.
 
 __Attenzione__ gli aggiornamenti verranno scaricati nell'archivio attualmente aperto.
 
