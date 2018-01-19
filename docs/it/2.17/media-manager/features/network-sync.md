@@ -14,13 +14,13 @@ Nel caso si scelga il servizio cloud __DROPBOX__ bisogna inserire tutti di dati 
 
 
 ### Configurazione aggiornamento
-![](/img/sync_update_open_6.png)
+![](/img/2.17/sync_update_open_6.png)
 
 Definire la sorgente da cui scaricare gli aggiornamenti. La sorgente può essere una cartella del PC, una cartella di rete o Dropbox.
 
 __Attenzione__ gli aggiornamenti verranno scaricati nell'archivio attualmente aperto.
 
-![](/img/sync_update_folder_7.png)
+![](/img/2.17/sync_update_folder_7.png)
 
 Una volta selezionata la sorgente da cui scaricare gli aggiornamenti è possibile impostare la modalità di sincronizzazione:
 
