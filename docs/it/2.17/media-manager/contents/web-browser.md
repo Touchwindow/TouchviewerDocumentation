@@ -14,3 +14,9 @@ Quando si inserisce un contenuto di tipo Web Browser va inserito il nome che ser
 * Abilita navigazione, permette di uscire dalla pagina corrente tramite link.
 * E' possibile modificare l'URL nella barra degli indirizzi.
 * Visualizza la barra di navigazione.
+
+### Bookmarks
+Con la nuova funzione Bookmarks è possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.
+
+E' possibilie abilitare e gestire questa funzionalità dalle impostazioni del Media Manager
+[__Vedi Punti Informativi__](/it/2.17/media-manager/settings.md/#impostazioni-web-browser)

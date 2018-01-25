@@ -1,4 +1,4 @@
 - Pacchetto codec video K-Lite aggiornato alla versione 13.5.0
-- Gestione dei preferiti nel Browser
+- Gestione dei Bookmarks nel Browser
 - Compatibilità del browser per la creazione di documenti online con Google Documents e Office 365
 - Sistema di sincronizzazione dei contenuti con Dropbox

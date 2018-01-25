@@ -79,3 +79,11 @@ __Adattamento file:__ Determina la modalità di adattamento dei file rispetto al
   - _Adatta Internamente:_ Il file viene adattato mantenendo le sue proprozioni all'interno della finestra<br>
   - _Adatta Esternamente:_ Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage<br>
 E' possibile inoltre alternare foto e video all'interno dello stesso screensaver.
+
+### Impostazioni Web Browser
+![](/img/2.17/browser-setting.png)
+
+* E' possibile abilitare o disabilitare la funzionalità Bookmarks nel browser
+* Abilitare l'inserimento automatico delle credenziali per l'accesso in aree protette
+* Inserire Manualmente gli URL e la label da visualizzare (eventualmente le relative credenziali di accesso)
+* Abilitare o disabilitare un Bookmarks già inserito
