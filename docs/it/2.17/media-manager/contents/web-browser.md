@@ -19,4 +19,4 @@ Quando si inserisce un contenuto di tipo Web Browser va inserito il nome che ser
 Con la nuova funzione Bookmarks è possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.
 
 E' possibilie abilitare e gestire questa funzionalità dalle impostazioni del Media Manager
-[__Vedi Punti Informativi__](/it/2.17/media-manager/settings.md/#impostazioni-web-browser)
+[__Vedi Impostazioni Web Browser__](/it/2.17/media-manager/settings/#impostazioni-web-browser)
