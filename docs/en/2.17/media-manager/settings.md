@@ -79,3 +79,11 @@ __File adaptation:__ Defines the file adaptation mode with respect to the screen
   - _Adjust Internally:_ The file is adjusted, keeping its proportions inside the window<br>
   - _Adjust Externally:_ The file is adjusted, keeping its proportions covering the entire visible screen area<br>
 It is also possible to alternate between photos and videos within the same screensaver.
+
+### Web Browser Settings
+![](/img/2.17/browser-setting.png)
+
+* You can enable or disable the Bookmarks function
+* You can enable the automatic input of log-in credentials for a direct access to protected area
+* Manually input for URLs and labels to display (and if required the related log-in credentials)
+* Enable or disable a Bookmarks already entered
