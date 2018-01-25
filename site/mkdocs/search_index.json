@@ -1107,7 +1107,7 @@
         },
         {
             "location": "/it/2.17/media-manager/contents/web-browser/",
-            "text": "Web Browser\n\n\n\n\nQuando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nURL della pagina di partenza.\n\n\nDimensione della finestra del browser.\n\n\nFiltro dei nomi a dominio che \u00e8 consentito navigare.\n\n\nAbilita navigazione, permette di uscire dalla pagina corrente tramite link.\n\n\nE' possibile modificare l'URL nella barra degli indirizzi.\n\n\nVisualizza la barra di navigazione.\n\n\n\n\nBookmarks\n\n\nCon la nuova funzione Bookmarks \u00e8 possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.\n\n\nE' possibilie abilitare e gestire questa funzionalit\u00e0 dalle impostazioni del Media Manager\n\nVedi Impostazioni Web Browser",
+            "text": "Web Browser\n\n\n\n\nQuando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nURL della pagina di partenza.\n\n\nDimensione della finestra del browser.\n\n\nFiltro dei nomi a dominio che \u00e8 consentito navigare.\n\n\nAbilita navigazione, permette di uscire dalla pagina corrente tramite link.\n\n\nE' possibile modificare l'URL nella barra degli indirizzi.\n\n\nVisualizza la barra di navigazione.\n\n\n\n\nBookmarks\n\n\nCon la nuova funzione Bookmarks \u00e8 possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.\n\n\nCliccando sull icona \n si accede alla lista dei bookmarks attivi.\n\n\nCliccando sull icona \n \u00e8 possibile aggiungere o rimuovere un URL dai bookmarks.\n\n\nSi pu\u00f2 abilitare e gestire la funzionalit\u00e0 Bookmarks dalle impostazioni del Media Manager \n\n\nVedi Impostazioni Web Browser",
             "title": "Web Browser"
         },
         {
@@ -1122,7 +1122,7 @@
         },
         {
             "location": "/it/2.17/media-manager/contents/web-browser/#bookmarks",
-            "text": "Con la nuova funzione Bookmarks \u00e8 possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.  E' possibilie abilitare e gestire questa funzionalit\u00e0 dalle impostazioni del Media Manager Vedi Impostazioni Web Browser",
+            "text": "Con la nuova funzione Bookmarks \u00e8 possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.  Cliccando sull icona   si accede alla lista dei bookmarks attivi.  Cliccando sull icona   \u00e8 possibile aggiungere o rimuovere un URL dai bookmarks.  Si pu\u00f2 abilitare e gestire la funzionalit\u00e0 Bookmarks dalle impostazioni del Media Manager   Vedi Impostazioni Web Browser",
             "title": "Bookmarks"
         },
         {
