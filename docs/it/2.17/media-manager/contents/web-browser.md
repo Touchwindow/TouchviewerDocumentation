@@ -18,5 +18,9 @@ Quando si inserisce un contenuto di tipo Web Browser va inserito il nome che ser
 ### Bookmarks
 Con la nuova funzione Bookmarks è possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.
 
-E' possibilie abilitare e gestire questa funzionalità dalle impostazioni del Media Manager
+Cliccando sull icona ![](/img/2.17/bookmarks.png) si accede alla lista dei bookmarks attivi.
+
+Cliccando sull icona ![](/img/2.17/add-to-bookmarks.png) è possibile aggiungere o rimuovere un URL dai bookmarks.
+
+Si può abilitare e gestire la funzionalità Bookmarks dalle impostazioni del Media Manager <br>
 [__Vedi Impostazioni Web Browser__](/it/2.17/media-manager/settings/#impostazioni-web-browser)
