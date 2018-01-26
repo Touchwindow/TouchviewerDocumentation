@@ -23,40 +23,37 @@
 1. __Install the Video Codec by pressing <span class="text-lightblue">YES</span>__
 <center>![](/img/installation_6.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and start installation__
-<center>![](/img/installation_7.png)</center>
+1. __Select <span class="text-purple">Normal mode</span> Premere <span class="text-lightblue">NEXT</span> e iniziare l'intallazione__
+<center>![](/img/klite-13.5.0/codec_1.png)</center>
 
-1. __Select <span class="text-purple">Normal mode</span> Press <span class="text-lightblue">NEXT</span> and start installation__
-<center>![](/img/installation_8.png)</center>
+1. __Nel caso una versione di K-Lite sia gia stata installata premere <span class="text-lightblue">NEXT</span> e saltare al punto 19__
+<center>![](/img/klite-13.5.0/codec_1-b.png)</center>
 
-1. __If a version of K-Lite has already been installed, press <span class="text-lightblue">NEXT</span> and skip to point 19__
-<center>![](/img/installation_8_a.png)</center>
+1. __Select <span class="text-purple">Install only 64 bit component</span> e premere <span class="text-lightblue">NEXT</span>__
+<center>![](/img/klite-13.5.0/codec_2.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_9.png)</center>
+1. __Click on <span class="text-lightblue">NEXT</span>__
+<center>![](/img/klite-13.5.0/codec_3.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_10.png)</center>
+1. __Click on <span class="text-lightblue">NEXT</span>__
+<center>![](/img/klite-13.5.0/codec_4.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_11.png)</center>
+1. __Click on <span class="text-lightblue">NEXT</span>__
+<center>![](/img/klite-13.5.0/codec_5.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_12.png)</center>
+1. __Click on <span class="text-lightblue">NEXT</span>__
+<center>![](/img/klite-13.5.0/codec_6.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_13.png)</center>
+1. __Click on <span class="text-lightblue">DECLINE</span>__
+<center>![](/img/klite-13.5.0/codec_7.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_14.png)</center>
+1. __Click on <span class="text-lightblue">INSTALL</span>__
+<center>![](/img/klite-13.5.0/codec_8.png)</center>
 
-1. __Press <span class="text-lightblue">NEXT</span> and continue__
-<center>![](/img/installation_15.png)</center>
+1. __Click on <span class="text-lightblue">FINISH</span>__
+<center>![](/img/klite-13.5.0/codec_9.png)</center>
 
-1. __Press <span class="text-lightblue">FINISH</span> and continue__
-<center>![](/img/installation_16.png)</center>
-
-1. __Press <span class="text-lightblue">END</span>__
-<center>![](/img/installation_17.png)</center>
+1. __Click on <span class="text-lightblue">END</span>__
+<center>![](/img/installation_17_2.17.png)</center>
 
 </div>
