@@ -23,13 +23,13 @@
 1. __Install the Video Codec by pressing <span class="text-lightblue">YES</span>__
 <center>![](/img/installation_6.png)</center>
 
-1. __Select <span class="text-purple">Normal mode</span> Premere <span class="text-lightblue">NEXT</span> e iniziare l'intallazione__
+1. __Select <span class="text-purple">Normal mode</span> and press <span class="text-lightblue">NEXT</span> to start__
 <center>![](/img/klite-13.5.0/codec_1.png)</center>
 
-1. __Nel caso una versione di K-Lite sia gia stata installata premere <span class="text-lightblue">NEXT</span> e saltare al punto 19__
+1. __In case a version of K-Lite has already been installed press <span class="text-lightblue">NEXT</span> and go to point 19__
 <center>![](/img/klite-13.5.0/codec_1-b.png)</center>
 
-1. __Select <span class="text-purple">Install only 64 bit component</span> e premere <span class="text-lightblue">NEXT</span>__
+1. __Select <span class="text-purple">Install only 64 bit component</span> and click on <span class="text-lightblue">NEXT</span>__
 <center>![](/img/klite-13.5.0/codec_2.png)</center>
 
 1. __Click on <span class="text-lightblue">NEXT</span>__
