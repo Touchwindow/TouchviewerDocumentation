@@ -4,12 +4,18 @@
     
     <url>
      <loc>http://support-test.touchviewer.net//</loc>
-     <lastmod>2018-01-26</lastmod>
+     <lastmod>2018-08-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
+    <url>
+     <loc>http://support-test.touchviewer.net/</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
         
     <url>
      <loc>http://support-test.touchviewer.net/</loc>
