@@ -11,6 +11,1276 @@
             "title": "Welcome to Touchviewer, Real multitouch software."
         },
         {
+            "location": "/it/3.1/whats-new/",
+            "text": "Aggiornamento alla versione 65 di Chromium del browser interno\n\n\nAmpliata la tipologia di mappe, quelle ora disponibili sono: Google Maps, ArcGIS, OpenStreetMap e Bing.\n\n\nCondivisione dei contnuti preferiti\n\n\nInserit\u00e0 funzionalit\u00e0 Snapshot per creare istantanee delle pagine web, immagini e documenti.\n\n\nFloating Menu e gesture Circle\n\n\nZooming User Interface",
+            "title": "Whats New"
+        },
+        {
+            "location": "/it/3.1/overview/",
+            "text": "OVERVIEW\n\n\nCos'\u00e8 il Touchviewer\n\n\nTouchviewer \u00e8 l'applicazione per creare e gestire i tuoi contenuti multimediali. \u00c8 il supporto ideale per realizzare delle vere esperienze Multi-Touch per i tuoi utenti, nei centri commerciali, nei musei, nei punti vendita, nelle fiere.\n\n\nTouchviewer aiuta i tuoi clienti a trovare le informazioni sui tuoi prodotti, nei musei aiuta i tuoi visitatori a scoprire, conoscere ed approfondire. Touchviewer ti permette di gestire ed aggiornare i tuoi contenuti in maniera autonoma e senza scrivere una riga di codice. Semplicit\u00e0 ed intuitivit\u00e0 sono le carte vincenti.\n\n\nCrea le tue presentazioni\n\n\nTouchviewer \u00e8 pensato e realizzato per l'utilizzo tramite display touch permettendo agli utenti una navigazione semplice ed intuitiva. \u00c8 possibile zoomare con rapide gesture su immagini ad altissima risoluzione, vedere video, navigare su internet, visualizzare mappe interattive con punti di interesse, scrivere, leggere e disegnare. La risposta ai tuoi gesti \u00e8 fluida, realistica, veloce e naturale.\n\n\nPer ogni dispositivo touch\n\n\nTouchviewer \u00e8 l'unico software che permette di adattare lo stage di lavoro, in modo automatico, a qualsiasi display e qualsiasi risoluzione, dai monitor 4K alle infinite composizioni di display dei Touch Wall. Touchviewer \u00e8 configurabile anche in versione Multi-Utente. \u00c8 possibile dividere l'area di lavoro o attivare pi\u00f9 men\u00f9 di navigazione sullo stage in modo da gestire e condividere contenuti tra pi\u00f9 persone contemporaneamente.",
+            "title": "Overview"
+        },
+        {
+            "location": "/it/3.1/overview/#overview",
+            "text": "",
+            "title": "OVERVIEW"
+        },
+        {
+            "location": "/it/3.1/overview/#cose-il-touchviewer",
+            "text": "Touchviewer \u00e8 l'applicazione per creare e gestire i tuoi contenuti multimediali. \u00c8 il supporto ideale per realizzare delle vere esperienze Multi-Touch per i tuoi utenti, nei centri commerciali, nei musei, nei punti vendita, nelle fiere.  Touchviewer aiuta i tuoi clienti a trovare le informazioni sui tuoi prodotti, nei musei aiuta i tuoi visitatori a scoprire, conoscere ed approfondire. Touchviewer ti permette di gestire ed aggiornare i tuoi contenuti in maniera autonoma e senza scrivere una riga di codice. Semplicit\u00e0 ed intuitivit\u00e0 sono le carte vincenti.",
+            "title": "Cos'\u00e8 il Touchviewer"
+        },
+        {
+            "location": "/it/3.1/overview/#crea-le-tue-presentazioni",
+            "text": "Touchviewer \u00e8 pensato e realizzato per l'utilizzo tramite display touch permettendo agli utenti una navigazione semplice ed intuitiva. \u00c8 possibile zoomare con rapide gesture su immagini ad altissima risoluzione, vedere video, navigare su internet, visualizzare mappe interattive con punti di interesse, scrivere, leggere e disegnare. La risposta ai tuoi gesti \u00e8 fluida, realistica, veloce e naturale.",
+            "title": "Crea le tue presentazioni"
+        },
+        {
+            "location": "/it/3.1/overview/#per-ogni-dispositivo-touch",
+            "text": "Touchviewer \u00e8 l'unico software che permette di adattare lo stage di lavoro, in modo automatico, a qualsiasi display e qualsiasi risoluzione, dai monitor 4K alle infinite composizioni di display dei Touch Wall. Touchviewer \u00e8 configurabile anche in versione Multi-Utente. \u00c8 possibile dividere l'area di lavoro o attivare pi\u00f9 men\u00f9 di navigazione sullo stage in modo da gestire e condividere contenuti tra pi\u00f9 persone contemporaneamente.",
+            "title": "Per ogni dispositivo touch"
+        },
+        {
+            "location": "/it/3.1/requirements/",
+            "text": "REQUISITI\n\n\nHardware\n\n\nRequisiti minimi\n\nProcessore: Intel Core i5 (6th Gen)\n\nScheda video: Intel HD Graphics 530, GTX 1030 / Ati 2GB\n\nRam: 8GB\n\n\nRequisiti consigliati\n\nProcessore: Intel Core i5 (7th Gen)\n\nStorage: SSD 256GB\n\nScheda video: Intel HD Graphics 630, GTX 1050ti / Ati 4GB\n\nRam: 16GB\n\n\nRequisiti Server (ENTERPRISE)\n\nProcessore: Intel Core i5 (7th Gen)\n\nStorage: SSD 256GB\n\nScheda video: Intel HD Graphics 630, GTX 1050ti / Ati 4GB\n\nRam: 16GB\n\nScheda di rete: 1000 Mbit/s\n\n\nSoftware\n\n\nSistemi Operativi\n\nWindows 10 Anniversary Edition\n\n\nLibrerie\n\nMicrosoft .NET Framework 4.5 (Installato automaticamente come prerequisito)\n\nK-lite Standard edition (Installato automaticamente come prerequisito)\n\nVLC (Per abilitare funzionalit\u00e0 streaming video - \nScarica VLC\n)",
+            "title": "Requisiti"
+        },
+        {
+            "location": "/it/3.1/requirements/#requisiti",
+            "text": "",
+            "title": "REQUISITI"
+        },
+        {
+            "location": "/it/3.1/requirements/#hardware",
+            "text": "Requisiti minimi \nProcessore: Intel Core i5 (6th Gen) \nScheda video: Intel HD Graphics 530, GTX 1030 / Ati 2GB \nRam: 8GB  Requisiti consigliati \nProcessore: Intel Core i5 (7th Gen) \nStorage: SSD 256GB \nScheda video: Intel HD Graphics 630, GTX 1050ti / Ati 4GB \nRam: 16GB  Requisiti Server (ENTERPRISE) \nProcessore: Intel Core i5 (7th Gen) \nStorage: SSD 256GB \nScheda video: Intel HD Graphics 630, GTX 1050ti / Ati 4GB \nRam: 16GB \nScheda di rete: 1000 Mbit/s",
+            "title": "Hardware"
+        },
+        {
+            "location": "/it/3.1/requirements/#software",
+            "text": "Sistemi Operativi \nWindows 10 Anniversary Edition  Librerie \nMicrosoft .NET Framework 4.5 (Installato automaticamente come prerequisito) \nK-lite Standard edition (Installato automaticamente come prerequisito) \nVLC (Per abilitare funzionalit\u00e0 streaming video -  Scarica VLC )",
+            "title": "Software"
+        },
+        {
+            "location": "/it/3.1/installation/",
+            "text": "INSTALLAZIONE\n\n\n\n\n\n\n\n\n\nEstrarre il contenuto dell'archivio .zip contenetene il software\n\n\n\n\n\n\nCliccare su setup.exe\n\n\n\n\n\n\nSelezionare la lingua predefinita e premere \nOK\n\n\n\n\n\n\n\n\nSelezionare se si vuole proteggere l'accesso al Media Manager tramite inserimento di Username e Password\n\n\n\n\n\n\n\n\nAccettare il contratto di licenza e premere \nAVANTI\n\n\n\n\n\n\n\n\nSelezionare la cartella d'installazione e premere \nAVANTI\n\n\n\n\n\n\n\n\nPremere \nINSTALLA\n\n\n\n\n\n\n\n\nInstallare i Codec Video premendo \nSI\n\n\n\n\n\n\n\n\nSelezionare \nNormal mode\n Premere \nNEXT\n e iniziare l'intallazione\n\n\n\n\n\n\n\n\nNel caso una versione di K-Lite sia gia stata installata premere \nNEXT\n e saltare al punto 19\n\n\n\n\n\n\n\n\nSelezionare \nInstall only 64 bit component\n e premere \nNEXT\n\n\n\n\n\n\n\n\nPremere \nNEXT\n e continuare\n\n\n\n\n\n\n\n\nPremere \nNEXT\n e continuare\n\n\n\n\n\n\n\n\nPremere \nNEXT\n e continuare\n\n\n\n\n\n\n\n\nPremere \nNEXT\n e continuare\n\n\n\n\n\n\n\n\nPremere \nDECLINE\n e continuare\n\n\n\n\n\n\n\n\nPremere \nINSTALL\n\n\n\n\n\n\n\n\nPremere \nFINISH\n\n\n\n\n\n\n\n\nPremere \nFINE",
+            "title": "Installazione"
+        },
+        {
+            "location": "/it/3.1/installation/#installazione",
+            "text": "Estrarre il contenuto dell'archivio .zip contenetene il software    Cliccare su setup.exe    Selezionare la lingua predefinita e premere  OK     Selezionare se si vuole proteggere l'accesso al Media Manager tramite inserimento di Username e Password     Accettare il contratto di licenza e premere  AVANTI     Selezionare la cartella d'installazione e premere  AVANTI     Premere  INSTALLA     Installare i Codec Video premendo  SI     Selezionare  Normal mode  Premere  NEXT  e iniziare l'intallazione     Nel caso una versione di K-Lite sia gia stata installata premere  NEXT  e saltare al punto 19     Selezionare  Install only 64 bit component  e premere  NEXT     Premere  NEXT  e continuare     Premere  NEXT  e continuare     Premere  NEXT  e continuare     Premere  NEXT  e continuare     Premere  DECLINE  e continuare     Premere  INSTALL     Premere  FINISH     Premere  FINE",
+            "title": "INSTALLAZIONE"
+        },
+        {
+            "location": "/it/3.1/first-boot/",
+            "text": "PRIMO AVVIO\n\n\nAprire il software\n\n\nPer avviare Touchviewer\u00ae \u00e8 possibile cliccare sull'icona presente sul desktop. Al primo avvio si presenter\u00e0 con la scritta \nDEMO VERSION\n.\n\n\n\n\nPremendo \nF12\n sulla tastiera si potra passare al \nMedia Manager\n.\n\n\nInseriremento credenziali\n\n\nSe in fase di installazione si \u00e8 scelto di proteggere il \nMedia Manager\n con autenticazione, verr\u00e0 chiesto di impostare uno \nUSERNAME\n e una \nPASSWORD\n le quali verranno richieste ogni volta si voglia accedere al \nMedia Manager\n.\n\n\n\n\nAttivazione della licenza\n\n\n\n\n\n\n\n\n\nCliccare nel menu in alto \nLicenza\n e poi su \nAttiva licenza\n\n\n\n\n\n\n\n\nInserire il codice della licenza acquistata e cliccare \nAttiva licenza\n.\n\n\n\n\n\n\n\nIn caso di buon esito comparir\u00e0 la tipologia di licenza attivata (LITE o FULL) e scomparir\u00e0 la scritta \nDEMO VERSION\n.\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nPer attivare la licenza \u00e8 necessario che il dispositivo sia collegato a internet.\n\nUna volta attivata la licenza sul dispositivo non \u00e8 pi\u00f9 possibile disattivarla.\n\nPer disattivare la licenza \u00e8 necessario contattare l'assistenza.",
+            "title": "Primo avvio"
+        },
+        {
+            "location": "/it/3.1/first-boot/#primo-avvio",
+            "text": "",
+            "title": "PRIMO AVVIO"
+        },
+        {
+            "location": "/it/3.1/first-boot/#aprire-il-software",
+            "text": "Per avviare Touchviewer\u00ae \u00e8 possibile cliccare sull'icona presente sul desktop. Al primo avvio si presenter\u00e0 con la scritta  DEMO VERSION .   Premendo  F12  sulla tastiera si potra passare al  Media Manager .",
+            "title": "Aprire il software"
+        },
+        {
+            "location": "/it/3.1/first-boot/#inseriremento-credenziali",
+            "text": "Se in fase di installazione si \u00e8 scelto di proteggere il  Media Manager  con autenticazione, verr\u00e0 chiesto di impostare uno  USERNAME  e una  PASSWORD  le quali verranno richieste ogni volta si voglia accedere al  Media Manager .",
+            "title": "Inseriremento credenziali"
+        },
+        {
+            "location": "/it/3.1/first-boot/#attivazione-della-licenza",
+            "text": "Cliccare nel menu in alto  Licenza  e poi su  Attiva licenza     Inserire il codice della licenza acquistata e cliccare  Attiva licenza .    In caso di buon esito comparir\u00e0 la tipologia di licenza attivata (LITE o FULL) e scomparir\u00e0 la scritta  DEMO VERSION .      Note  Per attivare la licenza \u00e8 necessario che il dispositivo sia collegato a internet. \nUna volta attivata la licenza sul dispositivo non \u00e8 pi\u00f9 possibile disattivarla. \nPer disattivare la licenza \u00e8 necessario contattare l'assistenza.",
+            "title": "Attivazione della licenza"
+        },
+        {
+            "location": "/it/3.1/media-manager/workspace/",
+            "text": "WORKSPACE\n\n\n\n\nL'interfaccia del Media Manager \u00e8 estremamente semplice ed intuitiva e racchiude tutti gli strumenti per la personalizzazione dell'applicazione Touchviewer\u00ae.\n\n\n\n\n\n\nMenu secondari\n\n\n\n\n\n\nTabs per accedere alle sezioni Contenuti / Impostazioni / Sincronizzazione\n\n\n\n\n\n\nArea per la selezione dell'archivio e inserimento cartelle e contenuti\n\n\n\n\n\n\nPannello delle propriet\u00e0 cartelle e contenuti\n\n\n\n\n\n\nAnteprima in tempo reale",
+            "title": "Workspace"
+        },
+        {
+            "location": "/it/3.1/media-manager/workspace/#workspace",
+            "text": "L'interfaccia del Media Manager \u00e8 estremamente semplice ed intuitiva e racchiude tutti gli strumenti per la personalizzazione dell'applicazione Touchviewer\u00ae.    Menu secondari    Tabs per accedere alle sezioni Contenuti / Impostazioni / Sincronizzazione    Area per la selezione dell'archivio e inserimento cartelle e contenuti    Pannello delle propriet\u00e0 cartelle e contenuti    Anteprima in tempo reale",
+            "title": "WORKSPACE"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/",
+            "text": "SETTINGS\n\n\n\n\nLingua\n\n\nScelta della lingua tra \nItaliano\n e \nInglese\n del Media Manager.\n\n\nApertura\n\n\nSingola Istanza:\n Pu\u00f2 essere aperto un solo Touchviewer [default].\n\n\nIstanze Multiple:\n Possono essere aperte pi\u00f9 finestre del Touchviewer.\n\n\nStile finestra\n\n\nSenza bordi:\n Il Media Presenter si apre in modalit\u00e0 fullscreen [default].\n\n\nStandard:\n Il Media Presenter si apre in modalit\u00e0 windowed.\n\n\nDimensioni\n\n\nTutto schermo:\n Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.\n\n\nPersonalizzate:\n Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive:\n\n- \nLarghezza:\n Larghezza della finestra:\n\n- \nAltezza:\n Altezza della finestra:\n\n\nPosizione:\n Posizione in cui si deve aprire la finestra:\n\n- \nCentro:\n La finestra si aprir\u00e0 al centro dello schermo.\n\n- \nPersonalizzata:\n La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive:\n\n  - \nSinistra:\n Posizione rispetto il margine sinistro.\n\n  - \nAlto:\n Posione rispetto il margine alto.\n\n\nBackground\n\n\nColore di sfondo:\n Tinta unita che deve avere il background dello stage.\n\n\nVideo o immagine di sfondo:\n Immagine di Default da usare come background.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\nQualit\u00e0\n\n\nQualit\u00e0:\n Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.\n\n\nMouse:\n Mostra / nascondo il puntatore del mouse.\n\n\nPunti di tocco:\n Mostra / nascondo il cursore del touch.\n\n\nColore punti di tocco:\n Indica il colore con cui viene visualizzato il cursore del touch.\n\n\nDPI Documenti:\n Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.\n\n\nVideo simultanei:\n Determina il numero di video da riprodurre contemporaneamente sullo stage.\n\n\nDraw-on\n\n\nColore matita pennello:\n Imposta il colore predefinito per la funzionalit\u00e0 draw-on.\n\n\nStile:\n Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.\n\n\nDimensione tratto:\n Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.\n\n\nIncludi disegni in stampa:\n Include i disegni nella stampa dei documenti.\n\n\nImpostazioni generali\n\n\nApertura esterna dei file:\n Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.\n\n\nFull screen:\n Abilita l'opzione per l'apertura del contenuto a schermo intero.\n\n\nEditazione:\n Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.\n\n\nStampa:\n Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.\n\n\nPreferiti:\n Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.\n\n\nInvio email da preferiti:\n Abilita la possibilit\u00e0 di condividere contenuti tramite email:\n\n\nAbilita ricerca:\n Viene abilitata la funzione di ricerca all'interno dell'archivio.\n\n\nAbilita rotazione magnetica:\n Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.\n\n\nApertura multipla punti informativi:\n Quando \u00e8 abilitata si potranno aprire pi\u00f9 punti informativi alla volta.\n\n\nTema moduli:\n Personalizzazione grafica dei moduli \"Preferiti\", \"Ricerca\", etc \nVai al Tema Moduli\n\n\nImpostazioni mail\n\n\n\n\n\n\nMittente predefinito:\n Indirizzo email predefinito per l'invio delle emal.\n\n\nSmtp Hosting:\n Specificare il protocollo SMTP per la condivisione di contenuti tramite email.\n\n\nUsername:\n Specificare lo Username dell'account per la condivisione di contenuti tramite email.\n\n\nPassword:\n Specificare la Password dell'account per la condivisione di contenuti tramite email.\n\n\nPort:\n Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.\n\n\nSsl:\n Specificare se l'account smtp richiede l'SSL attivo.\n\n\n\n\nImpostazioni screensaver\n\n\n\n\nTipo:\n Abilita lo screensaver per sequenze di immagini e video.\n\n\nAttivazione:\n Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.\n\n\nTempo foto:\n Valore in secondi che determina la pausa delle foto in sequenza.\n\n\nVideo e/o immagini:\n Selezione dei file da importare nello screensaver.\n\n\nAdattamento file:\n Determina la modalit\u00e0 di adattamento dei file rispetto allo stage:\n\n  - \nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n  - \nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n  - \nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n  - \nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\nE' possibile inoltre alternare foto e video all'interno dello stesso screensaver.\n\n\nImpostazioni Snapshot\n\n\n\n\nAbilita Snapshot:\n Abilita la funzionalit\u00e0 Snapshot per creare istantanee dei contenuti\n\n\nCopia editazione e commenti:\n all'interno dello snapshot vengono copiati anche eventuali annotazioni e commenti\n\n\nElimina alla chiusura:\n lo snpashot viene eliminato alla chiusura\n\n\nImpostazioni Zooming User Interface\n\n\n\n\nAbilita Zomming User Interface:\n Abilita la funzionalit\u00e0 Zomming User Interface \n\n\nTraslazione:\n Coordinate del punto iniziale in cui \u00e8 posizionato il centro dello stage infinito\n\n\nScala:\n Scala iniziale dello stage infinito\n\nResetta:\n Reset ai valori di default della traslazione e scala\n\n\nImpostazioni Floating Men\u00f9\n\n\n\n\nAbilita Floating Men\u00f9:\n Abilita il floating Men\u00f9\n\n\nColore Background Men\u00f9:\n Imposta il colore del men\u00f9\n\n\nColore icona cartella:\n Imposta il colore di sfondo delle icone di tipi cartella\n\n\nCarattere:\n Imposta lo stile del Font nei titoli dei file e cartelle\n\n\nModificare icona start:\n Abilita la modifica dell'icona start per aprire men\u00f9\n\n\nColore background icona start:\n Imposta il colore di sfondo dell'icona start per l'apertura del men\u00e0\n\n\nNumero di Men\u00f9 iniziali:\n Imposta il numero di men\u00f9 iniziali che \u00e8 possibile aprire\n\n\nRotazione Men\u00f9:\n Abilita la possibilit\u00e0 di aprire i menu\n\n\nAbilita Circle Gesture:\n Abilita la gesture Circle per l'apertura dei floating men\u00f9\n\n\nColore Gesture:\n Imposta il colore della traccia della gesture circle\n\n\nOrienta i nuovi Men\u00f9 rispetto al bordo dello stage:\n I nuovi men\u00f9 creati con la gesture circle vengono orientati al bordo dello stage\n\n\nApertura nuovi Men\u00f9 con visualizzazione a Cartelle:\n Il nuovo men\u00f9 viene creato gi\u00e0 aperto\n\n\nNumero massimo di nuovi Men\u00f9:\n Imposta il numero massimo di nuovi men\u00f9 che si possono aprire\n\n\nElimina i nuovi Men\u00f9 quando vengono chiusi:\n I nuovi men\u00f9 creati una volta chiusi vengono eliminati dallo stage ed \u00e8 necessario crearni di nuovi\n\n\nVISUALIZZAZIONE FILE HOME\n\n\nnel Men\u00f9:\n I file presenti nella root dell'archivio vengono visualizzati all'interno del menu\n\n\nnello stage:\n I file presenti nella root dell'archivio vengono visualizzati sullo stage\n\n\nImpostazioni Men\u00f9 Toolbox\n\n\n\n\nAbilita Tollbox:\n Abilita la toolbox con gli strumenti utili alla navigazione\n\n\nSfondo bottone Toolbox:\n Imposta il colore di sfondo del del bottone per aprire la toolbox\n\n\nModificare icona Toolbox:\n Modifica l'icona del bottone per aprire la toolbox\n\n\nAprire Toolbox espansa:\n Di default la toolbox viene mostrata gi\u00e0 aperta\n\n\nAbilita Drag:\n La toolbox pu\u00f2 essere spostata sullo stage\n\n\nReset al cambio cartella:\n Quando cambio cartella durante la navigazione la toolbox viene riposizionata nel punto iniziale\n\n\nABILITA BOTTONI\n\n\nRicerca:\n Abilita il bottone per l'apertura della ricerca\n\n\nHome:\n  Abilita il bottone per tornare alla Home\n\n\nExternal Content:\n  Abilita il bottone per l'apertura dell'interfaccia per l'importazione dei contenuti esterni\n\n\nIndietro:\n  Abilita il bottone per tornare alla cartella precedente\n\n\nChiudi:\n  Abilita il bottone per la chiusura del touchviewer\n\n\nBlocca/Sblocca Zooming User Interface:\n  Abilita il bottone per bloccare/sbloccare il trascinamento e zoom della Zooming user interface\n\n\nImpostazioni Contenuti Esterni\n\n\n\n\nAbilita contenuti esterni:\n Abilita l'apertura di contenuti esterni\n\n\nApri finestra alla connessione di un disposito USB:\n Viene aperta l'interfaccia per l'importazione dei contenuti esterni, quando una chiavetta USB viene connessa al PC\n\n\nChiedi se salvare nuovo contenuto:\n Quando un contenuto esterno viene chiuso viene chesto se lo si vuole salvare\n\n\nImpostazioni Preferiti\n\n\n\n\nAbilita Preferiti Multiutente:\n Abilit\u00e0 la funzionalit\u00e0 Preferiti\n\n\nLarghezza popup:\n Imposta la larghezza della finestra in cui vengono visualizzati i contenuti preferiti\n\n\nAltezza popup:\n Imposta l'altezza della finestra in cui vengono visualizzati i contenuti preferiti\n\n\nImpostazioni Web Browser\n\n\n\n\nAbilita preferiti web browser:\n E' possibile abilitare o disabilitare la funzionalit\u00e0 preferiti nel browser\n\n\nPermetti autenticazione automatica:\n Abilitare l'inserimento automatico delle credenziali per l'accesso in aree protette\n\n\nUrl:\n Inserire Manualmente gli URL e la label da visualizzare (eventualmente le relative credenziali di accesso)\n\n\nLabel:\n Nome che viene visualizzato al posto dell'url nella lista dei preferiti\n\n\nUsername:\n Username che viene inserito in automatico quando viene richiesto l'inserimento di credenziali per l'accesso al sito\n\n\nPassword:\n Password che viene inserita in automatico quando viene richiesto l'inserimento di credenziali per l'accesso al sito\n\n\nAggiungere ai preferiti:\n Abilitare o disabilitare un Bookmarks gi\u00e0 inserito\n\n\nAggiungi:\n Aggiunge un nuovo preferito\n\n\nElimina:\n Salva un nuovo preferito\n\n\nImpostazioni Networking\n\n\n\n\nNome/Indirizzo del Server:\n Nome/indirizzo ip del Server per utilizzare la Real-Time Collaboration\n\n\nClients:\n Lista dei clients aggiunti al network\n\n\nNome/Indirizzo:\n  Nome/indirizzo ip dei clients che fanno parte del network della Real-time collaboration\n\n\nNumero massimo contenuti:\n numero massimo di contenuti che si possono aprire contemporaneamente su un singolo clients\n\n\nSTREAMING\n\n\nWeb Browser:\n Abilita lo stream di un contenuto di tipo web browser\n\n\nIngresso video:\n Abilita lo stream di un contenuto di tipo Ingresso video\n\n\nStreaming Video:\n Abilita lo stream di un contenuto di tipo Streaming Video\n\n\nApplicazione Esterna:\n Abilita lo stream di un contenuto di tipo Applicazione Esterna\n\n\nAggiungi:\n Aggiunge un nuovo client\n\n\nElimina:\n Elimina il client selezionato",
+            "title": "Impostazioni"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#settings",
+            "text": "",
+            "title": "SETTINGS"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#lingua",
+            "text": "Scelta della lingua tra  Italiano  e  Inglese  del Media Manager.",
+            "title": "Lingua"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#apertura",
+            "text": "Singola Istanza:  Pu\u00f2 essere aperto un solo Touchviewer [default].  Istanze Multiple:  Possono essere aperte pi\u00f9 finestre del Touchviewer.",
+            "title": "Apertura"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#stile-finestra",
+            "text": "Senza bordi:  Il Media Presenter si apre in modalit\u00e0 fullscreen [default].  Standard:  Il Media Presenter si apre in modalit\u00e0 windowed.",
+            "title": "Stile finestra"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#dimensioni",
+            "text": "Tutto schermo:  Il Media Presenter occuper\u00e0 tutto lo schermo disponibile.  Personalizzate:  Il Media Presenter si aprir\u00e0 alla dimensione impostata nelle propriet\u00e0 aggiuntive: \n-  Larghezza:  Larghezza della finestra: \n-  Altezza:  Altezza della finestra:  Posizione:  Posizione in cui si deve aprire la finestra: \n-  Centro:  La finestra si aprir\u00e0 al centro dello schermo. \n-  Personalizzata:  La finestra si potr\u00e0 aprire nella posizione desiderata, impostando le propriet\u00e0 aggiuntive: \n  -  Sinistra:  Posizione rispetto il margine sinistro. \n  -  Alto:  Posione rispetto il margine alto.",
+            "title": "Dimensioni"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#background",
+            "text": "Colore di sfondo:  Tinta unita che deve avere il background dello stage.  Video o immagine di sfondo:  Immagine di Default da usare come background.  Adattamento file:  Determina la modalit\u00e0 di adattamento del background rispetto allo stage: \n  -  Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default] \n  -  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire \n  -  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra \n  -  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
+            "title": "Background"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#qualita",
+            "text": "Qualit\u00e0:  Rappresenta l'indice di qualit\u00e0 dell'aspetto grafico generale del software e dei contenuti in esso caricati.  Mouse:  Mostra / nascondo il puntatore del mouse.  Punti di tocco:  Mostra / nascondo il cursore del touch.  Colore punti di tocco:  Indica il colore con cui viene visualizzato il cursore del touch.  DPI Documenti:  Determina il fattore di qualit\u00e0 per la conversione automatica dei documenti PDF, DOC, DOCX.  Video simultanei:  Determina il numero di video da riprodurre contemporaneamente sullo stage.",
+            "title": "Qualit\u00e0"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#draw-on",
+            "text": "Colore matita pennello:  Imposta il colore predefinito per la funzionalit\u00e0 draw-on.  Stile:  Imposta lo stile predefinito per la funzionalit\u00e0 draw-on.  Dimensione tratto:  Imposta la dimensione tratto predefinita per la funzionalit\u00e0 draw-on.  Includi disegni in stampa:  Include i disegni nella stampa dei documenti.",
+            "title": "Draw-on"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-generali",
+            "text": "Apertura esterna dei file:  Abilita l'opzione per l'apertura del contenuto con il programma predefinito di windows.  Full screen:  Abilita l'opzione per l'apertura del contenuto a schermo intero.  Editazione:  Abilita la funzionalit\u00e0 draw-on su tutti i contenuti.  Stampa:  Abilita la funzionalit\u00e0 di stampa su tutti i contenuti.  Preferiti:  Abilita la funzionalit\u00e0 aggiungi a preferiti su tutti i contenuti.  Invio email da preferiti:  Abilita la possibilit\u00e0 di condividere contenuti tramite email:  Abilita ricerca:  Viene abilitata la funzione di ricerca all'interno dell'archivio.  Abilita rotazione magnetica:  Quando \u00e8 abilitata i contenuti potranno essere ruotati a step di 90\u00b0.  Apertura multipla punti informativi:  Quando \u00e8 abilitata si potranno aprire pi\u00f9 punti informativi alla volta.  Tema moduli:  Personalizzazione grafica dei moduli \"Preferiti\", \"Ricerca\", etc  Vai al Tema Moduli",
+            "title": "Impostazioni generali"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-mail",
+            "text": "Mittente predefinito:  Indirizzo email predefinito per l'invio delle emal.  Smtp Hosting:  Specificare il protocollo SMTP per la condivisione di contenuti tramite email.  Username:  Specificare lo Username dell'account per la condivisione di contenuti tramite email.  Password:  Specificare la Password dell'account per la condivisione di contenuti tramite email.  Port:  Specificare la porta del protocollo SMTP per la condivisione di contenuti tramite email.  Ssl:  Specificare se l'account smtp richiede l'SSL attivo.",
+            "title": "Impostazioni mail"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-screensaver",
+            "text": "Tipo:  Abilita lo screensaver per sequenze di immagini e video.  Attivazione:  Valore in secondi che determina l'attivazione dello screensaver in caso di inattivit\u00e0 dell'utente.  Tempo foto:  Valore in secondi che determina la pausa delle foto in sequenza.  Video e/o immagini:  Selezione dei file da importare nello screensaver.  Adattamento file:  Determina la modalit\u00e0 di adattamento dei file rispetto allo stage: \n  -  Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default] \n  -  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire \n  -  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra \n  -  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage \nE' possibile inoltre alternare foto e video all'interno dello stesso screensaver.",
+            "title": "Impostazioni screensaver"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-snapshot",
+            "text": "Abilita Snapshot:  Abilita la funzionalit\u00e0 Snapshot per creare istantanee dei contenuti  Copia editazione e commenti:  all'interno dello snapshot vengono copiati anche eventuali annotazioni e commenti  Elimina alla chiusura:  lo snpashot viene eliminato alla chiusura",
+            "title": "Impostazioni Snapshot"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-zooming-user-interface",
+            "text": "Abilita Zomming User Interface:  Abilita la funzionalit\u00e0 Zomming User Interface   Traslazione:  Coordinate del punto iniziale in cui \u00e8 posizionato il centro dello stage infinito  Scala:  Scala iniziale dello stage infinito Resetta:  Reset ai valori di default della traslazione e scala",
+            "title": "Impostazioni Zooming User Interface"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-floating-menu",
+            "text": "Abilita Floating Men\u00f9:  Abilita il floating Men\u00f9  Colore Background Men\u00f9:  Imposta il colore del men\u00f9  Colore icona cartella:  Imposta il colore di sfondo delle icone di tipi cartella  Carattere:  Imposta lo stile del Font nei titoli dei file e cartelle  Modificare icona start:  Abilita la modifica dell'icona start per aprire men\u00f9  Colore background icona start:  Imposta il colore di sfondo dell'icona start per l'apertura del men\u00e0  Numero di Men\u00f9 iniziali:  Imposta il numero di men\u00f9 iniziali che \u00e8 possibile aprire  Rotazione Men\u00f9:  Abilita la possibilit\u00e0 di aprire i menu  Abilita Circle Gesture:  Abilita la gesture Circle per l'apertura dei floating men\u00f9  Colore Gesture:  Imposta il colore della traccia della gesture circle  Orienta i nuovi Men\u00f9 rispetto al bordo dello stage:  I nuovi men\u00f9 creati con la gesture circle vengono orientati al bordo dello stage  Apertura nuovi Men\u00f9 con visualizzazione a Cartelle:  Il nuovo men\u00f9 viene creato gi\u00e0 aperto  Numero massimo di nuovi Men\u00f9:  Imposta il numero massimo di nuovi men\u00f9 che si possono aprire  Elimina i nuovi Men\u00f9 quando vengono chiusi:  I nuovi men\u00f9 creati una volta chiusi vengono eliminati dallo stage ed \u00e8 necessario crearni di nuovi  VISUALIZZAZIONE FILE HOME  nel Men\u00f9:  I file presenti nella root dell'archivio vengono visualizzati all'interno del menu  nello stage:  I file presenti nella root dell'archivio vengono visualizzati sullo stage",
+            "title": "Impostazioni Floating Men\u00f9"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-menu-toolbox",
+            "text": "Abilita Tollbox:  Abilita la toolbox con gli strumenti utili alla navigazione  Sfondo bottone Toolbox:  Imposta il colore di sfondo del del bottone per aprire la toolbox  Modificare icona Toolbox:  Modifica l'icona del bottone per aprire la toolbox  Aprire Toolbox espansa:  Di default la toolbox viene mostrata gi\u00e0 aperta  Abilita Drag:  La toolbox pu\u00f2 essere spostata sullo stage  Reset al cambio cartella:  Quando cambio cartella durante la navigazione la toolbox viene riposizionata nel punto iniziale  ABILITA BOTTONI  Ricerca:  Abilita il bottone per l'apertura della ricerca  Home:   Abilita il bottone per tornare alla Home  External Content:   Abilita il bottone per l'apertura dell'interfaccia per l'importazione dei contenuti esterni  Indietro:   Abilita il bottone per tornare alla cartella precedente  Chiudi:   Abilita il bottone per la chiusura del touchviewer  Blocca/Sblocca Zooming User Interface:   Abilita il bottone per bloccare/sbloccare il trascinamento e zoom della Zooming user interface",
+            "title": "Impostazioni Men\u00f9 Toolbox"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-contenuti-esterni",
+            "text": "Abilita contenuti esterni:  Abilita l'apertura di contenuti esterni  Apri finestra alla connessione di un disposito USB:  Viene aperta l'interfaccia per l'importazione dei contenuti esterni, quando una chiavetta USB viene connessa al PC  Chiedi se salvare nuovo contenuto:  Quando un contenuto esterno viene chiuso viene chesto se lo si vuole salvare",
+            "title": "Impostazioni Contenuti Esterni"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-preferiti",
+            "text": "Abilita Preferiti Multiutente:  Abilit\u00e0 la funzionalit\u00e0 Preferiti  Larghezza popup:  Imposta la larghezza della finestra in cui vengono visualizzati i contenuti preferiti  Altezza popup:  Imposta l'altezza della finestra in cui vengono visualizzati i contenuti preferiti",
+            "title": "Impostazioni Preferiti"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-web-browser",
+            "text": "Abilita preferiti web browser:  E' possibile abilitare o disabilitare la funzionalit\u00e0 preferiti nel browser  Permetti autenticazione automatica:  Abilitare l'inserimento automatico delle credenziali per l'accesso in aree protette  Url:  Inserire Manualmente gli URL e la label da visualizzare (eventualmente le relative credenziali di accesso)  Label:  Nome che viene visualizzato al posto dell'url nella lista dei preferiti  Username:  Username che viene inserito in automatico quando viene richiesto l'inserimento di credenziali per l'accesso al sito  Password:  Password che viene inserita in automatico quando viene richiesto l'inserimento di credenziali per l'accesso al sito  Aggiungere ai preferiti:  Abilitare o disabilitare un Bookmarks gi\u00e0 inserito  Aggiungi:  Aggiunge un nuovo preferito  Elimina:  Salva un nuovo preferito",
+            "title": "Impostazioni Web Browser"
+        },
+        {
+            "location": "/it/3.1/media-manager/settings/#impostazioni-networking",
+            "text": "Nome/Indirizzo del Server:  Nome/indirizzo ip del Server per utilizzare la Real-Time Collaboration  Clients:  Lista dei clients aggiunti al network  Nome/Indirizzo:   Nome/indirizzo ip dei clients che fanno parte del network della Real-time collaboration  Numero massimo contenuti:  numero massimo di contenuti che si possono aprire contemporaneamente su un singolo clients  STREAMING  Web Browser:  Abilita lo stream di un contenuto di tipo web browser  Ingresso video:  Abilita lo stream di un contenuto di tipo Ingresso video  Streaming Video:  Abilita lo stream di un contenuto di tipo Streaming Video  Applicazione Esterna:  Abilita lo stream di un contenuto di tipo Applicazione Esterna  Aggiungi:  Aggiunge un nuovo client  Elimina:  Elimina il client selezionato",
+            "title": "Impostazioni Networking"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-directory/",
+            "text": "Elenco Contenuti\n\n\nCartella Archivio\n\n\n\n\nQui \u00e8 possibile vedere a quale archivio si sta attualmente puntando.\n\n\n Cliccando su questa icona \u00e8 possibile cambiare archivio, puntando ad un altra cartella.\n\n\n Cliccando su questa icona si effettua un refresh dei contenuti e cartelle dell'archivio\n\n\n Cliccando su questa icona verr\u00e0 aperta la cartella dell'archivio in Esplora Risorse.\n\n\nCartella\n\n\n\n\nViene mostrata la struttura delle cartelle e dei file dell'archivio a cui si sta puntando.\n\nSi pu\u00f2 inoltre modificare l'archivio, aggiungendo o rimuovendo cartelle e file in esso contenuti.\n\nFacendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir\u00e0 un sottomenu da cui \u00e8 poissibile effettuare diverse operazione descritte qua di seguito.\n\n\nSottomenu cartella\n\n\n\n\n\n\nAggiorna la cartella\n\n\nApre la cartella in Esplora Risorse\n\n\nElimina la cartella e tutti i suoi contenuti\n\n\nSi accede alla Opzioni della cartella. \nVai alla sezione \nOpzioni Cartella\n\n\nAggiunge un contenuto alla cartella. \nVai alla sezione \nAggiungi Contenuti\n\n\nCrea una sottocartella\n\n\nNasconde la cartella corrente e noin viene mostrata nel Media Presenter\n\n\nSi pu\u00f2 collegare questa cartella ad un altra. L'effetto \u00e8 che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.\n\n\n\n\nSottomenu file\n\n\n\n\n\n\nApre il file con il programma di default di windows assegnato per quella tipologia di file\n\n\nElimina il file dalla cartella\n\n\nSi accede alla Opzioni del File \nVai alla sezione \nOpzioni Contenuto\n\n\nIl file viene duplicato",
+            "title": "Elenco Contenuti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-directory/#elenco-contenuti",
+            "text": "",
+            "title": "Elenco Contenuti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-directory/#cartella-archivio",
+            "text": "Qui \u00e8 possibile vedere a quale archivio si sta attualmente puntando.   Cliccando su questa icona \u00e8 possibile cambiare archivio, puntando ad un altra cartella.   Cliccando su questa icona si effettua un refresh dei contenuti e cartelle dell'archivio   Cliccando su questa icona verr\u00e0 aperta la cartella dell'archivio in Esplora Risorse.",
+            "title": "Cartella Archivio"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-directory/#cartella",
+            "text": "Viene mostrata la struttura delle cartelle e dei file dell'archivio a cui si sta puntando. \nSi pu\u00f2 inoltre modificare l'archivio, aggiungendo o rimuovendo cartelle e file in esso contenuti. \nFacendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir\u00e0 un sottomenu da cui \u00e8 poissibile effettuare diverse operazione descritte qua di seguito.",
+            "title": "Cartella"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-directory/#sottomenu-cartella",
+            "text": "Aggiorna la cartella  Apre la cartella in Esplora Risorse  Elimina la cartella e tutti i suoi contenuti  Si accede alla Opzioni della cartella.  Vai alla sezione  Opzioni Cartella  Aggiunge un contenuto alla cartella.  Vai alla sezione  Aggiungi Contenuti  Crea una sottocartella  Nasconde la cartella corrente e noin viene mostrata nel Media Presenter  Si pu\u00f2 collegare questa cartella ad un altra. L'effetto \u00e8 che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.",
+            "title": "Sottomenu cartella"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-directory/#sottomenu-file",
+            "text": "Apre il file con il programma di default di windows assegnato per quella tipologia di file  Elimina il file dalla cartella  Si accede alla Opzioni del File  Vai alla sezione  Opzioni Contenuto  Il file viene duplicato",
+            "title": "Sottomenu file"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/",
+            "text": "Opzioni Cartella\n\n\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sulla cartella desiderata nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nNome visualizzato\n\n\nE' il nome visualizzato nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n, \nimmagine e testo\n, \nsolo testo\n.\n\n\nImmagine\n\n\nE' l'immagine visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento:  \nimmagine\n, \nimmagine e testo\n.\n\n\nDescrizione\n\n\nE' la descrizione visualizzata nel Media Presenter se nel \nTema elementi\n viene scelto come Template elemento: \nscheda\n.\n\n\nPosizione\n\n\nE' l'ordine in cui viene visualizzato l'elemento nel Media Presenter.\n\n\nRotazione\n\n\nL'elemento viene ruotato in senso orario dei gradi inseriti in questo campo.\n\n\nZIndex\n\n\nOrdinamento nell'asse Z degli elementi.\n\n\nPosizione relativa (X,Y)\n\n\nDefinisce la posizione relativamente alla posizione di partenza nel caso sia impostata la disposizione automatica degli elementi.\n\nNel caso venisse scelto come \nMetodo di visualizzazione cartelle\n -> \nLibera per posizionamenti assoluti\n, \nvedi qui\n la posizione \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).\n\n\nTema elementi\n\n\nDi default viene ereditato il tema elementi impostato per la cartella padre.\n\nEventualmente se ne potr\u00e0 creare uno nuovo specifico solo per questa cartella.\n\nPer impostare il \nTema\n \nvedi Tema elementi\n.",
+            "title": "Opzioni Cartella"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#opzioni-cartella",
+            "text": "E' possibile accedere a queste opzioni in 2 modi:   cliccando col tasto destro del mouse sulla cartella desiderata nella visualizzazione ad albero dei contenuti.  cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
+            "title": "Opzioni Cartella"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#nome-visualizzato",
+            "text": "E' il nome visualizzato nel Media Presenter se nel  Tema elementi  viene scelto come Template elemento:  scheda ,  immagine e testo ,  solo testo .",
+            "title": "Nome visualizzato"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#immagine",
+            "text": "E' l'immagine visualizzata nel Media Presenter se nel  Tema elementi  viene scelto come Template elemento:   immagine ,  immagine e testo .",
+            "title": "Immagine"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#descrizione",
+            "text": "E' la descrizione visualizzata nel Media Presenter se nel  Tema elementi  viene scelto come Template elemento:  scheda .",
+            "title": "Descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#posizione",
+            "text": "E' l'ordine in cui viene visualizzato l'elemento nel Media Presenter.",
+            "title": "Posizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#rotazione",
+            "text": "L'elemento viene ruotato in senso orario dei gradi inseriti in questo campo.",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#zindex",
+            "text": "Ordinamento nell'asse Z degli elementi.",
+            "title": "ZIndex"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#posizione-relativa-xy",
+            "text": "Definisce la posizione relativamente alla posizione di partenza nel caso sia impostata la disposizione automatica degli elementi. \nNel caso venisse scelto come  Metodo di visualizzazione cartelle  ->  Libera per posizionamenti assoluti ,  vedi qui  la posizione \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).",
+            "title": "Posizione relativa (X,Y)"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-option/#tema-elementi",
+            "text": "Di default viene ereditato il tema elementi impostato per la cartella padre. \nEventualmente se ne potr\u00e0 creare uno nuovo specifico solo per questa cartella. \nPer impostare il  Tema   vedi Tema elementi .",
+            "title": "Tema elementi"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/",
+            "text": "Opzioni Contenuto\n\n\nE' possibile accedere a queste opzioni in 2 modi:\n\n\n\n\ncliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.\n\n\ncliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.\n\n\n\n\nInformazioni\n\n\n\n\nTitolo\n\n\nE' il nome visualizzato nel Media Presenter.\n\n\nDescrizione\n\n\nE' la descrizione visualizzata nel Media Presenter quando si clicca sull'icona \n\n\nPosizione\n\n\nE' l'ordine in cui viene visualizzato l'elemento sullo stage o nella barra delle anteprime.\n\n\nDimensione minima e massima file\n\n\nImposta la dimensione minima e massima in cui il contenuto pu\u00f2 essere ridimensionato.\n\nDi default vengono ereditati i valori impostati nelle propriet\u00e0 dei contenuti.\n\nVai a propriet\u00e0 contenuti\n.\n\n\nTema del visualizzatore\n\n\nDefinisce l'aspetto grafico della contenitore che incorpora il file visualizzato.\n\nDi default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti.\n\nVai a Tema del visualizzatore\n.\n\n\nTema popup strumenti\n\n\nDefinisce l'aspetto grafico della barra strumenti che compare quando il contenuto \u00e8 pi\u00f9 grande della finestra software.\n\nDi default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti.\n\nVai a Tema popup strumenti\n.\n\n\nTrascinamento\n\n\nAbilita o disabilita la possibilit\u00e0 di \nspostare\n il contenuto sullo stage.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai a propriet\u00e0 contenuti\n.\n\n\nRotazione\n\n\nAbilita o disabilita la possibilit\u00e0 di \nruotare\n il contenuto sullo stage.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai a propriet\u00e0 contenuti\n.\n\n\nZoom\n\n\nAbilita o disabilita la possibilit\u00e0 di \nzoommare\n il contenuto sullo stage.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai a propriet\u00e0 contenuti\n.\n\n\nApertura esterna\n\n\nAbilita o disabilita la possibilit\u00e0 di aprire esternamente il contenuto con il programma predefinito per quel tipo di file.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai a propriet\u00e0 contenuti\n.\n\n\nBarra inferiore\n\n\nAbilita o disabilita la barra inferiore per interagire con quel tipo di contenuti. (Es: in un contenuto video viene nascosto il Player video).\n\n\nMetodo visualizzazione se partenza sullo stage\n\n\nPossibili\u00e0 di decidere se mostrare subito il \nContenuto\n o una una sua \nAnteprima\n. Nel caso si scelga Anteprima dovr\u00e0 essere caricata un'immagine sostitutiva nel tabs \nAnteprima\n.\n\n\nVai ad Anteprima\n.\n\n\nFullscreen\n\n\nAbilita o disabilita la possibilit\u00e0 di aprire il contenuto in modalit\u00e0 fullscreen tramite l'icona \n nella barra degli strumenti del contenuto.\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai a propriet\u00e0 contenuti\n.\n\n\nModalit\u00e0 Fullscreen\n\n\nImposta la modalit\u00e0 in cui il contenuto si deve aprire in fulscreen.\nE' possibile scegliere tra 3 differenti modalit\u00e0:\n\n\n\n\nSu Richiesta:\n Il contenuto viene aperto cliccando sull'icona \n\n\nSempre:\n Il contenuto \u00e8 visualizzabile esclusivamente in modalit\u00e0 fullscreen\n\n\nAll'avvio:\n Quando il contenuto viene trascinato sullo stage si pare in modalit\u00e0 fulscreen.\n\n\n\n\nChiusura Fullscreen\n\n\nToglie la possibili\u00e0 di uscire dalla modalit\u00e0 fullscreen.\n\n\nEditazione\n\n\nAbilita la funzionali\u00e0 Draw-on su quel contenuto cliccando sull'icona \n\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai alla funzionalit\u00e0 Draw-On\n.\n\n\nCommenti\n\n\nAbilita la funzionali\u00e0 di inserimento commenti su quel contenuto cliccando sull'icona \n\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\nVai alla funzionalit\u00e0 Commenti\n.\n\n\nStampa\n\n\nAbilita la funzionali\u00e0 stampare il contenuto cliccando sull'icona \n\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\n\nPreferiti\n\n\nAbilita la possibilit\u00e0 di inserire il contenuto tra i preferiti cliccando sull'icona \n\n\nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.\n\n\nAttiva pulsante per l'avvio del seguente processo\n\n\nPu\u00f2 essere eseguito un processo inserendo il percorso sul filesystem del processo da eseguire.\n\nE' possibile lanciare il processo cliccando sull'icona \n\n\nAudio\n\n\nAssocia un file audio al contenuto, con la possibilit\u00e0 di avviare l'audio all'apertura del contenuto tramite l'apposita spunta.\n\nE' possibile fermare e far ripartire l'audio cliccando sull'icona \n\nNon possono essere riprodotti pi\u00f9 file audio contemporaneamente.\n\n\nAnteprima\n\n\n\n\nIl contenuto pu\u00f2 essere visualizzato come anteprima se nelle impostazioni \nMetodo visualizzazione se partenza sullo stage\n \u00e8 impostato come \nAnteprima\n. In queste configurazioni viene settato l'aspetto e il posizionamento dell'anteprima.\n\n\nImmagine personalizzata\n\n\nInserimento dell'immagine da utilizzare come anteprima del contenuto.\n\n\nRotazione\n\n\nL'anteprima viene ruotata in senso orario dei gradi inseriti in questo campo.\n\n\nZIndex\n\n\nOrdinamento nell'asse Z degli elementi.\n\n\nPosizione relativa (X,Y)\n\n\nDefinisce la posizione sullo stage ed \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).",
+            "title": "Opzioni Contenuto"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#opzioni-contenuto",
+            "text": "E' possibile accedere a queste opzioni in 2 modi:   cliccando col tasto destro del mouse sul contenuto desiderato nella visualizzazione ad albero dei contenuti.  cliccando col tasto destro del mouse direttamente sull'elemento nell'anteprima del Media Presenter.",
+            "title": "Opzioni Contenuto"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#informazioni",
+            "text": "",
+            "title": "Informazioni"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#titolo",
+            "text": "E' il nome visualizzato nel Media Presenter.",
+            "title": "Titolo"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#descrizione",
+            "text": "E' la descrizione visualizzata nel Media Presenter quando si clicca sull'icona",
+            "title": "Descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#posizione",
+            "text": "E' l'ordine in cui viene visualizzato l'elemento sullo stage o nella barra delle anteprime.",
+            "title": "Posizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#dimensione-minima-e-massima-file",
+            "text": "Imposta la dimensione minima e massima in cui il contenuto pu\u00f2 essere ridimensionato. \nDi default vengono ereditati i valori impostati nelle propriet\u00e0 dei contenuti. Vai a propriet\u00e0 contenuti .",
+            "title": "Dimensione minima e massima file"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#tema-del-visualizzatore",
+            "text": "Definisce l'aspetto grafico della contenitore che incorpora il file visualizzato. \nDi default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti. Vai a Tema del visualizzatore .",
+            "title": "Tema del visualizzatore"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#tema-popup-strumenti",
+            "text": "Definisce l'aspetto grafico della barra strumenti che compare quando il contenuto \u00e8 pi\u00f9 grande della finestra software. \nDi default viene ereditato il tema impostato nelle propriet\u00e0 dei contenuti. Vai a Tema popup strumenti .",
+            "title": "Tema popup strumenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#trascinamento",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  spostare  il contenuto sullo stage. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai a propriet\u00e0 contenuti .",
+            "title": "Trascinamento"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#rotazione",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  ruotare  il contenuto sullo stage. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai a propriet\u00e0 contenuti .",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#zoom",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  zoommare  il contenuto sullo stage. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai a propriet\u00e0 contenuti .",
+            "title": "Zoom"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#apertura-esterna",
+            "text": "Abilita o disabilita la possibilit\u00e0 di aprire esternamente il contenuto con il programma predefinito per quel tipo di file. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai a propriet\u00e0 contenuti .",
+            "title": "Apertura esterna"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#barra-inferiore",
+            "text": "Abilita o disabilita la barra inferiore per interagire con quel tipo di contenuti. (Es: in un contenuto video viene nascosto il Player video).",
+            "title": "Barra inferiore"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#metodo-visualizzazione-se-partenza-sullo-stage",
+            "text": "Possibili\u00e0 di decidere se mostrare subito il  Contenuto  o una una sua  Anteprima . Nel caso si scelga Anteprima dovr\u00e0 essere caricata un'immagine sostitutiva nel tabs  Anteprima .  Vai ad Anteprima .",
+            "title": "Metodo visualizzazione se partenza sullo stage"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#fullscreen",
+            "text": "Abilita o disabilita la possibilit\u00e0 di aprire il contenuto in modalit\u00e0 fullscreen tramite l'icona   nella barra degli strumenti del contenuto. \nDi default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai a propriet\u00e0 contenuti .",
+            "title": "Fullscreen"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#modalita-fullscreen",
+            "text": "Imposta la modalit\u00e0 in cui il contenuto si deve aprire in fulscreen.\nE' possibile scegliere tra 3 differenti modalit\u00e0:   Su Richiesta:  Il contenuto viene aperto cliccando sull'icona   Sempre:  Il contenuto \u00e8 visualizzabile esclusivamente in modalit\u00e0 fullscreen  All'avvio:  Quando il contenuto viene trascinato sullo stage si pare in modalit\u00e0 fulscreen.",
+            "title": "Modalit\u00e0 Fullscreen"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#chiusura-fullscreen",
+            "text": "Toglie la possibili\u00e0 di uscire dalla modalit\u00e0 fullscreen.",
+            "title": "Chiusura Fullscreen"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#editazione",
+            "text": "Abilita la funzionali\u00e0 Draw-on su quel contenuto cliccando sull'icona   Di default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai alla funzionalit\u00e0 Draw-On .",
+            "title": "Editazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#commenti",
+            "text": "Abilita la funzionali\u00e0 di inserimento commenti su quel contenuto cliccando sull'icona   Di default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti. Vai alla funzionalit\u00e0 Commenti .",
+            "title": "Commenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#stampa",
+            "text": "Abilita la funzionali\u00e0 stampare il contenuto cliccando sull'icona   Di default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.",
+            "title": "Stampa"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#preferiti",
+            "text": "Abilita la possibilit\u00e0 di inserire il contenuto tra i preferiti cliccando sull'icona   Di default viene ereditata l'impostazione inserita nelle propriet\u00e0 dei contenuti.",
+            "title": "Preferiti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#attiva-pulsante-per-lavvio-del-seguente-processo",
+            "text": "Pu\u00f2 essere eseguito un processo inserendo il percorso sul filesystem del processo da eseguire. \nE' possibile lanciare il processo cliccando sull'icona",
+            "title": "Attiva pulsante per l'avvio del seguente processo"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#audio",
+            "text": "Associa un file audio al contenuto, con la possibilit\u00e0 di avviare l'audio all'apertura del contenuto tramite l'apposita spunta. \nE' possibile fermare e far ripartire l'audio cliccando sull'icona  \nNon possono essere riprodotti pi\u00f9 file audio contemporaneamente.",
+            "title": "Audio"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#anteprima",
+            "text": "Il contenuto pu\u00f2 essere visualizzato come anteprima se nelle impostazioni  Metodo visualizzazione se partenza sullo stage  \u00e8 impostato come  Anteprima . In queste configurazioni viene settato l'aspetto e il posizionamento dell'anteprima.",
+            "title": "Anteprima"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#immagine-personalizzata",
+            "text": "Inserimento dell'immagine da utilizzare come anteprima del contenuto.",
+            "title": "Immagine personalizzata"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#rotazione_1",
+            "text": "L'anteprima viene ruotata in senso orario dei gradi inseriti in questo campo.",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#zindex",
+            "text": "Ordinamento nell'asse Z degli elementi.",
+            "title": "ZIndex"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-option/#posizione-relativa-xy",
+            "text": "Definisce la posizione sullo stage ed \u00e8 relativa all'angolo in alto a sinistra con coordinate (0,0).",
+            "title": "Posizione relativa (X,Y)"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/",
+            "text": "Propriet\u00e0 Cartelle\n\n\n\n\nTema barra navigazione\n\n\nDefinisce l'aspetto grafico della barra di navigazione.\n\nVai a Tema Barra di Navigazione\n.\n\n\nSfondo Cartella\n\n\nConsente di inserire una immagine di sfondo che sostituisce quella predefinita.\n\n\nAdattamento file\n\n\nDetermina la modalit\u00e0 di adattamento del background rispetto allo stage:\n\n\n\n\nStira:\n Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]\n\n\nNessuno:\n il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire\n\n\nAdatta Internamente:\n Il file viene adattato mantenendo le sue proprozioni all'interno della finestra\n\n\nAdatta Esternamente:\n Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage\n\n\n\n\nMetodo visualizzazione cartelle\n\n\nDetermina la distribuzione delle cartelle sullo stage:\n\n\n\n\nGriglia:\n Le cartelle vengono distribuite all'interno di una griglia. Gli elementi sono distribuiti su pi\u00f9 righe in base allo spazio disponibile.\n\n\nLista verticale:\n Le cartelle vengono distribuite verticalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.\n\n\nLista orizzontale:\n Le cartelle vengono distribuite orizzontalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.\n\n\nCarousel:\n Le cartelle vengono mostrate in un carosello circolare con la possibilit\u00e0 di scorrimento.\n\n\nLibera per posizionamenti assoluti:\n Le cartelle possono essere posizionate a piacimento sullo stage semplicemente tenendo premuto il tasto CTRL e trascinandole sulle stage nella posizione desiderata.\n\n\n\n\nSfondo contenitore\n\n\nConsente di impostare uno sfondo per il contenitore delle cartelle.\n\n\nMargini contenitore\n\n\nImposta la distanza tra i bordi esterni dello stage e gli elementi in esso contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\nDimensioni contenitore\n\n\nImposta le dimensioni minime e massime dello stage che contiene gli elementi visivi (misura espressa in pixel nel seguente ordine Larghezza, Altezza)\n\n\nScrollbar\n\n\nAbilita la visualizzazione della barra di scorrimento presente sulla destra nel caso gli elementi abbiano un ingombro maggiore dello stage\n\n\nTema elementi\n\n\nDefinisce l'aspetto grafico dei bottoni presenti sullo stage.\n\nVai a Tema Elementi\n.\n\n\nMargini elemento\n\n\nDefinisce la distanza tra il bordo dell'elemento  ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\nDimensione minima e massima elemento\n\n\nDefinisce le dimensioni minime e massime dell'elemento sullo stage (misura espressa in pixel nel seguente ordine Larghezza, Altezza)\n\n\nCarousel\n\n\nSelezionando Metodo visualizzazione cartelle / Carousel potranno essere gestite le seguenti propriet\u00e0 aggiuntive:\n\n\n\n\nTipo di curva:\n Imposta la distribuzione degli elementi (mezza ellisse, ellisse, linea, arco, sinusoide)\n\n\nRotazione elementi:\n Determina la rotazione massima dell'elemento nel punto pi\u00f9 lontano della curva\n\n\nElementi visibili:\n Imposta gli elementi visibili nel carousel \n\n\nRipeti:\n Gli elementi vengono ripetuti all'infinito",
+            "title": "Propriet\u00e0 cartelle"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#proprieta-cartelle",
+            "text": "",
+            "title": "Propriet\u00e0 Cartelle"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#tema-barra-navigazione",
+            "text": "Definisce l'aspetto grafico della barra di navigazione. Vai a Tema Barra di Navigazione .",
+            "title": "Tema barra navigazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#sfondo-cartella",
+            "text": "Consente di inserire una immagine di sfondo che sostituisce quella predefinita.",
+            "title": "Sfondo Cartella"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#adattamento-file",
+            "text": "Determina la modalit\u00e0 di adattamento del background rispetto allo stage:   Stira:  Il file viene adattato alla risoluzione della finestra senza mantenere le proporzioni originarie [default]  Nessuno:  il file non viene adattato ed \u00e8 possibile scegliere in quale posizione deve comparire  Adatta Internamente:  Il file viene adattato mantenendo le sue proprozioni all'interno della finestra  Adatta Esternamente:  Il file viene adattato mantenendo le sue proprozioni coprendo tutta l'area visibile dello stage",
+            "title": "Adattamento file"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#metodo-visualizzazione-cartelle",
+            "text": "Determina la distribuzione delle cartelle sullo stage:   Griglia:  Le cartelle vengono distribuite all'interno di una griglia. Gli elementi sono distribuiti su pi\u00f9 righe in base allo spazio disponibile.  Lista verticale:  Le cartelle vengono distribuite verticalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.  Lista orizzontale:  Le cartelle vengono distribuite orizzontalmente, se lo spazio sullo stage non \u00e8 sufficiente \u00e8 possibile scorrerle.  Carousel:  Le cartelle vengono mostrate in un carosello circolare con la possibilit\u00e0 di scorrimento.  Libera per posizionamenti assoluti:  Le cartelle possono essere posizionate a piacimento sullo stage semplicemente tenendo premuto il tasto CTRL e trascinandole sulle stage nella posizione desiderata.",
+            "title": "Metodo visualizzazione cartelle"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#sfondo-contenitore",
+            "text": "Consente di impostare uno sfondo per il contenitore delle cartelle.",
+            "title": "Sfondo contenitore"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#margini-contenitore",
+            "text": "Imposta la distanza tra i bordi esterni dello stage e gli elementi in esso contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
+            "title": "Margini contenitore"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#dimensioni-contenitore",
+            "text": "Imposta le dimensioni minime e massime dello stage che contiene gli elementi visivi (misura espressa in pixel nel seguente ordine Larghezza, Altezza)",
+            "title": "Dimensioni contenitore"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#scrollbar",
+            "text": "Abilita la visualizzazione della barra di scorrimento presente sulla destra nel caso gli elementi abbiano un ingombro maggiore dello stage",
+            "title": "Scrollbar"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#tema-elementi",
+            "text": "Definisce l'aspetto grafico dei bottoni presenti sullo stage. Vai a Tema Elementi .",
+            "title": "Tema elementi"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#margini-elemento",
+            "text": "Definisce la distanza tra il bordo dell'elemento  ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
+            "title": "Margini elemento"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#dimensione-minima-e-massima-elemento",
+            "text": "Definisce le dimensioni minime e massime dell'elemento sullo stage (misura espressa in pixel nel seguente ordine Larghezza, Altezza)",
+            "title": "Dimensione minima e massima elemento"
+        },
+        {
+            "location": "/it/3.1/media-manager/folder-properties/#carousel",
+            "text": "Selezionando Metodo visualizzazione cartelle / Carousel potranno essere gestite le seguenti propriet\u00e0 aggiuntive:   Tipo di curva:  Imposta la distribuzione degli elementi (mezza ellisse, ellisse, linea, arco, sinusoide)  Rotazione elementi:  Determina la rotazione massima dell'elemento nel punto pi\u00f9 lontano della curva  Elementi visibili:  Imposta gli elementi visibili nel carousel   Ripeti:  Gli elementi vengono ripetuti all'infinito",
+            "title": "Carousel"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/",
+            "text": "Propriet\u00e0 Contenuti\n\n\nMetodo visualizzazione file (Lista anteprime)\n\n\n\n\nDefinisce il layout di presentazione delle miniature contenuti tramite una barra delle anteprime.\n\n\nTema barra anteprime\n\n\nDefinisce l'aspetto grafico della barra delle anteprime.\n\nVai a Tema Barra Anteprime\n.\n\n\nMargine elemento\n\n\nDefinisce la distanza tra il bordo dell'elemento  ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\nDivisore schermo\n\n\nAttiva la barra di divisione dello stage che consente di eseguire il confronto in tempo reale di immagini e documenti.\n\n\nMassimo file trascinabili\n\n\nImposta il numero di contenuti trascinabili nello stage dalla barra anteprime.\n\n\n\n\nMetodo visualizzazione file (Tutti sullo stage)\n\n\n\n\nPosizionamento sullo stage\n\n\nE' possibile scegliere tra 2 modailit\u00e0 di posizionamento dei contenuti:\n\n\n\n\nManuale:\n i contenuti possono essere posizionate a piacimento sullo stage tenendo premuto il tasto CTRL e trascinandoli sulle stage nella posizione desiderata.\n\n\nGriglia:\n i contenuti vengono distribuite all'interno di una griglia. Vedi paragafo sotto.\n\n\n\n\nModalit\u00e0 disposizione griglia\n\n\nEsistono differenti modalit\u00e0 per la visaulizzazione a griglia:\n\n\n\n\nAutomatica:\n impostazione di default, Gli elementi sono distribuiti su pi\u00f9 righe in base allo spazio disponibile. Per tornare a questa impostazione premere il tasto X.\n\n\nTemplate:\n \u00e8 possibile scegliere uno dei tanti template a disposizione nel menu a tendina.\n\n\n\n\nMargine elemento\n\n\nDefinisce la distanza tra il bordo dell'elemento ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\nMargine esterno\n\n\nDefinisce la distanza tra il bordo dell'elemento ed il bordo dello stage (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)\n\n\n\n\nPropriet\u00e0 comuni\n\n\nTema del visualizzatore\n\n\nDefinisce l'aspetto grafico della contenitore che incorpora il file visualizzato.\n\n\nVai a Tema del visualizzatore\n.\n\n\nTema popup strumenti\n\n\nDefinisce l'aspetto grafico della barra strumenti che compare quando il contenuto \u00e8 pi\u00f9 grande della finestra software.\n\n\nVai a Tema popup strumenti\n.\n\n\nDimensione minima e massima file\n\n\nImposta la dimensione minima e massima in cui i contenuti presenti nella cartella possono essere ridimensionati.\n\n\nTrascinamento\n\n\nAbilita o disabilita la possibilit\u00e0 di \nspostare\n i contenuti presenti sullo stage.\n\n\nRotazione\n\n\nAbilita o disabilita la possibilit\u00e0 di \nruotare\n i contenuti presenti sullo stage.\n\n\nZoom\n\n\nAbilita o disabilita la possibilit\u00e0 di \nzoommare\n i contenuti presenti sullo stage.\n\n\nApertura esterna\n\n\nAbilita o disabilita la possibilit\u00e0 di aprire esternamente i contenuti con il programma predefinito per quel tipo di file.\n\n\nFullscreen\n\n\nAbilita la possibilit\u00e0 di aprire i contenuti in modalit\u00e0 fullscreen tramite l'icona \n nella barra degli strumenti dei contenuti.\n\n\nEditazione\n\n\nAbilita la funzionali\u00e0 Draw-on sui contenuti cliccando sull'icona \n\n\nCommenti\n\n\nAbilita la funzionali\u00e0 di inserimento commenti sui contenuti cliccando sull'icona \n\n\nStampa\n\n\nAbilita la funzionali\u00e0 stampare i contenuti cliccando sull'icona \n\n\nPreferiti\n\n\nAbilita la possibilit\u00e0 di inserire i contenuti tra i preferiti cliccando sull'icona",
+            "title": "Propriet\u00e0 contenuti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#proprieta-contenuti",
+            "text": "",
+            "title": "Propriet\u00e0 Contenuti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#metodo-visualizzazione-file-lista-anteprime",
+            "text": "Definisce il layout di presentazione delle miniature contenuti tramite una barra delle anteprime.",
+            "title": "Metodo visualizzazione file (Lista anteprime)"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#tema-barra-anteprime",
+            "text": "Definisce l'aspetto grafico della barra delle anteprime. Vai a Tema Barra Anteprime .",
+            "title": "Tema barra anteprime"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#margine-elemento",
+            "text": "Definisce la distanza tra il bordo dell'elemento  ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
+            "title": "Margine elemento"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#divisore-schermo",
+            "text": "Attiva la barra di divisione dello stage che consente di eseguire il confronto in tempo reale di immagini e documenti.",
+            "title": "Divisore schermo"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#massimo-file-trascinabili",
+            "text": "Imposta il numero di contenuti trascinabili nello stage dalla barra anteprime.",
+            "title": "Massimo file trascinabili"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#metodo-visualizzazione-file-tutti-sullo-stage",
+            "text": "",
+            "title": "Metodo visualizzazione file (Tutti sullo stage)"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#posizionamento-sullo-stage",
+            "text": "E' possibile scegliere tra 2 modailit\u00e0 di posizionamento dei contenuti:   Manuale:  i contenuti possono essere posizionate a piacimento sullo stage tenendo premuto il tasto CTRL e trascinandoli sulle stage nella posizione desiderata.  Griglia:  i contenuti vengono distribuite all'interno di una griglia. Vedi paragafo sotto.",
+            "title": "Posizionamento sullo stage"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#modalita-disposizione-griglia",
+            "text": "Esistono differenti modalit\u00e0 per la visaulizzazione a griglia:   Automatica:  impostazione di default, Gli elementi sono distribuiti su pi\u00f9 righe in base allo spazio disponibile. Per tornare a questa impostazione premere il tasto X.  Template:  \u00e8 possibile scegliere uno dei tanti template a disposizione nel menu a tendina.",
+            "title": "Modalit\u00e0 disposizione griglia"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#margine-elemento_1",
+            "text": "Definisce la distanza tra il bordo dell'elemento ed il suo contenuto (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
+            "title": "Margine elemento"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#margine-esterno",
+            "text": "Definisce la distanza tra il bordo dell'elemento ed il bordo dello stage (misura espressa in pixel nel seguente ordine Sinistra,Alto,Destra,Basso)",
+            "title": "Margine esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#proprieta-comuni",
+            "text": "",
+            "title": "Propriet\u00e0 comuni"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#tema-del-visualizzatore",
+            "text": "Definisce l'aspetto grafico della contenitore che incorpora il file visualizzato.  Vai a Tema del visualizzatore .",
+            "title": "Tema del visualizzatore"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#tema-popup-strumenti",
+            "text": "Definisce l'aspetto grafico della barra strumenti che compare quando il contenuto \u00e8 pi\u00f9 grande della finestra software.  Vai a Tema popup strumenti .",
+            "title": "Tema popup strumenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#dimensione-minima-e-massima-file",
+            "text": "Imposta la dimensione minima e massima in cui i contenuti presenti nella cartella possono essere ridimensionati.",
+            "title": "Dimensione minima e massima file"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#trascinamento",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  spostare  i contenuti presenti sullo stage.",
+            "title": "Trascinamento"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#rotazione",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  ruotare  i contenuti presenti sullo stage.",
+            "title": "Rotazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#zoom",
+            "text": "Abilita o disabilita la possibilit\u00e0 di  zoommare  i contenuti presenti sullo stage.",
+            "title": "Zoom"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#apertura-esterna",
+            "text": "Abilita o disabilita la possibilit\u00e0 di aprire esternamente i contenuti con il programma predefinito per quel tipo di file.",
+            "title": "Apertura esterna"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#fullscreen",
+            "text": "Abilita la possibilit\u00e0 di aprire i contenuti in modalit\u00e0 fullscreen tramite l'icona   nella barra degli strumenti dei contenuti.",
+            "title": "Fullscreen"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#editazione",
+            "text": "Abilita la funzionali\u00e0 Draw-on sui contenuti cliccando sull'icona",
+            "title": "Editazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#commenti",
+            "text": "Abilita la funzionali\u00e0 di inserimento commenti sui contenuti cliccando sull'icona",
+            "title": "Commenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#stampa",
+            "text": "Abilita la funzionali\u00e0 stampare i contenuti cliccando sull'icona",
+            "title": "Stampa"
+        },
+        {
+            "location": "/it/3.1/media-manager/content-properties/#preferiti",
+            "text": "Abilita la possibilit\u00e0 di inserire i contenuti tra i preferiti cliccando sull'icona",
+            "title": "Preferiti"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/overview/",
+            "text": "Panoramica Temi\n\n\nTouchviewer comprende una suite di strumenti ideata per gestire in maniera semplice e veloce la personalizzazione grafica dell'interfaccia utente. Temi grafici ed impostazioni preconfigurate ti aiuteranno a creare la tua personale composizione interattiva.\n\n\nFunzioni base\n\n\n\n\nLa funzionalit\u00e0 theme manager vi consente di aggiungere nuovi temi grafici e salvarli per un successivo utilizzo.\nIn tutti i menu di selezione e gestione del tema \u00e8 possibile:\n\n\n\n\nEditare il tema corrente\n\n\nAggiungere un nuovo tema\n\n\nCancellare il tema corrente\n\n\n\n\nScelta del tema\n\n\n\n\nE' possibile scegliere un tema tra quelli salvati.\n\n\nNuovo tema\n\n\n\n\nCliccando sull'icona + \u00e8 possibile creare un nuovo tema partendo dalle impostazioni di default.\n\n\nDuplica tema\n\n\n\n\nCliccando su \nDuplica\n \u00e8 possibile creare un nuovo tema partendo dalle impostazioni del tema attualmente selezionato.",
+            "title": "Panoramica"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/overview/#panoramica-temi",
+            "text": "Touchviewer comprende una suite di strumenti ideata per gestire in maniera semplice e veloce la personalizzazione grafica dell'interfaccia utente. Temi grafici ed impostazioni preconfigurate ti aiuteranno a creare la tua personale composizione interattiva.",
+            "title": "Panoramica Temi"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/overview/#funzioni-base",
+            "text": "La funzionalit\u00e0 theme manager vi consente di aggiungere nuovi temi grafici e salvarli per un successivo utilizzo.\nIn tutti i menu di selezione e gestione del tema \u00e8 possibile:   Editare il tema corrente  Aggiungere un nuovo tema  Cancellare il tema corrente",
+            "title": "Funzioni base"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/overview/#scelta-del-tema",
+            "text": "E' possibile scegliere un tema tra quelli salvati.",
+            "title": "Scelta del tema"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/overview/#nuovo-tema",
+            "text": "Cliccando sull'icona + \u00e8 possibile creare un nuovo tema partendo dalle impostazioni di default.",
+            "title": "Nuovo tema"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/overview/#duplica-tema",
+            "text": "Cliccando su  Duplica  \u00e8 possibile creare un nuovo tema partendo dalle impostazioni del tema attualmente selezionato.",
+            "title": "Duplica tema"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/",
+            "text": "Tema Moduli\n\n\n\n\nLa personalizzazione del tema moduli \u00e8 accessibile dalla schermata \"Impostazioni\".\nLa personalizzazione riguarda l'aspetto grafico di:\n\n\n\n\nPop-up preferiti\n\n\nPop-up ricerca\n\n\nPop-up caricamento\n\n\nPop-up commenti\n\n\n\n\nPer modificare il Pop-up commenti bisogna selezionare il tema \nComment\n e modificarlo.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore del Pop-up.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore del Pop-up.\n\n\nColore sfondo\n\n\nImposta il colore di fondo del Pop-up.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere il Pop-up. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore bottoni/controlli\n\n\nImposta il colore che devono avere gli eventuali bottoni/controlli all'interno del Pop-up.\n\n\nCarattere bottoni\n\n\nImposta il carattere presente all'interno dei bottoni.\n\n\nCarattere del contenuto\n\n\nImposta il carattere presente all'interno di un eventuale contenuto (es. commenti).",
+            "title": "Tema moduli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#tema-moduli",
+            "text": "La personalizzazione del tema moduli \u00e8 accessibile dalla schermata \"Impostazioni\".\nLa personalizzazione riguarda l'aspetto grafico di:   Pop-up preferiti  Pop-up ricerca  Pop-up caricamento  Pop-up commenti   Per modificare il Pop-up commenti bisogna selezionare il tema  Comment  e modificarlo.",
+            "title": "Tema Moduli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#colore-bordo-esterno",
+            "text": "Imposta il colore del bordo del contenitore del Pop-up.",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#spessore-bordo",
+            "text": "Imposta lo spessore del bordo del contenitore del Pop-up.",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#colore-sfondo",
+            "text": "Imposta il colore di fondo del Pop-up.",
+            "title": "Colore sfondo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#ombra",
+            "text": "Imposta l'ombra che deve avere il Pop-up. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#colore-bottonicontrolli",
+            "text": "Imposta il colore che devono avere gli eventuali bottoni/controlli all'interno del Pop-up.",
+            "title": "Colore bottoni/controlli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#carattere-bottoni",
+            "text": "Imposta il carattere presente all'interno dei bottoni.",
+            "title": "Carattere bottoni"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-module/#carattere-del-contenuto",
+            "text": "Imposta il carattere presente all'interno di un eventuale contenuto (es. commenti).",
+            "title": "Carattere del contenuto"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/",
+            "text": "Tema Elementi\n\n\nIl tema elementi consente di personalizzare l'aspetto grafico dei bottoni (cartelle) necessari alla navigazione del software, \u00e8 possibile gestire le seguenti opzioni:\n\n\n\n\nScheda\n\n\nImmagine\n\n\nImmagine e testo\n\n\nSolo testo\n\n\n\n\nOgnuna di queste visualizzazioni pu\u00f2 essere configurata graficamente impostando i seguenti parametri:\n\n\nTemplate elemento SCHEDA\n\n\n\n\nViene visualizzata una scheda che pu\u00f2 essere composta da un \nTitolo\n, una \nDescrizione\n e un \nImmagine\n.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della scheda.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della scheda.\n\n\nColore sfondo\n\n\nImposta il colore di fondo della scheda.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la scheda. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore controlli\n\n\nImposta il colore del bordo che circonda l'immagine e il bordo di separazione tra il Titolo e l'Immagine o Descrizione.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento IMMAGINE\n\n\n\n\nViene utilizzata l'immagine caricata per ogni cartella.\n\n\nTemplate elemento IMMAGINE E TESTO\n\n\n\n\nViene utilizzata l'immagine caricata e in basso viene mostrato un overlay con il titolo e la descrizione.\n\n\nColore sfondo testo\n\n\nImposta il colore di fondo dell'overlay su cui compare il testo.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.\n\n\nTemplate elemento SOLO TESTO\n\n\n\n\nViene mostrato il Titolo e la Descrizione senza nessun contenitore.\n\n\nCarattere del Titolo\n\n\nImposta il carattere del Titolo.\n\n\nCarattere della descrizione\n\n\nImposta il carattere della Descrizione.",
+            "title": "Tema elementi"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#tema-elementi",
+            "text": "Il tema elementi consente di personalizzare l'aspetto grafico dei bottoni (cartelle) necessari alla navigazione del software, \u00e8 possibile gestire le seguenti opzioni:   Scheda  Immagine  Immagine e testo  Solo testo   Ognuna di queste visualizzazioni pu\u00f2 essere configurata graficamente impostando i seguenti parametri:",
+            "title": "Tema Elementi"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#template-elemento-scheda",
+            "text": "Viene visualizzata una scheda che pu\u00f2 essere composta da un  Titolo , una  Descrizione  e un  Immagine .",
+            "title": "Template elemento SCHEDA"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#colore-bordo-esterno",
+            "text": "Imposta il colore del bordo del contenitore della scheda.",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#spessore-bordo",
+            "text": "Imposta lo spessore del bordo del contenitore della scheda.",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#colore-sfondo",
+            "text": "Imposta il colore di fondo della scheda.",
+            "title": "Colore sfondo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#ombra",
+            "text": "Imposta l'ombra che deve avere la scheda. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#colore-controlli",
+            "text": "Imposta il colore del bordo che circonda l'immagine e il bordo di separazione tra il Titolo e l'Immagine o Descrizione.",
+            "title": "Colore controlli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#carattere-del-titolo",
+            "text": "Imposta il carattere del Titolo.",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#carattere-della-descrizione",
+            "text": "Imposta il carattere della Descrizione.",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#template-elemento-immagine",
+            "text": "Viene utilizzata l'immagine caricata per ogni cartella.",
+            "title": "Template elemento IMMAGINE"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#template-elemento-immagine-e-testo",
+            "text": "Viene utilizzata l'immagine caricata e in basso viene mostrato un overlay con il titolo e la descrizione.",
+            "title": "Template elemento IMMAGINE E TESTO"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#colore-sfondo-testo",
+            "text": "Imposta il colore di fondo dell'overlay su cui compare il testo.",
+            "title": "Colore sfondo testo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#carattere-del-titolo_1",
+            "text": "Imposta il carattere del Titolo.",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#carattere-della-descrizione_1",
+            "text": "Imposta il carattere della Descrizione.",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#template-elemento-solo-testo",
+            "text": "Viene mostrato il Titolo e la Descrizione senza nessun contenitore.",
+            "title": "Template elemento SOLO TESTO"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#carattere-del-titolo_2",
+            "text": "Imposta il carattere del Titolo.",
+            "title": "Carattere del Titolo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-element/#carattere-della-descrizione_2",
+            "text": "Imposta il carattere della Descrizione.",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/",
+            "text": "Tema Barra di Navigazione\n\n\n\n\nLa barra di navigazione \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:\n\n\nTipo di Navigazione\n\n\nImposta il tipo di barra in 2 differenti modalit\u00e0:\n\n\n\n\nBarra completa con navigazione e bottoni funzioni:\n la barra di navigazione sar\u00e0 completa di navigazione \"Breadcrumbs\" e bottoni funzione.\n\n\nSolo bottoni funzione:\n saranno mostrati solo i bottoni funzione.\n\n\n\n\nPosizione barra\n\n\n\n\nAlto:\n la barra verr\u00e0 posizionata nella parte alta dello schermo.\n\n\nBasso:\n la barra verr\u00e0 posizionata nella parte bassa dello schermo.\n\n\n\n\nChiusura \n[Solo nella modalit\u00e0 barra completa]\n\n\n\n\nSempre visibile:\n la barra di navigazione sar\u00e0 sempre visibile.\n\n\nPermetti chiusura:\n verra mostrato un tasto per mostrare o nascondere la barra di navigazione.\n\n\n\n\nColore bordo esterno \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore del bordo del contenitore della barra di navigazione.\n\n\nSpessore bordo \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta lo spessore del bordo del contenitore della barra di navigazione.\n\n\nColore sfondo \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore di fondo della barra di navigazione.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la barra di navigazione. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore cartelle/bottoni \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore delle cartelle e dei bottoni funzione.\n\n\nCarattere cartelle \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore delle cartelle.\n\n\nCarattere cartella corrente \n[Solo nella modalit\u00e0 barra completa]\n\n\nImposta il colore della cartella corrente.\n\n\nTipo bottoni \n[Solo nella modalit\u00e0 solo bottoni funzione]\n\n\n\n\nStandard:\n i bottoni visualizzati saranno quelli standard caricati durante l'installazione.\n\n\nPersonalizzati:\n Potranno essere caricati dei bottoni custom, i bottoni dovranno essere caricati gi\u00e0 del colore desiderato.\n\n\n\n\nColore bottoni \n[Solo nella modalit\u00e0 solo bottoni funzione standard]\n\n\nImposta il colore dei bottoni standard.",
+            "title": "Tema barra navigazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#tema-barra-di-navigazione",
+            "text": "La barra di navigazione \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:",
+            "title": "Tema Barra di Navigazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#tipo-di-navigazione",
+            "text": "Imposta il tipo di barra in 2 differenti modalit\u00e0:   Barra completa con navigazione e bottoni funzioni:  la barra di navigazione sar\u00e0 completa di navigazione \"Breadcrumbs\" e bottoni funzione.  Solo bottoni funzione:  saranno mostrati solo i bottoni funzione.",
+            "title": "Tipo di Navigazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#posizione-barra",
+            "text": "Alto:  la barra verr\u00e0 posizionata nella parte alta dello schermo.  Basso:  la barra verr\u00e0 posizionata nella parte bassa dello schermo.",
+            "title": "Posizione barra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#chiusura-solo-nella-modalita-barra-completa",
+            "text": "Sempre visibile:  la barra di navigazione sar\u00e0 sempre visibile.  Permetti chiusura:  verra mostrato un tasto per mostrare o nascondere la barra di navigazione.",
+            "title": "Chiusura [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#colore-bordo-esterno-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore del bordo del contenitore della barra di navigazione.",
+            "title": "Colore bordo esterno [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#spessore-bordo-solo-nella-modalita-barra-completa",
+            "text": "Imposta lo spessore del bordo del contenitore della barra di navigazione.",
+            "title": "Spessore bordo [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#colore-sfondo-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore di fondo della barra di navigazione.",
+            "title": "Colore sfondo [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#ombra",
+            "text": "Imposta l'ombra che deve avere la barra di navigazione. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#colore-cartellebottoni-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore delle cartelle e dei bottoni funzione.",
+            "title": "Colore cartelle/bottoni [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#carattere-cartelle-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore delle cartelle.",
+            "title": "Carattere cartelle [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#carattere-cartella-corrente-solo-nella-modalita-barra-completa",
+            "text": "Imposta il colore della cartella corrente.",
+            "title": "Carattere cartella corrente [Solo nella modalit\u00e0 barra completa]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#tipo-bottoni-solo-nella-modalita-solo-bottoni-funzione",
+            "text": "Standard:  i bottoni visualizzati saranno quelli standard caricati durante l'installazione.  Personalizzati:  Potranno essere caricati dei bottoni custom, i bottoni dovranno essere caricati gi\u00e0 del colore desiderato.",
+            "title": "Tipo bottoni [Solo nella modalit\u00e0 solo bottoni funzione]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-navigationbar/#colore-bottoni-solo-nella-modalita-solo-bottoni-funzione-standard",
+            "text": "Imposta il colore dei bottoni standard.",
+            "title": "Colore bottoni [Solo nella modalit\u00e0 solo bottoni funzione standard]"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/",
+            "text": "Tema Barra Anteprime\n\n\n\n\nLa barra di anteprime \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:\n\n\nPosizione barra\n\n\nImposta la posizione della barra sullo stage, \u00e8 possibile scegliere tra:\n\n\n\n\nDestra\n\n\nBasso\n\n\nSinistra\n\n\n\n\nMargine esterno\n\n\nImposta il margine esterno che deve avere la barra delle anteprime sullo stage.\n\n\nDimensione anteprima\n\n\nImposta la grandezza delle miniature.\n\n\nMargine anteprime\n\n\nImposta il margine di ogni miniatura rispetto al contenitore e alle altre miniature.\n\n\nScrollbar\n\n\n\n\nVisualizza:\n visualizza la barra per scorrere le miniature nel caso in cui escano dall'area visiva.\n\n\nNascondi:\n nessuna barra viene mostrata\n\n\n\n\nApri il primo elemento\n\n\nIl primo elemento della barra anteprime viene aperto in automatico.\n\n\nIn primo piano\n\n\nLa barra delle anteprime rimane sopra ai contenuti sullo stage.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore della barra delle anteprime.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore della barra delle anteprime.\n\n\nArrotondamento angoli\n\n\nImposta l'arrotondamento degli angoli del contenitore della barra delle anteprime. Viene espresso in pixel in questo ordine: Alto-Sinistra, Alto-Destra, Basso-destra, Basso-Sinistra.\n\n\nColore sfondo barra\n\n\nImposta il colore di fondo della barra delle anteprime.\n\n\nOmbra\n\n\nImposta l'ombra che deve avere la barra delle anteprime. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore titolo/controlli\n\n\nImposta il colore del titolo, icona e bordo delle miniature.\n\n\nEtichetta\n\n\nMostra un'etichetta sopra ad ogni miniatura, \u00e8 possibile scegliere tra:\n\n\n\n\nNessuna:\n nessuna etichetta viene mostrata.\n\n\nTitolo:\n viene mostrato il titolo del contenuto.\n\n\nNome file:\n viene mostrato il nome del file.\n\n\n\n\nCarattere\n\n\nImposta il carattere dell'etichetta ne caso venga scelto Titolo o Nome File.",
+            "title": "Tema barra anteprime"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#tema-barra-anteprime",
+            "text": "La barra di anteprime \u00e8 personalizzabile anche per singola sezione impostando le seguenti opzioni:",
+            "title": "Tema Barra Anteprime"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#posizione-barra",
+            "text": "Imposta la posizione della barra sullo stage, \u00e8 possibile scegliere tra:   Destra  Basso  Sinistra",
+            "title": "Posizione barra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#margine-esterno",
+            "text": "Imposta il margine esterno che deve avere la barra delle anteprime sullo stage.",
+            "title": "Margine esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#dimensione-anteprima",
+            "text": "Imposta la grandezza delle miniature.",
+            "title": "Dimensione anteprima"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#margine-anteprime",
+            "text": "Imposta il margine di ogni miniatura rispetto al contenitore e alle altre miniature.",
+            "title": "Margine anteprime"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#scrollbar",
+            "text": "Visualizza:  visualizza la barra per scorrere le miniature nel caso in cui escano dall'area visiva.  Nascondi:  nessuna barra viene mostrata",
+            "title": "Scrollbar"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#apri-il-primo-elemento",
+            "text": "Il primo elemento della barra anteprime viene aperto in automatico.",
+            "title": "Apri il primo elemento"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#in-primo-piano",
+            "text": "La barra delle anteprime rimane sopra ai contenuti sullo stage.",
+            "title": "In primo piano"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#colore-bordo-esterno",
+            "text": "Imposta il colore del bordo del contenitore della barra delle anteprime.",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#spessore-bordo",
+            "text": "Imposta lo spessore del bordo del contenitore della barra delle anteprime.",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#arrotondamento-angoli",
+            "text": "Imposta l'arrotondamento degli angoli del contenitore della barra delle anteprime. Viene espresso in pixel in questo ordine: Alto-Sinistra, Alto-Destra, Basso-destra, Basso-Sinistra.",
+            "title": "Arrotondamento angoli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#colore-sfondo-barra",
+            "text": "Imposta il colore di fondo della barra delle anteprime.",
+            "title": "Colore sfondo barra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#ombra",
+            "text": "Imposta l'ombra che deve avere la barra delle anteprime. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#colore-titolocontrolli",
+            "text": "Imposta il colore del titolo, icona e bordo delle miniature.",
+            "title": "Colore titolo/controlli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#etichetta",
+            "text": "Mostra un'etichetta sopra ad ogni miniatura, \u00e8 possibile scegliere tra:   Nessuna:  nessuna etichetta viene mostrata.  Titolo:  viene mostrato il titolo del contenuto.  Nome file:  viene mostrato il nome del file.",
+            "title": "Etichetta"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-previewbar/#carattere",
+            "text": "Imposta il carattere dell'etichetta ne caso venga scelto Titolo o Nome File.",
+            "title": "Carattere"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/",
+            "text": "Tema del Visualizzatore\n\n\n\n\nPer visualizzatore si intende l'elemento che ospita al suo interno il contenuto caricato.\nCon il theme manager \u00e8 possibile personalizzare graficamente ogni singolo visualizzatore anche all'interno della stessa sezione, impostando le seguenti opzioni:\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del contenitore.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del contenitore.\n\n\nColore sfondo elemento\n\n\nImposta il colore di fondo del contenitore\n\n\nOmbra\n\n\nImposta l'ombra che deve avere il contenitore. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nBarre degli strumenti\n\n\nConsente di gestire la visibilit\u00e0 della barra:\n\n\n\n\nSempre visibile:\n la barra degli strumenti rimane sempre visibile.\n\n\nNascondio automaticamente:\n la barra degli strumenti si nasconde automaticamente dopo qualche secondo di inattivit\u00e0 del contenuto.\n\n\n\n\nColore bottoni/controlli\n\n\nImposta il colore dei bottoni della barra degli strumenti e degli eventuali controlli del contenuto.\n\n\nColore fondo titolo/bottoni/controlli\n\n\nImposta il colore di fondo della barra degli strumenti.\n\n\nCarattere del titolo\n\n\nImposta lo stile del carattere del titolo del contenuto.\n\n\nCarattere della descrizione\n\n\nImposta lo stile del carattere della descrizione del contenuto.\n\n\nColore sfondo descrizione\n\n\nImposta il colore dello sfondo in cui compare la descrizione.",
+            "title": "Tema del visualizzatore"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#tema-del-visualizzatore",
+            "text": "Per visualizzatore si intende l'elemento che ospita al suo interno il contenuto caricato.\nCon il theme manager \u00e8 possibile personalizzare graficamente ogni singolo visualizzatore anche all'interno della stessa sezione, impostando le seguenti opzioni:",
+            "title": "Tema del Visualizzatore"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#colore-bordo-esterno",
+            "text": "Imposta il colore del bordo del contenitore.",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#spessore-bordo",
+            "text": "Imposta lo spessore del bordo del contenitore.",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#colore-sfondo-elemento",
+            "text": "Imposta il colore di fondo del contenitore",
+            "title": "Colore sfondo elemento"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#ombra",
+            "text": "Imposta l'ombra che deve avere il contenitore. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#barre-degli-strumenti",
+            "text": "Consente di gestire la visibilit\u00e0 della barra:   Sempre visibile:  la barra degli strumenti rimane sempre visibile.  Nascondio automaticamente:  la barra degli strumenti si nasconde automaticamente dopo qualche secondo di inattivit\u00e0 del contenuto.",
+            "title": "Barre degli strumenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#colore-bottonicontrolli",
+            "text": "Imposta il colore dei bottoni della barra degli strumenti e degli eventuali controlli del contenuto.",
+            "title": "Colore bottoni/controlli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#colore-fondo-titolobottonicontrolli",
+            "text": "Imposta il colore di fondo della barra degli strumenti.",
+            "title": "Colore fondo titolo/bottoni/controlli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#carattere-del-titolo",
+            "text": "Imposta lo stile del carattere del titolo del contenuto.",
+            "title": "Carattere del titolo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#carattere-della-descrizione",
+            "text": "Imposta lo stile del carattere della descrizione del contenuto.",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-viewer/#colore-sfondo-descrizione",
+            "text": "Imposta il colore dello sfondo in cui compare la descrizione.",
+            "title": "Colore sfondo descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/",
+            "text": "Tema Popup Strumenti\n\n\n\n\nIl Pop-up strumenti contiene i pulsanti per l'attivazione degli strumenti sul contenuto visualizzato.\nE' visibile quando le dimensioni del contenuto superano quelle della risoluzione monitor.\nImposta anche il colore del popup della funzionalit\u00e0 \nDraw-On\n.\n\n\nColore bordo esterno\n\n\nImposta il colore del bordo del popup.\n\n\nSpessore bordo\n\n\nImposta lo spessore del bordo del popup.\n\n\nColore sfondo del popup\n\n\nImposta il colore di fondo del popup\n\n\nOmbra\n\n\nImposta l'ombra che deve avere il popup. E' possibile scegliere tra:\n\n\n\n\nNessuna\n\n\nBassa\n\n\nMedia\n\n\nAlta\n\n\n\n\nColore bottoni/controlli\n\n\nImposta il colore dei bottoni della barra degli strumenti e degli eventuali controlli del contenuto\n\n\nCarattere bottoni\n\n\nImposta lo stile del carattere all'interno dei bottoni.\n\n\nCarattere del titolo\n\n\nImposta lo stile del carattere del titolo del contenuto.\n\n\nCarattere della descrizione\n\n\nImposta lo stile del carattere della descrizione del contenuto.",
+            "title": "Tema popup strumenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#tema-popup-strumenti",
+            "text": "Il Pop-up strumenti contiene i pulsanti per l'attivazione degli strumenti sul contenuto visualizzato.\nE' visibile quando le dimensioni del contenuto superano quelle della risoluzione monitor.\nImposta anche il colore del popup della funzionalit\u00e0  Draw-On .",
+            "title": "Tema Popup Strumenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#colore-bordo-esterno",
+            "text": "Imposta il colore del bordo del popup.",
+            "title": "Colore bordo esterno"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#spessore-bordo",
+            "text": "Imposta lo spessore del bordo del popup.",
+            "title": "Spessore bordo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#colore-sfondo-del-popup",
+            "text": "Imposta il colore di fondo del popup",
+            "title": "Colore sfondo del popup"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#ombra",
+            "text": "Imposta l'ombra che deve avere il popup. E' possibile scegliere tra:   Nessuna  Bassa  Media  Alta",
+            "title": "Ombra"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#colore-bottonicontrolli",
+            "text": "Imposta il colore dei bottoni della barra degli strumenti e degli eventuali controlli del contenuto",
+            "title": "Colore bottoni/controlli"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#carattere-bottoni",
+            "text": "Imposta lo stile del carattere all'interno dei bottoni.",
+            "title": "Carattere bottoni"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#carattere-del-titolo",
+            "text": "Imposta lo stile del carattere del titolo del contenuto.",
+            "title": "Carattere del titolo"
+        },
+        {
+            "location": "/it/3.1/media-manager/themes/theme-toolspopup/#carattere-della-descrizione",
+            "text": "Imposta lo stile del carattere della descrizione del contenuto.",
+            "title": "Carattere della descrizione"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/overview/",
+            "text": "Panoramica\n\n\nPer aggiungere un contenuto cliccare con il tasto destro del mouse sulla cartella desiderata e selezionare l'opzione \"Aggiungi contenuto a cartella\".\n\n\n\n\nVerr\u00e0 mostrata una finestra di dialogo da cui selezionare il tipo di contenuto ed i file da una cartella specifica del computer.\n\n\n\n\nTipi di contenuti\n\n\nI contenuti vengono convertiti automaticamente nel formato compatibile con il software. Durante la conversione verr\u00e0 mostrata un indicatore che mostra l'avanzamento di tale processo.\n\n\nOpzioni per il tipo contenuto:\n\n\n\n\nFile singoli\n: Permette la selezione di file (immagini, video e documenti) che verranno mostrati singolarmente.\n\n\nCollega file da altre cartelle\n: Permette di collegare un file che si trova all'interno di un'altra cartella dello stesso archivio.\n\n\nLista di immagini\n: Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage\n\n\nLista di video\n: Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage\n\n\nWeb browser\n: Permette di inserire un browser web per la navigazione su internet\n\n\nMappa interattiva\n: Permette di inserire una mappa per la visualizzazione di tracciati e punti informativi\n\n\nIngresso video\n: Permette di visualizzare un video ripreso da una webcam o telecamera collegata al PC.\n\n\nStreaming video\n: Permette di visualizzare uno streaming video inserendo il MRL (percorso media resource locator).\n\n\n\n\nOperazioni sui contenuti\n\n\nCliccando con il tasto destro del mouse sul contenuto inserito \u00e8 possibile effettuare alcune operazioni:\n\n\n\n\n\n\nApri\n: Permette di aprire il contenuto con il programma predefinito di windows per quel tipo di file.\n\n\nElimina\n: Permette di eliminare il contenuto dall'archivio (attenzione canceller\u00e0 il file definitivamente).\n\n\nOpzioni\n: Permette di accedere alle opzioni per quel tipo di file. \nVedi Opzioni Contenuto\n\n\nDuplica\n: Permette di duplicare quel file all'interno dell'archivio.",
+            "title": "Panoramica"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/overview/#panoramica",
+            "text": "Per aggiungere un contenuto cliccare con il tasto destro del mouse sulla cartella desiderata e selezionare l'opzione \"Aggiungi contenuto a cartella\".   Verr\u00e0 mostrata una finestra di dialogo da cui selezionare il tipo di contenuto ed i file da una cartella specifica del computer.",
+            "title": "Panoramica"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/overview/#tipi-di-contenuti",
+            "text": "I contenuti vengono convertiti automaticamente nel formato compatibile con il software. Durante la conversione verr\u00e0 mostrata un indicatore che mostra l'avanzamento di tale processo.  Opzioni per il tipo contenuto:   File singoli : Permette la selezione di file (immagini, video e documenti) che verranno mostrati singolarmente.  Collega file da altre cartelle : Permette di collegare un file che si trova all'interno di un'altra cartella dello stesso archivio.  Lista di immagini : Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage  Lista di video : Permette la selezione di file (solo immagini) che verranno mostrati in una visualizzazione dedicata all'interno dello stage  Web browser : Permette di inserire un browser web per la navigazione su internet  Mappa interattiva : Permette di inserire una mappa per la visualizzazione di tracciati e punti informativi  Ingresso video : Permette di visualizzare un video ripreso da una webcam o telecamera collegata al PC.  Streaming video : Permette di visualizzare uno streaming video inserendo il MRL (percorso media resource locator).",
+            "title": "Tipi di contenuti"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/overview/#operazioni-sui-contenuti",
+            "text": "Cliccando con il tasto destro del mouse sul contenuto inserito \u00e8 possibile effettuare alcune operazioni:    Apri : Permette di aprire il contenuto con il programma predefinito di windows per quel tipo di file.  Elimina : Permette di eliminare il contenuto dall'archivio (attenzione canceller\u00e0 il file definitivamente).  Opzioni : Permette di accedere alle opzioni per quel tipo di file.  Vedi Opzioni Contenuto  Duplica : Permette di duplicare quel file all'interno dell'archivio.",
+            "title": "Operazioni sui contenuti"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/image/",
+            "text": "Immagini\n\n\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati: \njpg, png, gif, bmp, tiff\n.\nLe immagini devono essere in formato RGB.\n\n\nInoltre nei contenuti di tipo immagine \u00e8 possibile inserire punti informativi all'interno di essa. \nVedi Punti Informativi",
+            "title": "Immagini"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/image/#immagini",
+            "text": "\u00c8 possibile inserire immagini anche di grandissimo formato nei formati:  jpg, png, gif, bmp, tiff .\nLe immagini devono essere in formato RGB.  Inoltre nei contenuti di tipo immagine \u00e8 possibile inserire punti informativi all'interno di essa.  Vedi Punti Informativi",
+            "title": "Immagini"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video/",
+            "text": "Video\n\n\n\u00c8 possibile inserire video nei seguenti formati: \nwmv, flv, 3gp, mov, mp4, mpg, avi\n.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare i seguenti comportamenti:\n\n\n\n\nAvviare il video automaticamente all'apertura.\n\n\nRipetere il video al termine della riproduzione (loop).\n\n\nChiudere il video al termine della riproduzione.\n\n\nImpostare il colore di sfondo del video in fase di caricamento.",
+            "title": "Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video/#video",
+            "text": "\u00c8 possibile inserire video nei seguenti formati:  wmv, flv, 3gp, mov, mp4, mpg, avi .",
+            "title": "Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video/#settings",
+            "text": "\u00c8 possibile impostare i seguenti comportamenti:   Avviare il video automaticamente all'apertura.  Ripetere il video al termine della riproduzione (loop).  Chiudere il video al termine della riproduzione.  Impostare il colore di sfondo del video in fase di caricamento.",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/pdf/",
+            "text": "PDF e Documenti\n\n\n\u00c8 possibile inserire documenti nei formati: \nPDF, doc, docx, ppt, pptx, xls, xlsx\n.\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.\n\n\nLe immagini contenute nei documenti devono essere in formato RGB. Salvare e convertire i documenti in RGB.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:\n\n\n\n\nLibro con navigazione a pulsanti.\n\n\nLibro con navigazione a miniature.\n\n\nLibro senza navigazione.\n\n\nLista di immagini con navigazione a miniature.\n\n\n\n\n\nE' possibile inserire punti informativi anche nei contenuti di tipo \nLista di Immagini\n. \nVedi Punti Informativi",
+            "title": "PDF/Docs"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/pdf/#pdf-e-documenti",
+            "text": "\u00c8 possibile inserire documenti nei formati:  PDF, doc, docx, ppt, pptx, xls, xlsx .\nBisogna tenere presente che i doc, ppt e xls per poter essere convertiti dal Touchviewer \u00e8 necessario che sul computer sia installato il  pacchetto Microsft Office.  Le immagini contenute nei documenti devono essere in formato RGB. Salvare e convertire i documenti in RGB.",
+            "title": "PDF e Documenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/pdf/#settings",
+            "text": "\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:   Libro con navigazione a pulsanti.  Libro con navigazione a miniature.  Libro senza navigazione.  Lista di immagini con navigazione a miniature.   \nE' possibile inserire punti informativi anche nei contenuti di tipo  Lista di Immagini .  Vedi Punti Informativi",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/image-list/",
+            "text": "Lista di Immagini\n\n\n\n\nQuando si inserisce un contenuto di tipo Lista di Immagini, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di immagini deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati: \njpg, png, gif, bmp, tiff\n.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:\n\n\n\n\nLibro con navigazione a pulsanti.\n\n\nLibro con navigazione a miniature.\n\n\nLibro senza navigazione.\n\n\nLista di immagini con navigazione a miniature.\n\n\n\n\n\nE' possibile inserire punti informativi anche nei contenuti di tipo \nLista di Immagini\n. \nVedi Punti Informativi",
+            "title": "Lista Immagini"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/image-list/#lista-di-immagini",
+            "text": "Quando si inserisce un contenuto di tipo Lista di Immagini, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di immagini deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire immagini anche di grandissimo formato nei formati:  jpg, png, gif, bmp, tiff .",
+            "title": "Lista di Immagini"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/image-list/#settings",
+            "text": "\u00c8 possibile impostare la tipologia di visualizzazione della lista immaggini:   Libro con navigazione a pulsanti.  Libro con navigazione a miniature.  Libro senza navigazione.  Lista di immagini con navigazione a miniature.   \nE' possibile inserire punti informativi anche nei contenuti di tipo  Lista di Immagini .  Vedi Punti Informativi",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-list/",
+            "text": "Lista di Video\n\n\n\n\nQuando si inserisce un contenuto di tipo Lista di Video, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di video deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire video nei seguenti formati: \nwmv, flv, 3gp, mov, mp4, mpg, avi\n.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nLa dimensione in cui viene riprodotto il video selezionato.\n\n\nSe avviare il primo video automaticamente all'apertura della Lista Video.\n\n\nSe al termine del video in riproduzione, passare in automatico alla riproduzione del video sucessivo.",
+            "title": "Lista Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-list/#lista-di-video",
+            "text": "Quando si inserisce un contenuto di tipo Lista di Video, bisogna inserire oltre alla lista dei file anche il nome che questa raccolta di video deve avere, per identificarla all'interno dell'archivio.\n\u00c8 possibile inserire video nei seguenti formati:  wmv, flv, 3gp, mov, mp4, mpg, avi .",
+            "title": "Lista di Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-list/#settings",
+            "text": "\u00c8 possibile impostare:   La dimensione in cui viene riprodotto il video selezionato.  Se avviare il primo video automaticamente all'apertura della Lista Video.  Se al termine del video in riproduzione, passare in automatico alla riproduzione del video sucessivo.",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/web-browser/",
+            "text": "Web Browser\n\n\n\n\nQuando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nURL della pagina di partenza.\n\n\nDimensione della finestra del browser.\n\n\nFiltro dei nomi a dominio che \u00e8 consentito navigare.\n\n\nAbilita navigazione, permette di uscire dalla pagina corrente tramite link.\n\n\nE' possibile modificare l'URL nella barra degli indirizzi.\n\n\nVisualizza la barra di navigazione.\n\n\n\n\nBookmarks\n\n\nCon la nuova funzione Bookmarks \u00e8 possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.\n\n\nCliccando sull'icona \n si accede alla lista dei bookmarks attivi.\n\n\nCliccando sull'icona \n \u00e8 possibile aggiungere o rimuovere un URL dai bookmarks.\n\n\nSi pu\u00f2 abilitare e gestire la funzionalit\u00e0 Bookmarks dalle impostazioni del Media Manager \n\n\nVedi Impostazioni Web Browser",
+            "title": "Web Browser"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/web-browser/#web-browser",
+            "text": "Quando si inserisce un contenuto di tipo Web Browser va inserito il nome che serve per identificarlo all'interno dell'archivio.",
+            "title": "Web Browser"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/web-browser/#settings",
+            "text": "\u00c8 possibile impostare:   URL della pagina di partenza.  Dimensione della finestra del browser.  Filtro dei nomi a dominio che \u00e8 consentito navigare.  Abilita navigazione, permette di uscire dalla pagina corrente tramite link.  E' possibile modificare l'URL nella barra degli indirizzi.  Visualizza la barra di navigazione.",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/web-browser/#bookmarks",
+            "text": "Con la nuova funzione Bookmarks \u00e8 possibile impostare siti preferiti da navigare e salvare credenziali e password per un accesso diretto e sicuro.  Cliccando sull'icona   si accede alla lista dei bookmarks attivi.  Cliccando sull'icona   \u00e8 possibile aggiungere o rimuovere un URL dai bookmarks.  Si pu\u00f2 abilitare e gestire la funzionalit\u00e0 Bookmarks dalle impostazioni del Media Manager   Vedi Impostazioni Web Browser",
+            "title": "Bookmarks"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-input/",
+            "text": "Video Input\n\n\n\n\nQuando si inserisce un contenuto di tipo Video Input va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nLa periferica video che \u00e8 collegata al PC.\n\n\nLa dimensione della finestra in cui deve essere visualizzato il video.",
+            "title": "Ingresso Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-input/#video-input",
+            "text": "Quando si inserisce un contenuto di tipo Video Input va inserito il nome che serve per identificarlo all'interno dell'archivio.",
+            "title": "Video Input"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-input/#settings",
+            "text": "\u00c8 possibile impostare:   La periferica video che \u00e8 collegata al PC.  La dimensione della finestra in cui deve essere visualizzato il video.",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-streaming/",
+            "text": "Streaming Video\n\n\n\n\nQuando si inserisce un contenuto di tipo Streaming Video va inserito il nome che serve per identificarlo all'interno dell'archivio.\n\n\nSettings\n\n\n\n\n\u00c8 possibile impostare:\n\n\n\n\nL'MRL (percorso media resource locator) il percorso della sorgente dello stream.\n\n\nOptions, parametri facoltativi da passare nel MRL.\n\n\nLa dimensione della finestra in cui deve essere visualizzato il video.",
+            "title": "Streaming Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-streaming/#streaming-video",
+            "text": "Quando si inserisce un contenuto di tipo Streaming Video va inserito il nome che serve per identificarlo all'interno dell'archivio.",
+            "title": "Streaming Video"
+        },
+        {
+            "location": "/it/3.1/media-manager/contents/video-streaming/#settings",
+            "text": "\u00c8 possibile impostare:   L'MRL (percorso media resource locator) il percorso della sorgente dello stream.  Options, parametri facoltativi da passare nel MRL.  La dimensione della finestra in cui deve essere visualizzato il video.",
+            "title": "Settings"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/draw-on/",
+            "text": "Draw-on\n\n\n\n\nQuesto tool ti permette di eseguire annotazioni visuali sugli elementi presenti nello stage. Diverse tipologie di penne e colori consentono di evidenziare punti chiave di un testo, prendere appunti sullo schermo, su un video o su un'immagine. \u00c8 inoltre possibile salvare e rimuovere le annotazioni con un semplice \u201ctouch\u201d.\n\n\nLa funzionalit\u00e0 Draw-on viene abilitata cliccando sul pulante \n nella barra degli strumenti del contenuto.\n\n\nPer poter modificare il tipo di pennello o colore \u00e8 nesessario cliccare sul pulsante \n nella barra degli strumenti del contenuto.\n\n\nDa questo popup \u00e8 possibile modificare:\n\n\n\n\nColore:\n imposta il colore che deve avere il tratto.\n\n\nMatita:\n il tratto avr\u00e0 un colore pieno e coprente.\n\n\nEvidenziatore:\n il tratto avr\u00e0 un colore semitrasparente.\n\n\nGomma:\n permette di cancellare parti di quello che precedentemente \u00e8 stato disegnato.\n\n\nDimensione del tratto:\n imposta la larghezza del tratto per i tre tipi di pennilli.\n\n\n\n\nIl tratto viene salvato in automatico anche per le successive sessioni.\n\n\nCliccando sull'icona \n nella barra degli strumenti del contenuto, viene cancellato tutto ci\u00f2 che \u00e8 stato disegnato.\n\n\nEsempio",
+            "title": "Draw-On"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/draw-on/#draw-on",
+            "text": "Questo tool ti permette di eseguire annotazioni visuali sugli elementi presenti nello stage. Diverse tipologie di penne e colori consentono di evidenziare punti chiave di un testo, prendere appunti sullo schermo, su un video o su un'immagine. \u00c8 inoltre possibile salvare e rimuovere le annotazioni con un semplice \u201ctouch\u201d.  La funzionalit\u00e0 Draw-on viene abilitata cliccando sul pulante   nella barra degli strumenti del contenuto.  Per poter modificare il tipo di pennello o colore \u00e8 nesessario cliccare sul pulsante   nella barra degli strumenti del contenuto.  Da questo popup \u00e8 possibile modificare:   Colore:  imposta il colore che deve avere il tratto.  Matita:  il tratto avr\u00e0 un colore pieno e coprente.  Evidenziatore:  il tratto avr\u00e0 un colore semitrasparente.  Gomma:  permette di cancellare parti di quello che precedentemente \u00e8 stato disegnato.  Dimensione del tratto:  imposta la larghezza del tratto per i tre tipi di pennilli.   Il tratto viene salvato in automatico anche per le successive sessioni.  Cliccando sull'icona   nella barra degli strumenti del contenuto, viene cancellato tutto ci\u00f2 che \u00e8 stato disegnato.",
+            "title": "Draw-on"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/draw-on/#esempio",
+            "text": "",
+            "title": "Esempio"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/comments/",
+            "text": "Commenti\n\n\nQuesto tool ti permette di eseguire annotazioni testuali sugli elementi presenti nello stage cliccando sul pulante \n nella barra degli strumenti del contenuto.\n\n\nPosizionamento\n\n\n\n\nEditazione del commento\n\n\n\n\nVisualizzazione e opzioni",
+            "title": "Commenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/comments/#commenti",
+            "text": "Questo tool ti permette di eseguire annotazioni testuali sugli elementi presenti nello stage cliccando sul pulante   nella barra degli strumenti del contenuto.",
+            "title": "Commenti"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/comments/#posizionamento",
+            "text": "",
+            "title": "Posizionamento"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/comments/#editazione-del-commento",
+            "text": "",
+            "title": "Editazione del commento"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/comments/#visualizzazione-e-opzioni",
+            "text": "",
+            "title": "Visualizzazione e opzioni"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/info-point/",
+            "text": "Punti Informativi\n\n\nAggiungi punti sensibili e pop-up informativi su qualunque contenuto multimediale (immagini, pdf, documenti). Visualizza descrizioni, foto e video per creare approfondimenti o sistemi di wayfinding.\n\n\nVisualizzazione e opzioni\n\n\n\n\nNella parte sinistra vine visualizzata l'immagine e la posizione dei punti informativi sopra di essa.\n\n\nDopo aver selezionato un POI (punto informativo), tenendo premuto CTRL e trascinandolo \u00e8 possibile cambiare la sua posizione all'interno dell'immagine.\n\n\nNella parte destra \u00e8 possibile:\n\n\n\n\nAggiungere o eliminare\n punti informativi.\n\n\nModificare icona\n del punto informativo selezionato.\n\n\nModificare posizione ancora\n dell'icona del punto informativo.\n\n\nTitolo\n \u00e8 il titolo che viene dato alla finestra quando il punto informativo viene selezionato.\n\n\nDescrizione\n viene visualizzata una descrizione all'interno della finestra del punto informativo quando viene aperto.\n\n\nVideo e/o Immagini\n \u00e8 possibile associare dei video e delle immagini al punto informativo.\n\n\nApri al centro\n il punto informativo viene aperto al centro dello schermo e non accanto al punto informativo.\n\n\nBarra inferiore\n abilita o disabilita la barra inferiore nel caso venga riprodotto un video.\n\n\n\n\nE' inoltre possibile scorrere i video e le immagine associate al punto informativo con i comandi da tastiera freccia a sinistra e freccia a destra.\n\n\nSe si volesse aprire pi\u00f9 punti informativi contemporaneamente, bisogna abilitare \nApertura multipla punti informativi:\n nelle impostazioni dell'archivio . \nVedi Impostazioni",
+            "title": "Info Points"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/info-point/#punti-informativi",
+            "text": "Aggiungi punti sensibili e pop-up informativi su qualunque contenuto multimediale (immagini, pdf, documenti). Visualizza descrizioni, foto e video per creare approfondimenti o sistemi di wayfinding.",
+            "title": "Punti Informativi"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/info-point/#visualizzazione-e-opzioni",
+            "text": "Nella parte sinistra vine visualizzata l'immagine e la posizione dei punti informativi sopra di essa.  Dopo aver selezionato un POI (punto informativo), tenendo premuto CTRL e trascinandolo \u00e8 possibile cambiare la sua posizione all'interno dell'immagine.  Nella parte destra \u00e8 possibile:   Aggiungere o eliminare  punti informativi.  Modificare icona  del punto informativo selezionato.  Modificare posizione ancora  dell'icona del punto informativo.  Titolo  \u00e8 il titolo che viene dato alla finestra quando il punto informativo viene selezionato.  Descrizione  viene visualizzata una descrizione all'interno della finestra del punto informativo quando viene aperto.  Video e/o Immagini  \u00e8 possibile associare dei video e delle immagini al punto informativo.  Apri al centro  il punto informativo viene aperto al centro dello schermo e non accanto al punto informativo.  Barra inferiore  abilita o disabilita la barra inferiore nel caso venga riprodotto un video.   E' inoltre possibile scorrere i video e le immagine associate al punto informativo con i comandi da tastiera freccia a sinistra e freccia a destra.  Se si volesse aprire pi\u00f9 punti informativi contemporaneamente, bisogna abilitare  Apertura multipla punti informativi:  nelle impostazioni dell'archivio .  Vedi Impostazioni",
+            "title": "Visualizzazione e opzioni"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/search/",
+            "text": "Ricerca\n\n\n\n\nAbilitando la ricerca dalle impostazioni generali del Touchviewer ( \nVedi Impostazioni\n ) \u00e8 possibile ricercare singoli file all'interno dell'archivio.\n\n\nSulla barra di navigazione verr\u00e0 mostrata l'icona che cliccandola aprir\u00e0 un campo di ricerca.\n\n\nUna volta ricercato il file, verranno mostrati i risultati e selezionando il contenuto desiderato questo si aprir\u00e0 direttamente nella pagina corrente.",
+            "title": "Ricerca"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/search/#ricerca",
+            "text": "Abilitando la ricerca dalle impostazioni generali del Touchviewer (  Vedi Impostazioni  ) \u00e8 possibile ricercare singoli file all'interno dell'archivio.  Sulla barra di navigazione verr\u00e0 mostrata l'icona che cliccandola aprir\u00e0 un campo di ricerca.  Una volta ricercato il file, verranno mostrati i risultati e selezionando il contenuto desiderato questo si aprir\u00e0 direttamente nella pagina corrente.",
+            "title": "Ricerca"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/network-sync/",
+            "text": "Sincronizzazione\n\n\n\n\nTouchviewer \u00e8 gestibile sia in locale che in remoto. \u00c8 progettato per distribuire contenuti su un network di postazioni interattive installate in location differenti. Tutti i client Touchviewer possono essere configurati per inviare o ricevere aggiornamenti in maniera manuale o pianificata. L'intera architettura \u00e8 basata su un sistema di sincronizzazione estremamente performante che garantisce velocit\u00e0 e affidabilit\u00e0 in tutte le operazioni di aggiornamento con e verso il server remoto.\n\n\nConfigurazione pubblicazione\n\n\n\n\nDa qui \u00e8 possibile scegliere la destinazione per la pubblicazione dei contenuti. La destinazione pu\u00f2 essere una cartella del PC, una cartella di rete mappata o il servizio di cloud storage Dropbox.\n\n\nEscludendo le miniature (consigliato per archivi con molti contenuti) si velocizza il processo di publiccazione. Le miniature verranno ricreate al momento della sincronizzazione sul dispositivo che scarica gli aggiornamenti.\n\n\nNel caso si scelga il servizio cloud \nDROPBOX\n bisogna inserire tutti di dati dell'account per l'autenticazione al servizio.\n\n\nConfigurazione aggiornamento\n\n\n\n\nDefinire la sorgente da cui scaricare gli aggiornamenti. La sorgente pu\u00f2 essere una cartella del PC, una cartella di rete o Dropbox.\n\n\nAttenzione\n gli aggiornamenti verranno scaricati nell'archivio attualmente aperto.\n\n\n\n\nUna volta selezionata la sorgente da cui scaricare gli aggiornamenti \u00e8 possibile impostare la modalit\u00e0 di sincronizzazione:\n\n\n\n\nAggiorna i contenuti all'avvio del software\n  Ad ogni avvio di Touchviewer la procedura esegue un controllo di aggiornamenti disponibili ed esegue il downloadqualora siano presenti nuovi contenuti o contenuti modificati nell cartella sorgente. Spuntando \nChiedi conferma prima di aggiornare\n verr\u00e0 mostrata una notifica in cui verr\u00e0 chiesto se si vuole aggiornare l'archivio. In caso di risposta negativa l'aggiornamento verr\u00e0 richiesto al prossimo avvio del Touchviewer.\n\n\nNon aggiornare automaticamente\n Richiede l'azione manuale di aggiornamento mediante il pulsante \nAggiorna\n.",
+            "title": "Sincronizzazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/network-sync/#sincronizzazione",
+            "text": "Touchviewer \u00e8 gestibile sia in locale che in remoto. \u00c8 progettato per distribuire contenuti su un network di postazioni interattive installate in location differenti. Tutti i client Touchviewer possono essere configurati per inviare o ricevere aggiornamenti in maniera manuale o pianificata. L'intera architettura \u00e8 basata su un sistema di sincronizzazione estremamente performante che garantisce velocit\u00e0 e affidabilit\u00e0 in tutte le operazioni di aggiornamento con e verso il server remoto.",
+            "title": "Sincronizzazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/network-sync/#configurazione-pubblicazione",
+            "text": "Da qui \u00e8 possibile scegliere la destinazione per la pubblicazione dei contenuti. La destinazione pu\u00f2 essere una cartella del PC, una cartella di rete mappata o il servizio di cloud storage Dropbox.  Escludendo le miniature (consigliato per archivi con molti contenuti) si velocizza il processo di publiccazione. Le miniature verranno ricreate al momento della sincronizzazione sul dispositivo che scarica gli aggiornamenti.  Nel caso si scelga il servizio cloud  DROPBOX  bisogna inserire tutti di dati dell'account per l'autenticazione al servizio.",
+            "title": "Configurazione pubblicazione"
+        },
+        {
+            "location": "/it/3.1/media-manager/features/network-sync/#configurazione-aggiornamento",
+            "text": "Definire la sorgente da cui scaricare gli aggiornamenti. La sorgente pu\u00f2 essere una cartella del PC, una cartella di rete o Dropbox.  Attenzione  gli aggiornamenti verranno scaricati nell'archivio attualmente aperto.   Una volta selezionata la sorgente da cui scaricare gli aggiornamenti \u00e8 possibile impostare la modalit\u00e0 di sincronizzazione:   Aggiorna i contenuti all'avvio del software   Ad ogni avvio di Touchviewer la procedura esegue un controllo di aggiornamenti disponibili ed esegue il downloadqualora siano presenti nuovi contenuti o contenuti modificati nell cartella sorgente. Spuntando  Chiedi conferma prima di aggiornare  verr\u00e0 mostrata una notifica in cui verr\u00e0 chiesto se si vuole aggiornare l'archivio. In caso di risposta negativa l'aggiornamento verr\u00e0 richiesto al prossimo avvio del Touchviewer.  Non aggiornare automaticamente  Richiede l'azione manuale di aggiornamento mediante il pulsante  Aggiorna .",
+            "title": "Configurazione aggiornamento"
+        },
+        {
             "location": "/it/2.17/whats-new/",
             "text": "Pacchetto codec video K-Lite aggiornato alla versione 13.5.0\n\n\nGestione dei Bookmarks nel Browser\n\n\nCompatibilit\u00e0 del browser per la creazione di documenti online con Google Documents e Office 365\n\n\nSistema di sincronizzazione dei contenuti con Dropbox",
             "title": "Whats New"
