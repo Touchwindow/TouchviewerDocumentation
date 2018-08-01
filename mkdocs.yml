@@ -6,7 +6,7 @@ site_url: 'http://support-test.touchviewer.net/'
 
 
 # Copyright
-copyright: 'Copyright &copy; 2017 01 Project s.r.l.'
+copyright: 'Copyright &copy; 2018 01 Project s.r.l.'
 
 # Documentation and theme
 theme: 'material'
@@ -27,6 +27,44 @@ markdown_extensions:
 pages:
   - Welcome: index.md
   - Italiano:
+    - 3.1:
+        - Whats New: it/3.1/whats-new.md
+        - Overview: it/3.1/overview.md
+        - Requisiti: it/3.1/requirements.md
+        - Installazione: it/3.1/installation.md
+        - Primo avvio: it/3.1/first-boot.md
+        - Workspace: it/3.1/media-manager/workspace.md
+        - Impostazioni: it/3.1/media-manager/settings.md
+        - Contenuti:
+          - Elenco Contenuti: it/3.1/media-manager/content-directory.md
+          - Opzioni Cartella: it/3.1/media-manager/folder-option.md
+          - Opzioni Contenuto: it/3.1/media-manager/content-option.md
+          - Proprietà cartelle: it/3.1/media-manager/folder-properties.md
+          - Proprietà contenuti: it/3.1/media-manager/content-properties.md
+        - Theme Manager:
+          - Panoramica: it/3.1/media-manager/themes/overview.md
+          - Tema moduli: it/3.1/media-manager/themes/theme-module.md
+          - Tema elementi: it/3.1/media-manager/themes/theme-element.md
+          - Tema barra navigazione: it/3.1/media-manager/themes/theme-navigationbar.md
+          - Tema barra anteprime: it/3.1/media-manager/themes/theme-previewbar.md
+          - Tema del visualizzatore: it/3.1/media-manager/themes/theme-viewer.md
+          - Tema popup strumenti: it/3.1/media-manager/themes/theme-toolspopup.md
+        - Aggiungi Contenuti:
+          - Panoramica : it/3.1/media-manager/contents/overview.md
+          - Immagini : it/3.1/media-manager/contents/image.md
+          - Video : it/3.1/media-manager/contents/video.md
+          - PDF/Docs : it/3.1/media-manager/contents/pdf.md
+          - Lista Immagini : it/3.1/media-manager/contents/image-list.md
+          - Lista Video : it/3.1/media-manager/contents/video-list.md
+          - Web Browser : it/3.1/media-manager/contents/web-browser.md
+          - Ingresso Video : it/3.1/media-manager/contents/video-input.md
+          - Streaming Video : it/3.1/media-manager/contents/video-streaming.md
+        - Features:
+          - Draw-On: it/3.1/media-manager/features/draw-on.md
+          - Commenti: it/3.1/media-manager/features/comments.md
+          - Info Points: it/3.1/media-manager/features/info-point.md
+          - Ricerca: it/3.1/media-manager/features/search.md
+          - Sincronizzazione: it/3.1/media-manager/features/network-sync.md
     - 2.17:
       - Whats New: it/2.17/whats-new.md
       - Overview: it/2.17/overview.md

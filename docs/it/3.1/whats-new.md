@@ -1,0 +1,6 @@
+- Aggiornamento alla versione 65 di Chromium del browser interno
+- Ampliata la tipologia di mappe, quelle ora disponibili sono: Google Maps, ArcGIS, OpenStreetMap e Bing.
+- Condivisione dei contnuti preferiti
+- Inserità funzionalità Snapshot per creare istantanee delle pagine web, immagini e documenti.
+- Floating Menu e gesture Circle
+- Zooming User Interface
