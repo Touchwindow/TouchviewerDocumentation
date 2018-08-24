@@ -24,7 +24,7 @@ Facendo click col tasto destro del mouse sulle cartelle o sui contenuti si aprir
 1. Si accede alla Opzioni della cartella. [Vai alla sezione __Opzioni Cartella__](/it/2.17/media-manager/folder-option.md)
 1. Aggiunge un contenuto alla cartella. [Vai alla sezione __Aggiungi Contenuti__](/it/2.17/media-manager/contents/overview.md)
 1. Crea una sottocartella
-1. Nasconde la cartella corrente e noin viene mostrata nel Media Presenter
+1. Nasconde la cartella corrente e non viene mostrata nel Media Presenter
 1. Si può collegare questa cartella ad un altra. L'effetto è che nel Media Presenter cliccando questa sezione verranno visualizzati i contenuti della cartella linkata.
 
 
