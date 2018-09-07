@@ -71,31 +71,6 @@
             "title": "INSTALLAZIONE"
         },
         {
-            "location": "/it/3.1/first-boot/",
-            "text": "PRIMO AVVIO\n\n\nAprire il software\n\n\nPer avviare Touchviewer\u00ae \u00e8 possibile cliccare sull'icona presente sul desktop. Al primo avvio si presenter\u00e0 con la scritta \nDEMO VERSION\n.\n\n\n\n\nPremendo \nF12\n sulla tastiera si potra passare al \nMedia Manager\n.\n\n\nInseriremento credenziali\n\n\nSe in fase di installazione si \u00e8 scelto di proteggere il \nMedia Manager\n con autenticazione, verr\u00e0 chiesto di impostare uno \nUSERNAME\n e una \nPASSWORD\n le quali verranno richieste ogni volta si voglia accedere al \nMedia Manager\n.\n\n\n\n\nAttivazione della licenza\n\n\n\n\n\n\n\n\n\nCliccare nel menu in alto \nLicenza\n e poi su \nAttiva licenza\n\n\n\n\n\n\n\n\nInserire il codice della licenza acquistata e cliccare \nAttiva licenza\n.\n\n\n\n\n\n\n\nIn caso di buon esito comparir\u00e0 la tipologia di licenza attivata (LITE o FULL) e scomparir\u00e0 la scritta \nDEMO VERSION\n.\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nPer attivare la licenza \u00e8 necessario che il dispositivo sia collegato a internet.\n\nUna volta attivata la licenza sul dispositivo non \u00e8 pi\u00f9 possibile disattivarla.\n\nPer disattivare la licenza \u00e8 necessario contattare l'assistenza.",
-            "title": "Primo avvio"
-        },
-        {
-            "location": "/it/3.1/first-boot/#primo-avvio",
-            "text": "",
-            "title": "PRIMO AVVIO"
-        },
-        {
-            "location": "/it/3.1/first-boot/#aprire-il-software",
-            "text": "Per avviare Touchviewer\u00ae \u00e8 possibile cliccare sull'icona presente sul desktop. Al primo avvio si presenter\u00e0 con la scritta  DEMO VERSION .   Premendo  F12  sulla tastiera si potra passare al  Media Manager .",
-            "title": "Aprire il software"
-        },
-        {
-            "location": "/it/3.1/first-boot/#inseriremento-credenziali",
-            "text": "Se in fase di installazione si \u00e8 scelto di proteggere il  Media Manager  con autenticazione, verr\u00e0 chiesto di impostare uno  USERNAME  e una  PASSWORD  le quali verranno richieste ogni volta si voglia accedere al  Media Manager .",
-            "title": "Inseriremento credenziali"
-        },
-        {
-            "location": "/it/3.1/first-boot/#attivazione-della-licenza",
-            "text": "Cliccare nel menu in alto  Licenza  e poi su  Attiva licenza     Inserire il codice della licenza acquistata e cliccare  Attiva licenza .    In caso di buon esito comparir\u00e0 la tipologia di licenza attivata (LITE o FULL) e scomparir\u00e0 la scritta  DEMO VERSION .      Note  Per attivare la licenza \u00e8 necessario che il dispositivo sia collegato a internet. \nUna volta attivata la licenza sul dispositivo non \u00e8 pi\u00f9 possibile disattivarla. \nPer disattivare la licenza \u00e8 necessario contattare l'assistenza.",
-            "title": "Attivazione della licenza"
-        },
-        {
             "location": "/it/3.1/media-manager/workspace/",
             "text": "WORKSPACE\n\n\n\n\nL'interfaccia del Media Manager \u00e8 estremamente semplice ed intuitiva e racchiude tutti gli strumenti per la personalizzazione dell'applicazione Touchviewer\u00ae.\n\n\n\n\n\n\nMenu secondari\n\n\n\n\n\n\nTabs per accedere alle sezioni Contenuti / Impostazioni / Sincronizzazione\n\n\n\n\n\n\nArea per la selezione dell'archivio e inserimento cartelle e contenuti\n\n\n\n\n\n\nPannello delle propriet\u00e0 cartelle e contenuti\n\n\n\n\n\n\nAnteprima in tempo reale",
             "title": "Workspace"
