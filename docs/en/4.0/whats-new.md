@@ -1,0 +1,7 @@
+-  Interactive B.Y.O.D.
+- Video input/Streaming video: introduction to DirectShow for content’s rendering;
+- Video input /Streaming video: new touchback function;
+- Screenshot: this function creates snapshots of the whole working space or of a part of it;
+- Snapshot: add options for creating and saving the elements;
+- Floating Menu: add default previews for the folders;
+- WebBrowser: new button for opening/closing the keyboard, it makes interaction with websites easier.

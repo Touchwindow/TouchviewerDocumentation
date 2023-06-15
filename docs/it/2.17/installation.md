@@ -1,5 +1,5 @@
 # INSTALLAZIONE
-<div class="steps">
+
 
 1. __Estrarre il contenuto dell'archivio .zip contenetene il software__
 
@@ -56,4 +56,3 @@
 1. __Premere <span class="text-lightblue">FINE</span>__
 <center>![](/img/installation_17_2.17.png)</center>
 
-</div>

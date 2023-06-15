@@ -1,5 +1,4 @@
 # INSTALLATION
-<div class="steps">
 
 1. __Remove content from the .zip archive containing the software__
 
@@ -59,4 +58,4 @@
 1. __Press <span class="text-lightblue">END</span>__
 <center>![](/img/installation_17.png)</center>
 
-</div>
+

@@ -4,6 +4,9 @@
 [MkDocs](https://www.google.com)<br>
 [Material for MkDocs](http://squidfunk.github.io/mkdocs-material/)
 
+#### Build
+mkdocs build
+
 #### Deploy
 Add "site" folder in .gitignore<br>
 * `git add site -f && git commit -m "init subtree"`<br>

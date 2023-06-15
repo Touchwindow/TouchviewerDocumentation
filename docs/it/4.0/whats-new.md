@@ -1,0 +1,7 @@
+- Interactive B.Y.O.D.
+- Ingresso video/Streaming video: introduzione di DirectShow per il rendering dei contenuti;
+- Ingresso video/Streaming video: aggiunta funzione touchback;
+- Screenshot: funzione per creare istantanee di una porzione oppure l’intero spazio di lavoro;
+- Snapshot: aggiunte opzioni per la creazione ed il salvataggio degli elementi;
+- Floating Menu: aggiunte anteprime predefinite per le cartelle;
+- WebBrowser: aggiunto bottone per aprire/chiudere tastiera, facilità l’interazione con i siti.

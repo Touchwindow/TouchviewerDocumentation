@@ -1,0 +1,6 @@
+- Update to Chronium’s version 65 of the internal browser
+- More map types available: Google Maps, ArcGIS, OpenStreetMap and Bing.
+- Sharing favorite content
+- New Snapshot function for creating snapshots of web pages, images and documents
+- Floating Menu and Circle Gesture
+- Zooming User Interface

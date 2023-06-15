@@ -1,0 +1,3 @@
+- Remote Multitouch
+- Update del web browser alla versione 109 di chromium con WebGL
+- Restyle grafico e ammodernamento del tema con stondature e nuove ombre

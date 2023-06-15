@@ -6,7 +6,7 @@ site_url: 'http://support-test.touchviewer.net/'
 
 
 # Copyright
-copyright: 'Copyright &copy; 2018 01 Project s.r.l.'
+copyright: 'Copyright &copy; 2023 01 Project s.r.l.'
 
 # Documentation and theme
 theme: 'material'
@@ -21,12 +21,51 @@ extra_css:
   - 'stylesheets/extra.css'
 # Extensions
 markdown_extensions:
-  - admonition
-  - toc(permalink=false)
+  - toc:
+      permalink: true
 # Pages
-pages:
+nav:
   - Welcome: index.md
   - Italiano:
+    - 5.0:
+        - Whats New: it/5.0/whats-new.md
+    - 4.0:
+        - Whats New: it/4.0/whats-new.md
+        - Overview: it/4.0/overview.md
+        - Requisiti: it/4.0/requirements.md
+        - Installazione: it/4.0/installation.md
+        - Workspace: it/4.0/media-manager/workspace.md
+        - Impostazioni: it/4.0/media-manager/settings.md
+        - Contenuti:
+          - Elenco Contenuti: it/4.0/media-manager/content-directory.md
+          - Opzioni Cartella: it/4.0/media-manager/folder-option.md
+          - Opzioni Contenuto: it/4.0/media-manager/content-option.md
+          - Proprietà cartelle: it/4.0/media-manager/folder-properties.md
+          - Proprietà contenuti: it/4.0/media-manager/content-properties.md
+        - Theme Manager:
+          - Panoramica: it/4.0/media-manager/themes/overview.md
+          - Tema moduli: it/4.0/media-manager/themes/theme-module.md
+          - Tema elementi: it/4.0/media-manager/themes/theme-element.md
+          - Tema barra navigazione: it/4.0/media-manager/themes/theme-navigationbar.md
+          - Tema barra anteprime: it/4.0/media-manager/themes/theme-previewbar.md
+          - Tema del visualizzatore: it/4.0/media-manager/themes/theme-viewer.md
+          - Tema popup strumenti: it/4.0/media-manager/themes/theme-toolspopup.md
+        - Aggiungi Contenuti:
+          - Panoramica : it/4.0/media-manager/contents/overview.md
+          - Immagini : it/4.0/media-manager/contents/image.md
+          - Video : it/4.0/media-manager/contents/video.md
+          - PDF/Docs : it/4.0/media-manager/contents/pdf.md
+          - Lista Immagini : it/4.0/media-manager/contents/image-list.md
+          - Lista Video : it/4.0/media-manager/contents/video-list.md
+          - Web Browser : it/4.0/media-manager/contents/web-browser.md
+          - Ingresso Video : it/4.0/media-manager/contents/video-input.md
+          - Streaming Video : it/4.0/media-manager/contents/video-streaming.md
+        - Features:
+          - Draw-On: it/4.0/media-manager/features/draw-on.md
+          - Commenti: it/4.0/media-manager/features/comments.md
+          - Info Points: it/4.0/media-manager/features/info-point.md
+          - Ricerca: it/4.0/media-manager/features/search.md
+          - Sincronizzazione: it/4.0/media-manager/features/network-sync.md
     - 3.1:
         - Whats New: it/3.1/whats-new.md
         - Overview: it/3.1/overview.md
@@ -44,7 +83,7 @@ pages:
           - Panoramica: it/3.1/media-manager/themes/overview.md
           - Tema moduli: it/3.1/media-manager/themes/theme-module.md
           - Tema elementi: it/3.1/media-manager/themes/theme-element.md
-          - Tema barra navigazione: it/3.1/media-manager/themes/theme-navigationbar.md
+          - NTema barra navigazione: it/3.1/media-manager/themes/theme-navigationbar.md
           - Tema barra anteprime: it/3.1/media-manager/themes/theme-previewbar.md
           - Tema del visualizzatore: it/3.1/media-manager/themes/theme-viewer.md
           - Tema popup strumenti: it/3.1/media-manager/themes/theme-toolspopup.md
@@ -53,11 +92,11 @@ pages:
           - Immagini : it/3.1/media-manager/contents/image.md
           - Video : it/3.1/media-manager/contents/video.md
           - PDF/Docs : it/3.1/media-manager/contents/pdf.md
-          - Lista Immagini : it/3.1/media-manager/contents/image-list.md
-          - Lista Video : it/3.1/media-manager/contents/video-list.md
+          - Lista immagini : it/3.1/media-manager/contents/image-list.md
+          - Lista video : it/3.1/media-manager/contents/video-list.md
           - Web Browser : it/3.1/media-manager/contents/web-browser.md
-          - Ingresso Video : it/3.1/media-manager/contents/video-input.md
-          - Streaming Video : it/3.1/media-manager/contents/video-streaming.md
+          - Ingresso video : it/3.1/media-manager/contents/video-input.md
+          - Streaming video : it/3.1/media-manager/contents/video-streaming.md
         - Features:
           - Draw-On: it/3.1/media-manager/features/draw-on.md
           - Commenti: it/3.1/media-manager/features/comments.md
@@ -141,6 +180,80 @@ pages:
         - Ricerca: it/2.16/media-manager/features/search.md
         - Sincronizzazione: it/2.16/media-manager/features/network-sync.md
   - English:
+    - 4.0:
+      - Whats New: en/4.0/whats-new.md
+      - Overview: en/4.0/overview.md
+      - Requirements: en/4.0/requirements.md
+      - Installation: en/4.0/installation.md
+      - Workspace: en/4.0/media-manager/workspace.md
+      - Settings: en/4.0/media-manager/settings.md
+      - Contents:
+        - Content List: en/4.0/media-manager/content-directory.md
+        - Folder Options: en/4.0/media-manager/folder-option.md
+        - Content Options: en/4.0/media-manager/content-option.md
+        - Folder Properties: en/4.0/media-manager/folder-properties.md
+        - Content Properties: en/4.0/media-manager/content-properties.md
+      - Theme Manager:
+        - Themes Overview: en/4.0/media-manager/themes/overview.md
+        - Modules Theme: en/4.0/media-manager/themes/theme-module.md
+        - Elements Theme: en/4.0/media-manager/themes/theme-element.md
+        - Navigation Bar Theme: en/4.0/media-manager/themes/theme-navigationbar.md
+        - Preview Bar Theme: en/4.0/media-manager/themes/theme-previewbar.md
+        - Viewer theme: en/4.0/media-manager/themes/theme-viewer.md
+        - Tool Pop-up Theme: en/4.0/media-manager/themes/theme-toolspopup.md
+      - Add Contents:
+        - Overview : en/4.0/media-manager/contents/overview.md
+        - Images : en/4.0/media-manager/contents/image.md
+        - Video : en/4.0/media-manager/contents/video.md
+        - PDF/Docs : en/4.0/media-manager/contents/pdf.md
+        - Image List : en/4.0/media-manager/contents/image-list.md
+        - Video List : en/4.0/media-manager/contents/video-list.md
+        - Web Browser : en/4.0/media-manager/contents/web-browser.md
+        - Video Input : en/4.0/media-manager/contents/video-input.md
+        - Video Streaming : en/4.0/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: en/4.0/media-manager/features/draw-on.md
+        - Comments: en/4.0/media-manager/features/comments.md
+        - Info Points: en/4.0/media-manager/features/info-point.md
+        - Search: en/4.0/media-manager/features/search.md
+        - Synchronisation: en/4.0/media-manager/features/network-sync.md
+    - 3.1:
+        - Whats New: en/3.1/whats-new.md
+        - Overview: en/3.1/overview.md
+        - Requirements: en/3.1/requirements.md
+        - Installation: en/3.1/installation.md
+        - Workspace: en/3.1/media-manager/workspace.md
+        - Settings: en/3.1/media-manager/settings.md
+        - Contents:
+          - Content List: en/3.1/media-manager/content-directory.md
+          - Folder Options: en/3.1/media-manager/folder-option.md
+          - Content Options: en/3.1/media-manager/content-option.md
+          - Folder Properties: en/3.1/media-manager/folder-properties.md
+          - Content Properties: en/3.1/media-manager/content-properties.md
+        - Theme Manager:
+          - Themes Overview: en/3.1/media-manager/themes/overview.md
+          - Modules Theme: en/3.1/media-manager/themes/theme-module.md
+          - Elements Theme: en/3.1/media-manager/themes/theme-element.md
+          - Navigation Bar Theme: en/3.1/media-manager/themes/theme-navigationbar.md
+          - Preview Bar Theme: en/3.1/media-manager/themes/theme-previewbar.md
+          - Viewer theme: en/3.1/media-manager/themes/theme-viewer.md
+          - Tool Pop-up Theme: en/3.1/media-manager/themes/theme-toolspopup.md
+        - Add Contents:
+          - Overview : en/3.1/media-manager/contents/overview.md
+          - Images : en/3.1/media-manager/contents/image.md
+          - Video : en/3.1/media-manager/contents/video.md
+          - PDF/Docs : en/3.1/media-manager/contents/pdf.md
+          - Image List : en/3.1/media-manager/contents/image-list.md
+          - Video List : en/3.1/media-manager/contents/video-list.md
+          - Web Browser : en/3.1/media-manager/contents/web-browser.md
+          - Video Input : en/3.1/media-manager/contents/video-input.md
+          - Video Streaming : en/3.1/media-manager/contents/video-streaming.md
+        - Features:
+          - Draw-On: en/3.1/media-manager/features/draw-on.md
+          - Comments: en/3.1/media-manager/features/comments.md
+          - Info Points: en/3.1/media-manager/features/info-point.md
+          - Search: en/3.1/media-manager/features/search.md
+          - Synchronisation: en/3.1/media-manager/features/network-sync.md
     - 2.17:
       - Whats New: en/2.17/whats-new.md
       - Overview: en/2.17/overview.md
