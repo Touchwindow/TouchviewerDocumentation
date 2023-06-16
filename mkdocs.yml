@@ -213,6 +213,43 @@ nav:
         - Ricerca: it/2.16/media-manager/features/search.md
         - Sincronizzazione: it/2.16/media-manager/features/network-sync.md
   - English:
+    - 5.0:
+      - Whats New: en/5.0/whats-new.md
+      - Overview: en/5.0/overview.md
+      - Requirements: en/5.0/requirements.md
+      - Installation: en/5.0/installation.md
+      - Workspace: en/5.0/media-manager/workspace.md
+      - Settings: en/5.0/media-manager/settings.md
+      - Contents:
+        - Content List: en/5.0/media-manager/content-directory.md
+        - Folder Options: en/5.0/media-manager/folder-option.md
+        - Content Options: en/5.0/media-manager/content-option.md
+        - Folder Properties: en/5.0/media-manager/folder-properties.md
+        - Content Properties: en/5.0/media-manager/content-properties.md
+      - Theme Manager:
+        - Themes Overview: en/5.0/media-manager/themes/overview.md
+        - Modules Theme: en/5.0/media-manager/themes/theme-module.md
+        - Elements Theme: en/5.0/media-manager/themes/theme-element.md
+        - Navigation Bar Theme: en/5.0/media-manager/themes/theme-navigationbar.md
+        - Preview Bar Theme: en/5.0/media-manager/themes/theme-previewbar.md
+        - Viewer theme: en/5.0/media-manager/themes/theme-viewer.md
+        - Tool Pop-up Theme: en/5.0/media-manager/themes/theme-toolspopup.md
+      - Add Contents:
+        - Overview : en/5.0/media-manager/contents/overview.md
+        - Images : en/5.0/media-manager/contents/image.md
+        - Video : en/5.0/media-manager/contents/video.md
+        - PDF/Docs : en/5.0/media-manager/contents/pdf.md
+        - Image List : en/5.0/media-manager/contents/image-list.md
+        - Video List : en/5.0/media-manager/contents/video-list.md
+        - Web Browser : en/5.0/media-manager/contents/web-browser.md
+        - Video Input : en/5.0/media-manager/contents/video-input.md
+        - Video Streaming : en/5.0/media-manager/contents/video-streaming.md
+      - Features:
+        - Draw-On: en/5.0/media-manager/features/draw-on.md
+        - Comments: en/5.0/media-manager/features/comments.md
+        - Info Points: en/5.0/media-manager/features/info-point.md
+        - Search: en/5.0/media-manager/features/search.md
+        - Synchronisation: en/5.0/media-manager/features/network-sync.md
     - 4.0:
       - Whats New: en/4.0/whats-new.md
       - Overview: en/4.0/overview.md

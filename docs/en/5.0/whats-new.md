@@ -1,0 +1,5 @@
+- multitouch support for touchback video and streaming input
+- update chromium v109
+- new default graphic style
+- new CTRL ALT ESC buttons in keyboard
+- updated .Net framework version 4.8
