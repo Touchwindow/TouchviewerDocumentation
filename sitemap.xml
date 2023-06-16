@@ -2,1382 +2,1547 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://support-test.touchviewer.net/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.16/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/2.17/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/ExtApp/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/3.1/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/ExtApp/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/en/4.0/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.16/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/2.17/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/3.1/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/first-boot/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/installation/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/requirements/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/content-directory/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/content-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/content-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/folder-option/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/folder-properties/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/selected-folder/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/settings/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/workspace/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/image-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/image/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/pdf/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/video-input/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/video-list/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/video-streaming/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/video/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/contents/web-browser/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/features/comments/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/features/draw-on/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/features/info-point/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/features/network-sync/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/features/search/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/overview/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/theme-element/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/theme-module/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/theme-navigationbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/theme-previewbar/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/theme-toolspopup/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/4.0/media-manager/themes/theme-viewer/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/first-boot/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/installation/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/overview/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/requirements/</loc>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://support-test.touchviewer.net/it/5.0/whats-new/</loc>
-         <lastmod>2023-06-15</lastmod>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/content-directory/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/content-option/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/content-properties/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/folder-option/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/folder-properties/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/selected-folder/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/settings/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/workspace/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/image-list/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/image/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/overview/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/pdf/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/video-input/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/video-list/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/video-streaming/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/video/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/contents/web-browser/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/features/comments/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/features/draw-on/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/features/info-point/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/features/network-sync/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/features/search/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/overview/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/theme-element/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/theme-module/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/theme-navigationbar/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/theme-previewbar/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/theme-toolspopup/</loc>
+         <lastmod>2023-06-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://support-test.touchviewer.net/it/5.0/media-manager/themes/theme-viewer/</loc>
+         <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
