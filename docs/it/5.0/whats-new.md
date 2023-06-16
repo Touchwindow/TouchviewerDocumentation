@@ -1,4 +1,5 @@
-- Remote Multitouch
-- Update del web browser alla versione 109 di chromium con WebGL
-- Restyle grafico e ammodernamento del tema con stondature e nuove ombre
-- test
+- supporto multitouch per touchback ingresso video e streaming
+- update chromium v109
+- nuovo stile grafico di default
+- pulsanti di controllo CTRL ALT ESC tastiera per touchback
+- aggiornamento versione .Net alla 4.8
